@@ -1,3 +1,60 @@
 user,assistant,contexto
 O que a ScriptAI faz?,"Oferecemos automação com IA, integração com CRMs e atendimento via WhatsApp.",FAQ Geral
 Vocês atendem Portugal?,Sim! Nossas soluções são adaptadas ao mercado português.,Localização
+user,assistant,contexto
+O que é a Scriptai?,"A Scriptai oferece soluções em IA (Neuronex), CRM (Bitrix24), energia solar, desenvolvimento de sites e gestão de mídias sociais, integrando automação e tecnologia para resultados eficientes.",FAQ Geral
+Quais são os serviços principais?,"Nossos principais serviços são: 1) Neuronex (IA e automação), 2) Bitrix24 (CRM), 3) Soluções Energéticas, 4) Desenvolvimento de Sites e 5) Gestão de Mídias Sociais.",FAQ Geral
+Como a Neuronex usa IA?,"A Neuronex aplica IA para automação de tarefas repetitivas, análise de dados em tempo real e integração com sistemas como o Bitrix24.",Produtos e Serviços
+O Bitrix24 tem suporte para e-mail marketing?,"Sim! O Bitrix24 inclui automação de e-mails, follow-ups e relatórios de desempenho de campanhas.",Produtos e Serviços
+Vocês instalam painéis solares?,"Sim, realizamos projetos completos de energia solar, desde consultoria até instalação e monitoramento de ROI.",Soluções Energéticas
+Quanto custa um site na Scriptai?,"O valor varia conforme o projeto. Posso te conectar com nossa equipe para um orçamento personalizado! (Encaminha lead)",Orçamentos
+Como é o processo de atendimento?,"1) Identificamos seu interesse, 2) Coletamos dados (nome, e-mail, telefone), 3) Encaminhamos para o time especializado.",Fluxo de Atendimento
+{"messages": [
+  { "role": "user", "content": "Explique detalhadamente como a Neuronex integra com o Bitrix24." },
+  { "role": "assistant", "content": "A integração entre Neuronex e Bitrix24 ocorre em 3 níveis:" },
+  { "role": "assistant", "content": "1) **Dados**: A IA da Neuronex analisa leads e oportunidades no CRM, identificando padrões para priorizar contatos." },
+  { "role": "assistant", "content": "2) **Automação**: Tarefas como follow-ups e atualizações de status são automatizadas com base em regras personalizadas." },
+  { "role": "assistant", "content": "3) **Relatórios**: A Neuronex gera insights preditivos (ex.: probabilidade de conversão) diretamente no painel do Bitrix24." }
+]},Integração de Sistemas
+{"messages": [
+  { "role": "user", "content": "Quais métricas a Scriptai monitora em mídias sociais?" },
+  { "role": "assistant", "content": "Monitoramos 4 categorias principais:" },
+  { "role": "assistant", "content": "1) **Engajamento**: Curtidas, comentários, shares e taxa de cliques (CTR)." },
+  { "role": "assistant", "content": "2) **Conversão**: Leads gerados por campanhas e ROI de anúncios." },
+  { "role": "assistant", "content": "3) **Crescimento**: Aumento de seguidores e tráfego para o site." },
+  { "role": "assistant", "content": "4) **Desempenho**: Horários ideais para postar e tipos de conteúdo com melhor performance." }
+]},Métricas de Mídia Social
+Posso falar com um humano?,"Claro! Se precisar, posso te transferir para um atendente. Me diga o assunto para direcionar corretamente.",Fluxo de Atendimento
+Como cadastro um lead no sistema?,"Basta me informar: 1) Nome completo, 2) E-mail, 3) Telefone, 4) Tipo (empresa/residencial) e 5) Serviço de interesse.",Fluxo de Atendimento
+O atendimento é 24 horas?,"Sim! Estamos disponíveis via WhatsApp, Telegram e Chatbot no site a qualquer momento.",Suporte Multicanal
+Qual o tempo de resposta?,"Respostas automáticas são imediatas. Para demandas complexas, nossa equipe humana responde em até 2h úteis.",Fluxo de Atendimento
+{"messages": [
+  { "role": "user", "content": "Descreva o passo a passo para um projeto de energia solar." },
+  { "role": "assistant", "content": "Passo 1: **Análise inicial** – Avaliamos consumo energético e viabilidade técnica." },
+  { "role": "assistant", "content": "Passo 2: **Projeto personalizado** – Definimos sistema (painéis, inversores) e documentação legal." },
+  { "role": "assistant", "content": "Passo 3: **Instalação** – Nossa equipe certificada realiza a montagem em 2-5 dias." },
+  { "role": "assistant", "content": "Passo 4: **Monitoramento** – Acompanhamos geração de energia e ROI via plataforma exclusiva." }
+]},Soluções Energéticas
+Quais redes sociais vocês gerenciam?,"Facebook, Instagram, LinkedIn, TikTok e Twitter (X), com foco em conteúdo visual e campanhas pagas.",Mídias Sociais
+Vocês fazem sites em WordPress?,"Sim! Desenvolvemos em WordPress, Shopify (e-commerces) e soluções customizadas em HTML/CSS.",Desenvolvimento de Sites
+Como funciona o follow-up de leads?,"No Bitrix24, automatizamos mensagens de acompanhamento por e-mail ou WhatsApp após 24h, 7d e 30d sem resposta.",CRM
+Preciso de um chatbot para meu site. Vocês fazem?,"Sim! Criamos chatbots com IA para atendimento 24/7, integrados ao seu CRM e com respostas personalizadas.",Neuronex
+{"messages": [
+  { "role": "user", "content": "Quais vantagens o Bitrix24 tem sobre outros CRMs?" },
+  { "role": "assistant", "content": "1) **Tudo em um**: Combina CRM, tarefas, chat interno e e-mail marketing em uma plataforma." },
+  { "role": "assistant", "content": "2) **Custo-benefício**: Planos acessíveis com até 12 usuários gratuitos." },
+  { "role": "assistant", "content": "3) **Personalização**: Fluxos de trabalho adaptáveis a qualquer negócio." },
+  { "role": "assistant", "content": "4) **Integrações**: Compatível com Neuronex, Google Workspace, PayPal e mais de 100 apps." }
+]},Bitrix24
+{"messages": [
+  { "role": "user", "content": "Como a Scriptai otimiza o uso de tokens da OpenAI?" },
+  { "role": "assistant", "content": "1) **Respostas curtas**: Evitamos textos longos desnecessários." },
+  { "role": "assistant", "content": "2) **Armazenamento local**: FAQs e dados estáticos ficam fora do modelo da OpenAI." },
+  { "role": "assistant", "content": "3) **Links externos**: Para detalhes complexos, direcionamos a documentos ou tutoriais." }
+]},Gestão de Tokens
+{"messages": [
+  { "role": "user", "content": "Quais relatórios o Bitrix24 gera para vendas?" },
+  { "role": "assistant", "content": "1) **Funil de vendas**: Conversão por etapa (lead → oportunidade → fechamento)." },
+  { "role": "assistant", "content": "2) **Desempenho de vendedores**: Metas individuais e tempo médio por negócio." },
+  { "role": "assistant", "content": "3) **Previsão de receita**: Projeções baseadas em pipelines ativos." }
+]},Bitrix24
