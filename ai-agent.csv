@@ -23,6 +23,10 @@ Quais vantagens o Bitrix24 tem sobre outros CRMs? ;[ 1) **Tudo em um**: Combina 
 Como a Scriptai otimiza o uso de tokens da OpenAI? ;[ 1) **Respostas curtas**: Evitamos textos longos desnecessários.  ,  2) **Armazenamento local**: FAQs e dados estáticos ficam fora do modelo da OpenAI.  ,  3) **Links externos**: Para detalhes complexos, direcionamos a documentos ou tutoriais.  ];Gestão de Tokens
 Quais relatórios o Bitrix24 gera para vendas? ;[ 1) **Funil de vendas**: Conversão por etapa (lead → oportunidade → fechamento).  ,  2) **Desempenho de vendedores**: Metas individuais e tempo médio por negócio.  ,  3) **Previsão de receita**: Projeções baseadas em pipelines ativos.  ];Bitrix24
 Olá;Olá! 😊 Sou a Nilce Domingos, Agente de Atendimento da Scriptai. Como posso auxiliá-lo hoje?;Saudação
+Oi;Olá! 😊 Sou a Nilce Domingos, Agente de Atendimento da Scriptai. Como posso auxiliá-lo hoje?;Saudação
+Boa tarde;Olá! Como posso ajudar?;Saudação
+Boa noite;Olá! Como posso ajudar?;Saudação
+Bom dia;Olá! Como posso ajudar?;Saudação
 Gostaria de saber sobre energia solar;Claro, ficarei feliz em fornecer informações sobre as nossas Soluções Energéticas! 😊 Para que eu possa ajudá-lo melhor, poderia compartilhar algumas informações? É rápido e simples! Qual é o seu nome completo?;Soluções Energéticas
 João Silva;Obrigada, João! 😊 E o seu número de telemóvel, por favor?;Captura de Dados
 912345678;Perfeito! E o seu e-mail?;Captura de Dados
@@ -41,7 +45,7 @@ Não respondem há dias;Peço sinceras desculpas por essa situação! 😔 Isso 
  Pedro Costa, empresa ;Obrigada, Pedro! E o seu número de telemóvel para que a equipa possa contactá-lo diretamente?;Captura de Dados
 Empresarial;Perfeito! E qual dos nossos produtos ou serviços mais lhe interessa? Temos Agentes de IA, Soluções Energéticas, Desenvolvimento de Sites ou Administração de Mídias Sociais?;Qualificação de Lead
 Agentes de IA;Excelente escolha! Os nossos Agentes de IA Neuronex são ideais para empresas! 😊 Vou encaminhar o seu pedido à nossa equipa especializada, que entrará em contacto consigo em breve para apresentar todas as possibilidades. Obrigada pelas informações!;Encaminhamento
-Boa tarde;Boa tarde! 😊 Sou a Nilce Domingos, da Scriptai, e estou aqui para ajudar. Como posso auxiliá-lo hoje?;Saudação
+Boa tarde;Olá! Como posso ajudar?;Saudação
 O que fazem na Scriptai?;Na Scriptai oferecemos quatro principais soluções: Agentes de IA (Neuronex), Soluções Energéticas, Desenvolvimento de Sites e Administração de Mídias Sociais! 😊 Qual destes serviços mais lhe interessa? Assim posso ajudá-lo melhor!;FAQ Geral
  Obrigado, até logo ;De nada! 😊 Foi um prazer ajudar. Fique à vontade para me contactar sempre que precisar de mais informações sobre os nossos serviços. Tenha um excelente dia!;Despedida
  Olá, quero saber mais sobre energia solar. ;Olá! 😊 Sou a Nilce Domingos, da ScriptAI. Com certeza! Será para uso residencial ou empresarial?;Qualificação Lead - Energia
@@ -79,7 +83,7 @@ O que fazem na Scriptai?;Na Scriptai oferecemos quatro principais soluções: Ag
  Quero só energia, obrigada. ;Entendido! Nosso especialista em soluções energéticas entrará em contato exclusivamente sobre isso.;Segmentação
  Meu colega já é cliente. ;Ótimo! Temos programa de indicação com benefícios. Posso vincular seu cadastro?;Fidelização
  Qual o prazo para sites? ;Em média 15 dias úteis. Precisa de alguma data específica?;FAQ - Prazos
- Como é o pós-venda? ;Oferecemos suporte dedicado e revisões trimestrais gratuitas. Quer agendar a primeira?;Pós-Venda
+ Como é o pós-venda? ;Oferecemos suporte dedicado e revisões trimesais gratuitas. Quer agendar a primeira?;Pós-Venda
  Vocês fazem manutenção? ;Sim! Temos planos anuais com visitas técnicas programadas. Interessa?;Venda - Serviços
  Preciso de SEO no site. ;Incluímos otimização básica em todos projetos. Quer upgrade para SEO avançado?;Upsell
  Tem referências de clientes? ;Claro! Posso enviar cases do seu setor (saúde, educação, etc.). Qual seu ramo?;Prova Social
@@ -304,3 +308,10 @@ Aceitam pagamento por MBWay?;Sim, aceitamos MBWay, transferência e cartão.;Pag
 Tem caso de sucesso em restaurantes?;Sim, um cliente teve 45% mais movimento e 200 reservas/mês via Instagram.;Casos
 Como aumentar seguidores orgânicos?;Com conteúdo relevante, interação constante e estratégias de growth.;Crescimento
 Posso cancelar a qualquer momento?;Após os 6 meses iniciais, sem multa.;Contratos
+Quero falar com um atendente;Sem problemas! Vou transferir você para um atendente humano. Por favor, informe o motivo do contato para agilizar o atendimento.;Escalonamento
+Preciso falar com um responsável;Claro! Encaminharei sua solicitação para um responsável. Poderia informar o assunto para direcionarmos corretamente?;Escalonamento
+Posso falar com alguém da equipa?;Sim! Um membro da nossa equipa entrará em contato em breve. Qual o melhor canal para retorno?;Escalonamento
+Quero atendimento humano;Entendido! Vou transferir sua conversa para um atendente humano. Aguarde um momento, por favor.;Escalonamento
+Tem alguém aí de verdade?;Sim! Caso prefira atendimento humano, posso transferir agora mesmo. Deseja prosseguir?;Escalonamento
+Quero falar com o gerente;Certo! Encaminharei sua solicitação ao gerente responsável. Por favor, informe o motivo do contato.;Escalonamento
+Quero falar com um consultor;Combinado! Um consultor especializado irá te atender em instantes. Pode detalhar sua necessidade?;Escalonamento
