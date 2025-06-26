@@ -8,20 +8,20 @@ O Bitrix24 tem suporte para e-mail marketing?;Sim! O Bitrix24 inclui automação
 Vocês instalam painéis solares?;Sim, realizamos projetos completos de energia solar, desde consultoria até instalação e monitoramento de ROI.;Soluções Energéticas
 Quanto custa um site na Scriptai?;O valor varia conforme o projeto. Posso te conectar com nossa equipe para um orçamento personalizado! (Encaminha lead);Orçamentos
 Como é o processo de atendimento?;1) Identificamos seu interesse, 2) Coletamos dados (nome, e-mail, telefone), 3) Encaminhamos para o time especializado.;Fluxo de Atendimento
-Explique detalhadamente como a Neuronex integra com o Bitrix24?;["A integração entre Neuronex e Bitrix24 ocorre em 3 níveis:", "1) **Dados**: A IA da Neuronex analisa leads e oportunidades no CRM, identificando padrões para priorizar contatos." , "2) **Automação**: Tarefas como follow-ups e atualizações de status são automatizadas com base em regras personalizadas." , "3) **Relatórios**: A Neuronex gera insights preditivos (ex.: probabilidade de conversão) diretamente no painel do Bitrix24."];Integração de Sistemas
-Quais métricas a Scriptai monitora em mídias sociais?;["Monitoramos 4 categorias principais:", "1) **Engajamento**: Curtidas, comentários, shares e taxa de cliques (CTR)." , "2) **Conversão**: Leads gerados por campanhas e ROI de anúncios.", "3) **Crescimento**: Aumento de seguidores e tráfego para o site.", "4) **Desempenho**: Horários ideais para postar e tipos de conteúdo com melhor performance."];Métricas de Mídia Social
+Explique detalhadamente como a Neuronex integra com o Bitrix24?;[ A integração entre Neuronex e Bitrix24 ocorre em 3 níveis: ,  1) **Dados**: A IA da Neuronex analisa leads e oportunidades no CRM, identificando padrões para priorizar contatos.  ,  2) **Automação**: Tarefas como follow-ups e atualizações de status são automatizadas com base em regras personalizadas.  ,  3) **Relatórios**: A Neuronex gera insights preditivos (ex.: probabilidade de conversão) diretamente no painel do Bitrix24. ];Integração de Sistemas
+Quais métricas a Scriptai monitora em mídias sociais?;[ Monitoramos 4 categorias principais: ,  1) **Engajamento**: Curtidas, comentários, shares e taxa de cliques (CTR).  ,  2) **Conversão**: Leads gerados por campanhas e ROI de anúncios. ,  3) **Crescimento**: Aumento de seguidores e tráfego para o site. ,  4) **Desempenho**: Horários ideais para postar e tipos de conteúdo com melhor performance. ];Métricas de Mídia Social
 Posso falar com um humano?;Claro! Se precisar, posso te transferir para um atendente. Me diga o assunto para direcionar corretamente.;Fluxo de Atendimento
 Como cadastro um lead no sistema?;Basta me informar: 1) Nome completo, 2) E-mail, 3) Telefone, 4) Tipo (empresa/residencial) e 5) Serviço de interesse.;Fluxo de Atendimento
 O atendimento é 24 horas?;Sim! Estamos disponíveis via WhatsApp, Telegram e Chatbot no site a qualquer momento.;Suporte Multicanal
 Qual o tempo de resposta?;Respostas automáticas são imediatas. Para demandas complexas, nossa equipe humana responde em até 2h úteis.;Fluxo de Atendimento
-Descreva o passo a passo para um projeto de energia solar."; ["Passo 1: **Análise inicial** = Avaliamos consumo energético e viabilidade técnica." , "Passo 2: **Projeto personalizado** = Definimos sistema (painéis, inversores) e documentação legal." , "Passo 3: **Instalação** = Nossa equipe certificada realiza a montagem em 2-5 dias." , "Passo 4: **Monitoramento** = Acompanhamos geração de energia e ROI via plataforma exclusiva." ];Soluções Energéticas
+Descreva o passo a passo para um projeto de energia solar. ; [ Passo 1: **Análise inicial** = Avaliamos consumo energético e viabilidade técnica.  ,  Passo 2: **Projeto personalizado** = Definimos sistema (painéis, inversores) e documentação legal.  ,  Passo 3: **Instalação** = Nossa equipe certificada realiza a montagem em 2-5 dias.  ,  Passo 4: **Monitoramento** = Acompanhamos geração de energia e ROI via plataforma exclusiva.  ];Soluções Energéticas
 Quais redes sociais vocês gerenciam?;Facebook, Instagram, LinkedIn, TikTok e Twitter (X), com foco em conteúdo visual e campanhas pagas.;Mídias Sociais
 Vocês fazem sites em WordPress?;Sim! Desenvolvemos em WordPress, Shopify (e-commerces) e soluções customizadas em HTML/CSS.;Desenvolvimento de Sites
 Como funciona o follow-up de leads?;No Bitrix24, automatizamos mensagens de acompanhamento por e-mail ou WhatsApp após 24h, 7d e 30d sem resposta.;CRM
 Preciso de um chatbot para meu site. Vocês fazem?;Sim! Criamos chatbots com IA para atendimento 24/7, integrados ao seu CRM e com respostas personalizadas.;Neuronex
-Quais vantagens o Bitrix24 tem sobre outros CRMs?";["1) **Tudo em um**: Combina CRM, tarefas, chat interno e e-mail marketing em uma plataforma." , "2) **Custo-benefício**: Planos acessíveis com até 12 usuários gratuitos." , "3) **Personalização**: Fluxos de trabalho adaptáveis a qualquer negócio." , "4) **Integrações**: Compatível com Neuronex, Google Workspace, PayPal e mais de 100 apps." ];Bitrix24
-Como a Scriptai otimiza o uso de tokens da OpenAI?";["1) **Respostas curtas**: Evitamos textos longos desnecessários." , "2) **Armazenamento local**: FAQs e dados estáticos ficam fora do modelo da OpenAI." , "3) **Links externos**: Para detalhes complexos, direcionamos a documentos ou tutoriais." ];Gestão de Tokens
-Quais relatórios o Bitrix24 gera para vendas?";["1) **Funil de vendas**: Conversão por etapa (lead → oportunidade → fechamento)." , "2) **Desempenho de vendedores**: Metas individuais e tempo médio por negócio." , "3) **Previsão de receita**: Projeções baseadas em pipelines ativos." ];Bitrix24
+Quais vantagens o Bitrix24 tem sobre outros CRMs? ;[ 1) **Tudo em um**: Combina CRM, tarefas, chat interno e e-mail marketing em uma plataforma.  ,  2) **Custo-benefício**: Planos acessíveis com até 12 usuários gratuitos.  ,  3) **Personalização**: Fluxos de trabalho adaptáveis a qualquer negócio.  ,  4) **Integrações**: Compatível com Neuronex, Google Workspace, PayPal e mais de 100 apps.  ];Bitrix24
+Como a Scriptai otimiza o uso de tokens da OpenAI? ;[ 1) **Respostas curtas**: Evitamos textos longos desnecessários.  ,  2) **Armazenamento local**: FAQs e dados estáticos ficam fora do modelo da OpenAI.  ,  3) **Links externos**: Para detalhes complexos, direcionamos a documentos ou tutoriais.  ];Gestão de Tokens
+Quais relatórios o Bitrix24 gera para vendas? ;[ 1) **Funil de vendas**: Conversão por etapa (lead → oportunidade → fechamento).  ,  2) **Desempenho de vendedores**: Metas individuais e tempo médio por negócio.  ,  3) **Previsão de receita**: Projeções baseadas em pipelines ativos.  ];Bitrix24
 Olá;Olá! 😊 Sou a Nilce Domingos, Agente de Atendimento da Scriptai. Como posso auxiliá-lo hoje?;Saudação
 Gostaria de saber sobre energia solar;Claro, ficarei feliz em fornecer informações sobre as nossas Soluções Energéticas! 😊 Para que eu possa ajudá-lo melhor, poderia compartilhar algumas informações? É rápido e simples! Qual é o seu nome completo?;Soluções Energéticas
 João Silva;Obrigada, João! 😊 E o seu número de telemóvel, por favor?;Captura de Dados
@@ -38,220 +38,220 @@ Como funciona a administração de redes sociais?;Essa é uma excelente pergunta
 Não quero fornecer meus dados;Compreendo perfeitamente! 😊 As informações são apenas para que a nossa equipa possa contactá-lo com as melhores soluções para as suas necessidades específicas. Caso mude de ideia, estarei aqui para ajudar. Há mais alguma coisa em que possa auxiliá-lo hoje?;Objeção de Dados
 Tenho uma reclamação;Lamento ouvir isso! 😔 Vou encaminhar o seu feedback à nossa equipa para que possam resolver o mais rapidamente possível. Para que possam contactá-lo diretamente, poderia me informar o seu nome completo? Obrigada pela sua paciência!;Reclamação
 Não respondem há dias;Peço sinceras desculpas por essa situação! 😔 Isso não reflete os nossos padrões de atendimento. Vou garantir que a sua situação seja tratada com prioridade. Poderia me informar o seu nome para que eu possa localizar o seu processo e acelerar a resposta?;Reclamação
-"Pedro Costa, empresa";Obrigada, Pedro! E o seu número de telemóvel para que a equipa possa contactá-lo diretamente?;Captura de Dados
+ Pedro Costa, empresa ;Obrigada, Pedro! E o seu número de telemóvel para que a equipa possa contactá-lo diretamente?;Captura de Dados
 Empresarial;Perfeito! E qual dos nossos produtos ou serviços mais lhe interessa? Temos Agentes de IA, Soluções Energéticas, Desenvolvimento de Sites ou Administração de Mídias Sociais?;Qualificação de Lead
 Agentes de IA;Excelente escolha! Os nossos Agentes de IA Neuronex são ideais para empresas! 😊 Vou encaminhar o seu pedido à nossa equipa especializada, que entrará em contacto consigo em breve para apresentar todas as possibilidades. Obrigada pelas informações!;Encaminhamento
 Boa tarde;Boa tarde! 😊 Sou a Nilce Domingos, da Scriptai, e estou aqui para ajudar. Como posso auxiliá-lo hoje?;Saudação
 O que fazem na Scriptai?;Na Scriptai oferecemos quatro principais soluções: Agentes de IA (Neuronex), Soluções Energéticas, Desenvolvimento de Sites e Administração de Mídias Sociais! 😊 Qual destes serviços mais lhe interessa? Assim posso ajudá-lo melhor!;FAQ Geral
-"Obrigado, até logo";De nada! 😊 Foi um prazer ajudar. Fique à vontade para me contactar sempre que precisar de mais informações sobre os nossos serviços. Tenha um excelente dia!;Despedida
-"Olá, quero saber mais sobre energia solar.";Olá! 😊 Sou a Nilce Domingos, da ScriptAI. Com certeza! Será para uso residencial ou empresarial?;Qualificação Lead - Energia
-"É para minha casa em Lisboa.";Perfeito! Para enviarmos informações personalizadas, qual seu nome completo?;Coleta Dados - Nome
-"Carlos Mendes.";Obrigada, Carlos! E seu número de telemóvel para contato?;Coleta Dados - Telefone
-"912 345 678.";Ótimo! Nosso especialista em energia solar entrará em contato em até 24h. 🌞 Alguma outra dúvida?;Finalização Lead
-"Quanto custa em média?";Vou encaminhar seu pedido para uma avaliação personalizada. Só mais uma coisa: qual o consumo mensal de energia (kWh)?;Restrição - Preços
-"Como funciona o agente de IA de vocês?";O Neuronex é nosso assistente virtual 24/7 para atendimento e automações. Posso te enviar um case de sucesso? Qual seu e-mail?;FAQ - Produtos
-"Preciso de um site responsivo.";Excelente! 😊 Será site institucional, loja virtual ou blog?;Qualificação Lead - Sites
-"Quero integrar WhatsApp com CRM.";Ótima escolha! Já utiliza algum CRM (Bitrix24, Salesforce)?;Qualificação - Integração
-"Sim, usamos Bitrix24.";Perfeito! Nossos agentes integram-se nativamente com Bitrix24. Posso agendar uma demonstração?;Venda Cruzada
-"Quero orçamento para redes sociais.";Claro! Para Instagram, Facebook ou LinkedIn? 📱;Qualificação Lead - Mídias
-"Vocês atendem o Porto?";Sim! Atendemos todo Portugal continental e ilhas.;Localização
-"Já trabalho com outra agência.";Entendo! Caso queira comparar nossos diferenciais, posso enviar um material exclusivo. Qual seu e-mail?;Objeção - Concorrente
-"Preciso de automação com IA.";Ótimo! Para qual área (atendimento, vendas, suporte)?;Qualificação - IA
-"Tenho urgência num projeto.";Anotado! Nosso time prioritário entrará em contato em até 2h. Confirme seu telefone: 912 345 678 está correto?;Lead Urgente
-"Como é o suporte de vocês?";Oferecemos suporte 24/7 via WhatsApp, e-mail e telefone. 🌟 Precisa de ajuda imediata?;FAQ - Suporte
-"Quero migrar minha energia.";Ótima decisão! Posso verificar se há benefícios fiscais para seu caso. Qual seu NIF?;Venda - Energia
-"Preciso de chatbot para meu site.";Claro! Deve ser em português de Portugal ou multilíngue?;Qualificação - Chatbot
-"Tem contrato mínimo?";Nossos planos são flexíveis. Vou encaminhar seu pedido para análise personalizada. Seu e-mail cadastrado é carlos@email.com?;Restrição - Contratos
-"Quero falar com um humano.";Sem problemas! Um especialista entrará em contato em 5 minutos. 📞 Confirmo seu número: 912 345 678?;Escalonamento
-"Como faço para cancelar?";Lamento ouvir isso! Nossa equipe de retenção entrará em contato para ajudar. Algum feedback específico?;Retenção
-"Vocês fazem sites acessíveis?";Sim! Desenvolvemos com WCAG 2.1 AA. Precisa para algum público específico?;Especialização
-"Preciso de relatórios mensais.";Oferecemos dashboards automáticos! Posso enviar um modelo? Qual seu e-mail corporativo?;Venda - Mídias
-"Tem desconto para ONGs?";Temos condições especiais! Envie seu registro de utilidade pública para avaliação.;Venda - Descontos
-"Como atualizo meus dados?";Basta responder este WhatsApp com 'ATUALIZAR DADOS' que um agente te ajudará.;FAQ - Cadastro
-"Quero apenas informação.";Sem problemas! Posso te enviar nosso catálogo digital. Qual seu e-mail?;Lead Frio
-"Meu e-mail é ana@ong.pt.";Obrigada, Ana! 📩 Encaminhei o material completo. Nossa equipe de ONGs entrará em contato.;Follow-up
-"Qual a vantagem do Neuronex?";Reduz até 80% do tempo de atendimento com IA 24/7. Quer um caso real do setor de saúde?;Diferencial
-"Preciso de treinamento.";Oferecemos capacitação presencial e online. Quantas pessoas precisam ser certificadas?;Venda - Serviços
-"Tem garantia?";Sim! Todos nossos projetos têm garantia de 12 meses. Posso explicar os termos?;FAQ - Garantia
-"Quero demo gratuita.";Claro! Agendamos para hoje às 15h ou amanhã de manhã? ⏰;Venda - Demonstração
-"Como vejo meu histórico?";Seu consultor enviará relatórios mensais. Posso adicionar mais algum e-mail?;FAQ - Histórico
-"Preciso de fatura com NIF.";Sem problemas! Confirme os dados fiscais: nome 'Carlos Mendes', NIF 123456789?;FAQ - Faturação
-"Quero só energia, obrigada.";Entendido! Nosso especialista em soluções energéticas entrará em contato exclusivamente sobre isso.;Segmentação
-"Meu colega já é cliente.";Ótimo! Temos programa de indicação com benefícios. Posso vincular seu cadastro?;Fidelização
-"Qual o prazo para sites?";Em média 15 dias úteis. Precisa de alguma data específica?;FAQ - Prazos
-"Como é o pós-venda?";Oferecemos suporte dedicado e revisões trimestrais gratuitas. Quer agendar a primeira?;Pós-Venda
-"Vocês fazem manutenção?";Sim! Temos planos anuais com visitas técnicas programadas. Interessa?;Venda - Serviços
-"Preciso de SEO no site.";Incluímos otimização básica em todos projetos. Quer upgrade para SEO avançado?;Upsell
-"Tem referências de clientes?";Claro! Posso enviar cases do seu setor (saúde, educação, etc.). Qual seu ramo?;Prova Social
-"Quero cotação para IA.";Vou preparar uma proposta personalizada. Só confirmo: será para automação de atendimento?;Qualificação - IA
-"Como cadastro novos usuários?";Nosso time de onboarding fará isso para você. Quantas licenças precisa?;FAQ - Setup
-"Preciso de ajuda técnica.";Nossa equipe de suporte já foi acionada! Ticket #12345. Atualizaremos em 30min.;Suporte
-"Quero renegociar contrato.";Vou transferir para nosso departamento comercial. Um momento... 🔄;Escalonamento
-"Qual a área de cobertura?";Atendemos todo território nacional. Precisa de instalação em múltiplas localidades?;FAQ - Cobertura
-"Tem app móvel?";Nossas soluções são web-responsive, mas podemos desenvolver apps nativos. Interessa?;Venda - Apps
-"Preciso de resposta urgente.";Priorizamos seu atendimento! Um especialista entrará em contato em 10 minutos. ⏱️;Urgência
-"Como solicito suporte?";Basta digitar 'SUPORTE' aqui que um técnico será acionado imediatamente.;FAQ - Suporte
-"Quero cancelar meu plano.";Lamentamos isso! Nossa equipe de retenção entrará em contato para oferecer alternativas.;Retenção
-"Preciso do certificado.";Enviaremos por e-mail em 24h. Confirme o endereço: carlos@email.com?;FAQ - Documentos
-"Qual o próximo passo?";Nossa equipe entrará em contato em até 1h com instruções. Fique atento ao telefone! 🌟;Finalização
-"Quais os benefícios de ter um site profissional?";"Olá! 😊 Ter um site profissional com a ScriptAI traz: 1) Visibilidade 24/7, 2) Credibilidade para sua marca, 3) Geração de leads e vendas, 4) Alcance global e 5) Experiência perfeita em todos dispositivos. Posso te enviar um case de sucesso? Qual seu e-mail?";Benefícios
-"Vocês fazem sites para e-commerce?";"Sim! Desenvolvemos lojas virtuais completas com: 🛒 Gestão de estoque, múltiplos métodos de pagamento e integração com marketplaces. É para produtos físicos ou digitais?";E-commerce
-"Quanto custa um site institucional?";"Oferecemos planos a partir de 399€ (investimento inicial) + mensalidade. Vou encaminhar seu pedido para um orçamento personalizado! Para isso, preciso do seu nome e e-mail. 😊";Orçamento
-"O que está incluído no Plano Ouro?";"O Plano Ouro 🟡 inclui: 1) Site/e-commerce até 20 páginas, 2) Design exclusivo, 3) Área de clientes com login, 4) Hospedagem VPS, 5) Backup diário e 6) Suporte prioritário. Quer agendar uma demonstração?";Planos
-"Quanto tempo leva para desenvolver um site?";"Nosso processo leva em média 4 semanas (do briefing ao lançamento). Para sites urgentes, temos priorização com taxa especial. Precisa para alguma data específica?";Processo
-"Vocês garantem posicionamento no Google?";"Aplicamos SEO avançado em todos projetos! Um cliente alcançou a 1ª página do Google em 3 meses. Quer saber como? Me informe seu nicho de atuação. 😊";SEO
-"Preciso migrar meu site antigo. Vocês ajudam?";"Com certeza! Nesta semana temos promoção com migração gratuita. Posso verificar a compatibilidade do seu site atual? Qual a plataforma utilizada?";Migração
-"O que é UX/UI avançado?";"É o design que alia beleza e funcionalidade! Criamos: 1) Fluxos intuitivos, 2) Elementos visuais estratégicos e 3) Testes com usuários reais. Temos um portfólio para te mostrar. Interessa?";Tecnologia
-"Como funciona o suporte pós-lançamento?";"Oferecemos: 1) Atualizações mensais, 2) Monitoramento 24/7, 3) Relatórios de desempenho e 4) Treinamentos. No Plano Diamante, incluímos suporte VIP com desenvolvedor dedicado. 😊";Suporte
-"Vocês integram chatbots de IA?";"Sim! Integramos o Neuronex para atendimento automático 24h. Reduzimos em 60% o tempo de resposta numa clínica médica. Posso te enviar esse case?";IA
-"Quais tecnologias usam no desenvolvimento?";"Trabalhamos com: 1) Front-end: React/HTML5, 2) Back-end: Node.js/Python, 3) CMS: WordPress/Shopify e 4) SEO: SEMrush/Google Analytics. Prefere alguma tecnologia específica?";Tecnologia
-"Tem desconto para ONGs?";"Temos condições especiais para ONGs! Precisa enviar seu registro de utilidade pública. Posso adiantar que o desconto chega a 20% no Plano Prata. Qual seu e-mail para envio dos detalhes?";Descontos
-"O site funciona bem em celulares?";"Todos nossos sites são 100% responsivos! Um cliente teve aumento de 75% em acessos móveis após a migração para nossa plataforma. Quer testar um demo no seu dispositivo?";Mobile
-"Preciso de um blog corporativo. Fazem?";"Claro! Blogs são ótimos para: 1) Autoridade, 2) Tráfego orgânico e 3) Nutrição de leads. Incluímos estrutura de SEO e editor visual intuitivo. Já tem uma estratégia de conteúdo?";Blogs
-"Como é o processo de pagamento?";"Trabalhamos com: 1) 50% no início, 2) 30% na aprovação do layout e 3) 20% no lançamento. Aceitamos transferência, cartão e PayPal. Posso enviar nossa política completa?";Pagamento
-"Vocês registram o domínio para mim?";"Sim! Todos planos incluem domínio gratuito no 1º ano (.pt ou .com). Após isso, a renovação é de apenas 15€/ano. Já tem um nome em mente para seu site?";Domínio
-"Preciso de site em inglês e português.";"Oferecemos sites multilíngue (até 3 idiomas)! Um restaurante aumentou 40% em reservas de turistas com nosso serviço. Quer ver esse case?";Multilíngue
-"O que preciso fornecer para começar?";"Apenas: 1) Briefing dos objetivos, 2) Conteúdo básico (textos/imagens) e 3) Feedback nos protótipos. Do resto, cuidamos nós! Tem tudo isso organizado?";Requisitos
-"Tem casos de sucesso para mostrar?";"Claro! Um e-commerce de moda aumentou 120% nas vendas. Posso te enviar o portfólio completo. Me confirme seu e-mail corporativo. 📁";Portfólio
-"Qual a diferença entre WordPress e site customizado?";"WordPress é ideal para quem quer autogestão (incluído no Plano Prata). Sites customizados (Planos Ouro/Diamante) oferecem mais performance e exclusividade. Qual seu nível de conhecimento técnico?";CMS
-"O que é o NeuroneX?";"Olá! 😊 O NeuroneX é o agente de IA avançado da ScriptAI que revoluciona atendimento ao cliente com: 1) Processamento de Linguagem Natural, 2) Integração com ChatGPT, 3) Respostas dinâmicas 24/7. Posso te enviar um vídeo demonstrativo? Qual seu e-mail?";Definição
-"Quais os principais problemas que o NeuroneX resolve?";"Ótima pergunta! Resolvemos: 1) Atendimento limitado a horário comercial, 2) Respostas lentas, 3) Informações inconsistentes, 4) Custos altos com equipes. Um cliente reduziu 70% nos custos! Quer o case completo?";Benefícios
-"Como funciona a integração com WhatsApp?";"Integramos via API oficial! O NeuroneX gerencia: 1) Atendimento automático, 2) Qualificação de leads, 3) Agendamentos. Já usamos em 50+ empresas. Precisa de demonstração prática?";Integrações
-"Qual a diferença entre os planos Essencial e Pro?";"O Plano Pro 🌟 inclui: 1) 3 canais (WhatsApp+Telegram+Messenger), 2) Qualificação de leads, 3) Integração com Bitrix24, 4) Relatórios semanais. Posso te enviar uma tabela comparativa?";Planos
-"Quanto tempo leva para implementar?";"Em média 2 semanas! Passos: 1) Briefing (2 dias), 2) Configuração (5 dias), 3) Testes (3 dias). Tem urgência? Temos priorização expressa.";Implementação
-"O NeuroneX substitui atendentes humanos?";"De modo algum! 😊 Ele potencializa sua equipe: 1) Elimina tarefas repetitivas, 2) Libera tempo para ações estratégicas. Um cliente realocou a equipe para vendas complexas!";Humanização
-"Preciso treinar minha equipe para usar?";"Não! No Plano Enterprise incluímos treinamento, mas o sistema é intuitivo. Temos tutoriais em vídeo para todos os planos. Quer acesso a um demo?";Treinamento
-"Como é o suporte técnico?";"Oferecemos: 1) Email (todos planos), 2) Telefone (Pro), 3) 24/7 (Enterprise). Resposta em até 1h para emergências no Enterprise. Posso te mostrar nosso SLA?";Suporte
-"Vocês fazem integração com meu CRM atual?";"Sim! Integramos com: 1) Bitrix24 (nativo), 2) Salesforce/Outros (via API). Já conectamos a 15+ sistemas diferentes. Qual CRM você usa?";CRM
-"Qual o ROI médio do NeuroneX?";"Clientes obtêm ROI em 2-6 meses! Exemplo: Loja de moda reduziu custos em 65% e aumentou vendas 40%. Quer uma calculadora personalizada de ROI?";ROI
-"O NeuroneX funciona para e-commerce?";"Perfeitamente! 🛒 Atendemos: 1) Dúvidas sobre produtos, 2) Rastreio de pedidos, 3) Devoluções. Um cliente reduziu 40% no abandono de carrinho!";E-commerce
-"Como vocês garantem a segurança dos dados?";"Usamos: 1) Criptografia AES-256, 2) Certificado SSL, 3) Compliance com GDPR. Nunca tivemos breaches em 5 anos! Precisa de nosso whitepaper de segurança?";Segurança
-"Preciso comprar hardware adicional?";"Nada! O NeuroneX é 100% cloud. Só precisa: 1) Conexão à internet, 2) Dispositivo para acessar o painel. Mesmo smartphones funcionam!";Infraestrutura
-"O plano Essencial atende empresa com 50 funcionários?";"Recomendamos o Pro para esse porte! Motivos: 1) Suporte por telefone, 2) 3 canais integrados, 3) Até 150 intenções. Posso simular um orçamento?";Dimensionamento
-"Como atualizo a base de conhecimento?";"No Essencial: via painel intuitivo. Nos outros planos: 1) Atualizações trimestrais (Pro), 2) Mensais (Enterprise). Oferecemos serviço de curadoria também!";Atualizações
-"O NeuroneX entende gírias e regionalismos?";"Sim! Nosso PLN avançado capta: 1) Contexto, 2) Intenção, 3) Sentimento. Um cliente no Porto teve 95% de acurácia com expressões locais!";NLP
-"Vocês oferecem teste gratuito?";"Temos demonstração personalizada de 30 minutos! No Enterprise: teste de 7 dias. Quer agendar? Indique 3 horários esta semana. 😊";Testes
-"Como é cobrado o uso excedente?";"Não cobramos por mensagem! Todos planos têm: 1) Atendimento ilimitado, 2) Sem taxas extras. Só pagaria upgrade de plano se precisar de mais funcionalidades.";Cobrança
-"O NeuroneX envia e-mails automaticamente?";"No Pro e Enterprise: sim! Integramos com: 1) Campanhas, 2) Follow-ups, 3) Notificações. Um cliente automatizou 80% dos e-mails de suporte!";Automação
-"Consigo ver métricas de desempenho?";"Relatórios incluídos: 1) Mensais (Essencial), 2) Semanais (Pro), 3) Tempo real (Enterprise). Mostramos: taxa de resposta, satisfação, conversões. Quer um exemplo?";Métricas
-"Como lidam com perguntas muito específicas?";"1) Busca na base de conhecimento, 2) Transferência para humano (se configurado), 3) Resposta padrão com tempo estimado para solução. Taxa de resolução: 92%!";Complexidade
-"Preciso de desenvolvedor para implementar?";"Não! Nossa equipe faz tudo: 1) Configuração, 2) Integrações, 3) Testes. Você só precisa validar. Já implementamos em 3h para casos urgentes!";Implementação
-"O NeuroneX funciona em outros idiomas?";"Sim! Suportamos: 1) Português (PT/BR), 2) Inglês, 3) Espanhol. No Enterprise: até 3 idiomas simultâneos. Precisa de outros?";Idiomas
-"Como é o processo de migração de outro chatbot?";"Migração gratuita nesta semana! Passos: 1) Exportamos seus dados, 2) Adaptamos fluxos, 3) Validamos juntos. Já migramos 17 sistemas diferentes.";Migração
-"Vocês fornecem a documentação técnica?";"Sim! Todos clientes recebem: 1) Manual de uso, 2) API docs, 3) Vídeo-tutoriais. No Enterprise: documentação customizada para sua equipe.";Documentação
-"Qual o volume de mensagens suportado?";"Ilimitado! Arquitetura escalável: 1) Até 1.000 msg/min (Essencial), 2) 10.000 msg/min (Enterprise). Nunca caímos em picos de demanda!";Performance
-"Consigo personalizar a personalidade do bot?";"Totalmente! No Enterprise: 1) Tom de voz, 2) Nome, 3) Avatar, 4) Respostas customizadas. Um restaurante criou um bot 'chef' muito engraçado!";Personalização
-"Como é o atendimento em feriados?";"24/7/365! O NeuroneX não dorme 😊. Um cliente de turismo atendeu 92% mais consultas no Natal sem aumentar custos!";Disponibilidade
-"O NeuroneX aprende com as interações?";"Sim! Nos planos Pro/Enterprise: 1) Machine Learning adaptativo, 2) Sugestões de melhoria. A cada 1.000 interações, a precisão aumenta 3%!";Aprendizado
-"Tem contrato de fidelidade?";"Não! Pode cancelar a qualquer momento. Mas 97% dos clientes renovam após 6 meses pelos resultados. Quer falar com um deles?";Contrato
-"Como é o processo de cancelamento?";"Simples: 1) Solicitação por email, 2) Backup dos dados, 3) Confirmação. Sem multas ou letras miúdas. Já cancelou algum serviço parecido?";Cancelamento
-"Vocês têm certificações de qualidade?";"Sim! ISO 27001 (segurança), GDPR (dados), e premio 'Melhor IA para Atendimento 2023'. Quer os certificados para seu compliance?";Certificações
-"O NeuroneX envia arquivos e imagens?";"Sim! Todos planos suportam: 1) PDFs, 2) Imagens, 3) Links. No Enterprise: envio automático de manuais e catálogos.";Mídias
-"Consigo filtrar palavras inadequadas?";"Totalmente! Temos: 1) Filtro de palavrões, 2) Moderação manual, 3) Alertas para termos sensíveis. Personalizável por política da empresa.";Moderação
-"Como é a recuperação de dados?";"Backups: 1) Diários (Enterprise), 2) Semanais (Pro), 3) Sob demanda. Retenção por 180 dias. Nunca perdemos dados em 5 anos!";Backup
-"O NeuroneX funciona offline?";"Precisa de internet, mas temos modo 'reserva' que: 1) Armazena mensagens localmente, 2) Envia quando reconectado. Já salvou 12.000+ interações!";Offline
-"Tem limite de usuários no painel?";"Não! Todos planos permitem: 1) Usuários ilimitados, 2) Controle de acesso, 3) Hierarquias. Um cliente tem 47 usuários ativos!";Usuários
-"Como é a escalabilidade para grandes empresas?";"Arquitetura enterprise-ready: 1) Balanceamento de carga, 2) CDN global, 3) SLA 99.99%. Atendemos multinacionais com 1M+ msg/dia!";Escalabilidade
-"Vocês fazem análise de sentimentos?";"No Enterprise: sim! Detectamos: 1) Frustração, 2) Satisfação, 3) Urgência. Acionamos humanos quando necessário. 89% de precisão!";Sentimento
-"Consigo exportar os dados para Excel?";"Sim! Todos planos permitem exportar: 1) Histórico, 2) Métricas, 3) Leads. No Enterprise: API para integração com BI.";Exportação
-"O NeuroneX atende LGPD?";"Totalmente! Oferecemos: 1) Anonimização de dados, 2) Portabilidade, 3) Relatórios de compliance. Somos auditados trimestralmente.";LGPD
-"Tem versão mobile do painel?";"Sim! Painel 100% responsivo. Um cliente gerencia tudo pelo celular. Quer acessar nosso demo mobile agora?";Mobile
-"Como é o upgrade entre planos?";"Sem interrupção! Processo: 1) Solicitação, 2) Pagamento da diferença, 3) Liberação em 2h. Já fizemos 83 upgrades este ano!";Upgrade
-"O NeuroneX sugere produtos?";"No Pro/Enterprise: sim! Com base em: 1) Histórico, 2) Estoque, 3) Campanhas. Uma loja aumentou 23% em vendas cruzadas!";Vendas
-"Consigo criar fluxos complexos?";"Sim! No Essencial: fluxos básicos. Nos outros: 1) Condicionais, 2) Variáveis, 3) Integrações em tempo real. Mostro um exemplo?";Fluxos
-"O que acontece se o bot não souber responder?";"1) Busca na base, 2) Transferência para humano, 3) Resposta padrão com tempo estimado. Taxa de fallback: apenas 8%!";Fallback
-"Vocês fornecem número de WhatsApp?";"No Enterprise: sim! Incluímos número dedicado. Outros planos: integração com seu número existente. Precisa de um novo?";WhatsApp
-"Consigo testar antes de comprar?";"Temos: 1) Demonstração ao vivo, 2) POC (Enterprise), 3) Cases em seu setor. Agendo para você agora?";Testes
-"O NeuroneX funciona com WhatsApp Business?";"Perfeitamente! Integramos com: 1) API Oficial, 2) Soluções terceiras. 72% dos nossos clientes usam no WhatsApp.";WhatsApp
-"Como é o treinamento da IA?";"1) Base inicial com seus dados, 2) Aprendizado contínuo, 3) Ajustes manuais (opcional). Em 30 dias, precisão média é 94%!";Treinamento
-"Tem limite de intenções na base?";"Sim: 1) 50 (Essencial), 2) 150 (Pro), 3) Ilimitado (Enterprise). Mas otimizamos para que 20 intenções cubram 80% dos casos!";Intenções
-"O NeuroneX faz agendamentos?";"Sim! Integra com: 1) Google Calendar, 2) Outlook, 3) Bitrix24. Um consultório médico agendou 300 consultas/mês automaticamente!";Agendamento
-"Consigo segmentar respostas por perfil?";"No Enterprise: sim! Por: 1) Tipo de cliente, 2) Histórico, 3) Comportamento. Aumentamos a relevância em 65%!";Segmentação
-"O NeuroneX reconhece imagens?";"No Enterprise: sim! Lê: 1) Texto em imagens, 2) QR Codes, 3) Produtos. Uma imobiliária automatizou 50% dos processos com fotos!";OCR
-"Como é o atendimento em campanhas?";"Preparamos para picos! Recursos: 1) Escalonamento automático, 2) Respostas prioritárias, 3) Gatilhos para humanos. Suportamos Black Friday!";Campanhas
-"O NeuroneX substitui meu CRM?";"Não! Ele complementa. Exemplo: 1) Qualifica leads para o CRM, 2) Alimenta dados, 3) Aciona workflows. Integração é perfeita!";CRM
-"Consigo criar respostas com atraso?";"Sim! Programamos: 1) Respostas agendadas, 2) Sequências, 3) Lembretes. Uma escola reduziu 40% nas faltas com lembretes!";Agendamento
-"O NeuroneX funciona em quiosques?";"Sim! Já implementamos em: 1) Lojas, 2) Aeroportos, 3) Hotéis. Modo quiosque: interface simplificada e offline.";Quiosque
-"Tem integração com Google Sheets?";"No Pro/Enterprise: sim! Atualiza planilhas em tempo real. Um cliente automatizou relatórios de estoque assim!";Google
-"O NeuroneX gera contratos?";"No Enterprise: sim! Com: 1) Dados do CRM, 2) Assinatura eletrônica, 3) Armazenamento. Um advogado automatizou 80% dos contratos!";Documentos
-"Consigo usar em eventos ao vivo?";"Perfeito para eventos! Features: 1) Check-in digital, 2) Q&A automático, 3) Coleta de leads. Usamos na Web Summit!";Eventos
-"O NeuroneX tem versão white-label?";"No Enterprise: sim! Com: 1) Sua marca, 2) Domínio próprio, 3) App customizado. Já criamos 12 soluções white-label!";White-label
-"Como é o pós-venda?";"Customer Success dedicado: 1) Reuniões mensais, 2) Relatórios de ROI, 3) Sugestões de melhoria. NPS médio: 92!";Pós-venda
-"O NeuroneX sugere artigos de ajuda?";"Sim! No Pro/Enterprise: 1) Recomenda conteúdo, 2) Links para FAQs, 3) Tutoriais. Reduziu 35% os tickets de suporte!";Ajuda
-"Consigo bloquear por horário comercial?";"Configurável! Pode: 1) Definir horários, 2) Mensagem fora do expediente, 3) Escalonar emergências. Flexível!";Horário
-"O NeuroneX envia notificações push?";"No Enterprise: sim! Para: 1) Novos leads, 2) Mensagens urgentes, 3) Métricas. Integra com Slack/MS Teams também!";Notificações
-"Tem desconto para ONGs?";"Sim! 15% em todos planos + 1 mês grátis. Precisa enviar registro de utilidade pública. Já atendemos 23 ONGs!";Descontos
-"O NeuroneX funciona com WhatsApp Business API?";"Sim! Somos parceiros oficial. Processo: 1) Aprovação em 48h, 2) Configuração, 3) Go-live. Taxa de aprovação: 100%!";WhatsApp
-"Consigo rastrear dispositivos?";"Não coletamos dados de dispositivo por privacidade. Mas identificamos usuários por: 1) Número, 2) Email, 3) ID interno.";Privacidade
-"O NeuroneX tem versão para restaurantes?";"Temos template pronto! Com: 1) Reservas, 2) Cardápio digital, 3) Feedback pós-refeição. Aumenta 30% em avaliações!";Templates
-"Como é o controle de acesso?";"Hierarquias flexíveis: 1) Admin, 2) Gerente, 3) Agente. No Enterprise: SSO e LDAP. Auditamos 156 acessos/mês em média.";Acessos
-"O NeuroneX envia pesquisas de satisfação?";"Sim! Automatiza: 1) NPS, 2) Pesquisas pós-atendimento, 3) Relatórios. Um hotel melhorou de 3.8 para 4.7 estrelas!";Pesquisas
-"Consigo integrar com sistema legado?";"Sim! Já conectamos a: 1) AS/400, 2) Cobol, 3) Sistemas proprietários. Nossa equipe desenvolve conectores customizados.";Legado
-"O NeuroneX tem API para desenvolvedores?";"Sim! Documentação completa: 1) RESTful, 2) Webhooks, 3) SDKs. 83% dos clientes Enterprise usam a API!";API
-"Como é o tratamento de dados sensíveis?";"Máscara automática para: 1) CPF, 2) Cartões, 3) Saúde. Armazenamento criptografado. Auditado pela ANPD.";Dados
-"O NeuroneX sugere respostas para humanos?";"No Enterprise: sim! Durante transferências: 1) Contexto completo, 2) Sugestões, 3) Histórico. Agiliza 40% o atendimento!";Humanos
-"Consigo usar para treinar novos funcionários?";"Sim! Template de 'Bot Treinador' com: 1) FAQs internas, 2) Simuladores, 3) Testes. Reduziu 70% o tempo de onboarding!";Treinamento
-"O NeuroneX funciona em máquinas de autoatendimento?";"Perfeitamente! Modo quiosque: 1) Touchscreen, 2) Offline, 3) Integração com hardware. Já implementamos em 9 redes varejo.";Quiosque
-"Tem como testar a velocidade de resposta?";"Sim! No painel: 1) Testes de carga, 2) Latência por região, 3) Histórico. Média: 1.2s por resposta (99th percentile).";Performance
-"O NeuroneX gera certificados?";"No Enterprise: sim! Para: 1) Cursos, 2) Compras, 3) Eventos. Uma escola emitiu 12.000 certificados automaticamente!";Certificados
-"Consigo criar um bot 'divertido'?";"Claro! Personalizamos: 1) Tom humorado, 2) Memes (sob aprovação), 3) Gamificação. Uma sorveteria viralizou com o bot 'Gelado'!";Persona
-"O NeuroneX funciona em TVs corporativas?";"Sim! Modo display: 1) Dados em tempo real, 2) Interação via app, 3) KPI dashboards. Implementamos em 5 redes de hotéis.";TV
-"Tem limite geográfico de atendimento?";"Não! Atendemos globalmente. Temos: 1) CDN em 12 países, 2) Tradução automática (Enterprise), 3) Moedas locais.";Global
-"O NeuroneX prioriza mensagens urgentes?";"Sim! Classifica por: 1) Palavras-chave (ex: 'urgente'), 2) Histórico, 3) Sentimento. Redireciona para humanos se necessário.";Urgência
-"Consigo usar para pesquisas de mercado?";"Template pronto! Coleta: 1) Dados demográficos, 2) Preferências, 3) NPS. Uma marca fez 15.000 entrevistas em 3 dias!";Pesquisas
-"O NeuroneX tem selos de acessibilidade?";"Sim! WCAG 2.1 AA para: 1) Leitores de tela, 2) Alto contraste, 3) Navegação por teclado. Orgulho deste diferencial!";Acessibilidade
-"Como é o atendimento para surdos?";"No Enterprise: 1) Integração com libras, 2) Transcrição de vídeos, 3) Chat textual prioritário. Projeto premiado!";Inclusão
-"O NeuroneX substitui meu call center?";"Parcialmente! Indicado para: 1) Primeiro contato, 2) FAQs, 3) Triagem. Um call center reduziu 60% no volume de ligações!";CallCenter
-"Consigo cobrar via bot?";"No Enterprise: sim! Com: 1) Links de pagamento, 2) Carrinho, 3) Notas fiscais. Uma consultoria faturou 80k/mês pelo bot!";Pagamentos
-"O NeuroneX tem versão para condomínios?";"Template pronto! Com: 1) Avisos, 2) Reservas, 3) Portaria virtual. Reduziu 90% as ligações para síndicos!";Templates
-"Como é o atendimento para idosos?";"Modo simplificado: 1) Fontes maiores, 2) Linguagem clara, 3) Confirmações extras. Um plano de saúde adorou!";Idosos
-"O NeuroneX funciona em totens de aeroporto?";"Sim! Já implementamos em: 1) Check-in, 2) Informações, 3) Emergências. 24/7 sem falhas!";Totens
-"Consigo usar para recrutamento?";"Template de RH! Automatiza: 1) Triagem CVs, 2) Agendamento entrevistas, 3) FAQs. Uma empresa contratou 50 pessoas em 2 semanas!";RH
-"O NeuroneX gera relatórios para diretoria?";"No Enterprise: dashboards executivos com: 1) ROI, 2) Tendências, 3) Benchmarking. Exporta para PPT automaticamente!";Dashboards
-"Tem como testar com 1 usuário primeiro?";"Sim! Piloto gratuito no Enterprise: 1) 1 departamento, 2) 2 semanas, 3) Relatório de impacto. 89% convertem para full depois!";Piloto
-"O NeuroneX sugere melhorias na base?";"No Enterprise: sim! Analisa: 1) Perguntas sem resposta, 2) Fallbacks, 3) Sentimento. Otimizamos 38% das bases em 3 meses!";Otimização
-"Consigo integrar com IoT?";"Sim! Já conectamos a: 1) Smart homes, 2) Sensores industriais, 3) Wearables. Case incrível em healthtech!";IoT
-"O NeuroneX tem versão para franquias?";"Template multi-unidade! Com: 1) Controle central, 2) Customizações locais, 3) Métricas comparadas. 7 redes já usam!";Franquias
-"Como é o atendimento em crises?";"Modo emergência: 1) Respostas pré-aprovadas, 2) Escalonamento automático, 3) Painel de situação. Testado em recall de produto!";Crise
-"O NeuroneX funciona em drive-thru?";"Sim! Com: 1) Reconhecimento de voz, 2) Integração POS, 3) Painel do caixa. Rede fast-food reduziu 30% no tempo médio!";Drive-thru
-"Consigo usar para pós-venda?";"Template de fidelização! Envia: 1) Dicas de uso, 2) Pesquisas, 3) Ofertas personalizadas. Aumentou 25% a retenção!";Fidelização
-"O NeuroneX gera contratos automáticos?";"No Enterprise: sim! Com: 1) Variáveis personalizadas, 2) Assinatura digital, 3) Armazenamento. Um escritório automatizou 1.200 contratos/mês!";Contratos
-"Tem versão para escolas?";"Template educacional! Com: 1) Avisos aos pais, 2) Dúvidas sobre matrícula, 3) Tutoriais. Adoção em 12 escolas públicas!";Educação
-"O NeuroneX funciona em call centers?";"Perfeitamente! Como: 1) Pré-atendimento, 2) Triagem, 3) Pós-venda. Um call center reduziu 40% no tempo por chamada!";CallCenter
-"Consigo usar para eventos híbridos?";"Sim! Gerencia: 1) Inscrições, 2) Networking, 3) Q&A. Congresso com 5.000 participantes usou com sucesso!";Eventos
-"O NeuroneX tem template para imobiliárias?";"Sim! Com: 1) Visitas virtuais, 2) Documentação, 3) Simulador financiamento. Uma rede vendeu 12 imóveis via bot!";Templates
-"Como é o atendimento multicanal unificado?";"No Enterprise: 1) Histórico único, 2) Contexto preservado, 3) Priorização inteligente. NPS aumentou 35 pontos!";Multicanal
-"O NeuroneX funciona em quiosques de museu?";"Sim! Modo cultural: 1) Tour virtual, 2) FAQs históricas, 3) Jogos educativos. Museu Nacional adotou!";Museus
-"Consigo usar para triagem médica?";"Template saúde! Com: 1) Sintomas, 2) Urgência, 3) Encaminhamentos. Hospital reduziu 50% nas filas de emergência!";Saúde
-"O NeuroneX gera recibos automaticamente?";"No Enterprise: sim! Integrado a: 1) Sistemas fiscais, 2) Bancos, 3) Notificações. Cliente emitiu 7.000 recibos em 1 dia!";Documentos
-"Tem versão para serviços públicos?";"Template governo! Com: 1) Agendamentos, 2) Informações, 3) Alertas. Prefeitura reduziu 80% nas filas físicas!";Governo
-"O NeuroneX funciona em telemarketing?";"Como assistente! Fornece: 1) Scripts dinâmicos, 2) Dados em tempo real, 3) Pós-chamada automática. Aumentou 28% em vendas!";Telemarketing
-"Consigo usar para programas de fidelidade?";"Sim! Template com: 1) Pontuação, 2) Benefícios, 3) Resgates. Rede de postos aumentou 45% na retenção!";Fidelidade
-"O NeuroneX tem template para advocacia?";"Sim! Com: 1) Consultas iniciais, 2) Prazos processuais, 3) Modelos de documentos. Escritório automatizou 200 consultas/mês!";Advocacia
-"Como é o atendimento em catástrofes?";"Modo emergência ativado! Prioriza: 1) Informações vitais, 2) Localização abrigos, 3) Alertas. Usado em enchentes em 2023.";Emergência
-"O NeuroneX funciona em estações de trem?";"Sim! Para: 1) Horários, 2) Bilhetes, 3) Informações. Operadora reduziu 60% nos balcões físicos!";Transporte
-"Consigo usar para bibliotecas?";"Template cultural! Com: 1) Busca no acervo, 2) Renovação, 3) Eventos. Biblioteca Municipal atende 300/dia via bot!";Bibliotecas
-"O NeuroneX gera atas de reunião?";"No Enterprise: sim! Com: 1) Transcrição, 2) Action items, 3) Integração com Teams. Empresa reduziu 8h/semana em burocracia!";Reuniões
-"Tem versão para farmácias?";"Sim! Com: 1) Lembrete de medicamentos, 2) Interações, 3) Pedidos. Rede reduziu 30% em erros de medicação!";Farmácias
-"O NeuroneX funciona em estádios esportivos?";"Perfeitamente! Para: 1) Ingressos, 2) Localização, 3) Emergências. Implementamos no Euro 2024!";Esportes
-"Consigo usar para condomínios sábios?";"Template smart building! Controla: 1) Acessos, 2) Encomendas, 3) Manutenções. Edifício reduziu 70% na portaria 24h!";Condomínios
-"O NeuroneX tem template para petshops?";"Sim! Com: 1) Lembrete vacinas, 2) Agendamento banho, 3) Dicas. Cliente fidelizou 85% dos clientes em 3 meses!";Pets
-"Como é o atendimento em línguas indígenas?";"No Enterprise: podemos treinar modelos específicos. Parceria com FUNAI em projeto-piloto!";Línguas
-"O NeuroneX funciona em navios de cruzeiro?";"Sim! Modo offline para: 1) Atividades, 2) Restaurantes, 3) Emergências. Implementado em 3 companhias!";Cruzeiros
-"Consigo usar para aluguel de carros?";"Template mobilidade! Com: 1) Reservas, 2) Seguros, 3) Suporte 24h. Locadora aumentou 22% nas reservas diretas!";Mobilidade
-"O NeuroneX gera ordens de serviço?";"No Enterprise: sim! Inteligente: 1) Prioriza, 2) Designa técnico, 3) Acompanha. Empresa reduziu 40% no tempo de reparo!";Ordens
-"Tem versão para seguradoras?";"Sim! Com: 1) Sinistros, 2) Apólices, 3) Peritagem. Seguradora processou 85% dos sinistros automaticamente!";Seguros
-"O NeuroneX funciona em parques temáticos?";"Perfeitamente! Para: 1) Mapa interativo, 2) Tempo de filas, 3) Fotografias. Disney já testou o conceito!";Parques
-"Consigo usar para agências de viagem?";"Template turismo! Automatiza: 1) Pacotes, 2) Check-in, 3) Roteiros. Agência vendeu 1M em pacotes via bot!";Turismo
-"O NeuroneX tem template para concessionárias?";"Sim! Com: 1) Test-drive, 2) Financiamento, 3) Pós-venda. Aumentou 35% em leads qualificados!";Automóveis
-"Como é o atendimento para PCDs?";"Totalmente acessível! Com: 1) Leitor de tela, 2) Comandos de voz, 3) Design inclusivo. Premio Acessibilidade Digital 2023!";PCDs
-"O NeuroneX funciona em casas de show?";"Sim! Para: 1) Ingressos, 2) Programação, 3) Regras. Casa em SP atende 500/dia sem filas!";Eventos
-"Consigo usar para imigração?";"Template jurídico! Explica: 1) Vistos, 2) Documentos, 3) Prazos. Escritório triplicou capacidade de atendimento!";Imigração
-"O NeuroneX gera laudos médicos?";"No Enterprise: sim! Baseado em: 1) Histórico, 2) Exames, 3) Protocolos. Clínica emitiu 200/dia com 99% de precisão!";Saúde
-"Tem versão para cooperativas?";"Sim! Com: 1) Serviços financeiros, 2) Assembleias, 3) Benefícios. Sicoob implementou em 12 filiais!";Cooperativas
-"O NeuroneX funciona em feiras livres?";"Modo offline! Para: 1) Pagamentos, 2) Pedidos, 3) Localização. Projeto social em 5 cidades!";Feiras
-"Consigo usar para sindicatos?";"Template associativo! Gerencia: 1) Mensalidades, 2) Benefícios, 3) Atendimento. Reduziu 60% no tempo de resposta!";Sindicatos
-"O NeuroneX tem template para artesãos?";"Sim! Com: 1) Catálogo, 2) Encomendas, 3) Pagamentos. Cooperativa aumentou vendas em 150%!";Artesanato
+ Obrigado, até logo ;De nada! 😊 Foi um prazer ajudar. Fique à vontade para me contactar sempre que precisar de mais informações sobre os nossos serviços. Tenha um excelente dia!;Despedida
+ Olá, quero saber mais sobre energia solar. ;Olá! 😊 Sou a Nilce Domingos, da ScriptAI. Com certeza! Será para uso residencial ou empresarial?;Qualificação Lead - Energia
+ É para minha casa em Lisboa. ;Perfeito! Para enviarmos informações personalizadas, qual seu nome completo?;Coleta Dados - Nome
+ Carlos Mendes. ;Obrigada, Carlos! E seu número de telemóvel para contato?;Coleta Dados - Telefone
+ 912 345 678. ;Ótimo! Nosso especialista em energia solar entrará em contato em até 24h. 🌞 Alguma outra dúvida?;Finalização Lead
+ Quanto custa em média? ;Vou encaminhar seu pedido para uma avaliação personalizada. Só mais uma coisa: qual o consumo mensal de energia (kWh)?;Restrição - Preços
+ Como funciona o agente de IA de vocês? ;O Neuronex é nosso assistente virtual 24/7 para atendimento e automações. Posso te enviar um case de sucesso? Qual seu e-mail?;FAQ - Produtos
+ Preciso de um site responsivo. ;Excelente! 😊 Será site institucional, loja virtual ou blog?;Qualificação Lead - Sites
+ Quero integrar WhatsApp com CRM. ;Ótima escolha! Já utiliza algum CRM (Bitrix24, Salesforce)?;Qualificação - Integração
+ Sim, usamos Bitrix24. ;Perfeito! Nossos agentes integram-se nativamente com Bitrix24. Posso agendar uma demonstração?;Venda Cruzada
+ Quero orçamento para redes sociais. ;Claro! Para Instagram, Facebook ou LinkedIn? 📱;Qualificação Lead - Mídias
+ Vocês atendem o Porto? ;Sim! Atendemos todo Portugal continental e ilhas.;Localização
+ Já trabalho com outra agência. ;Entendo! Caso queira comparar nossos diferenciais, posso enviar um material exclusivo. Qual seu e-mail?;Objeção - Concorrente
+ Preciso de automação com IA. ;Ótimo! Para qual área (atendimento, vendas, suporte)?;Qualificação - IA
+ Tenho urgência num projeto. ;Anotado! Nosso time prioritário entrará em contato em até 2h. Confirme seu telefone: 912 345 678 está correto?;Lead Urgente
+ Como é o suporte de vocês? ;Oferecemos suporte 24/7 via WhatsApp, e-mail e telefone. 🌟 Precisa de ajuda imediata?;FAQ - Suporte
+ Quero migrar minha energia. ;Ótima decisão! Posso verificar se há benefícios fiscais para seu caso. Qual seu NIF?;Venda - Energia
+ Preciso de chatbot para meu site. ;Claro! Deve ser em português de Portugal ou multilíngue?;Qualificação - Chatbot
+ Tem contrato mínimo? ;Nossos planos são flexíveis. Vou encaminhar seu pedido para análise personalizada. Seu e-mail cadastrado é carlos@email.com?;Restrição - Contratos
+ Quero falar com um humano. ;Sem problemas! Um especialista entrará em contato em 5 minutos. 📞 Confirmo seu número: 912 345 678?;Escalonamento
+ Como faço para cancelar? ;Lamento ouvir isso! Nossa equipe de retenção entrará em contato para ajudar. Algum feedback específico?;Retenção
+ Vocês fazem sites acessíveis? ;Sim! Desenvolvemos com WCAG 2.1 AA. Precisa para algum público específico?;Especialização
+ Preciso de relatórios mensais. ;Oferecemos dashboards automáticos! Posso enviar um modelo? Qual seu e-mail corporativo?;Venda - Mídias
+ Tem desconto para ONGs? ;Temos condições especiais! Envie seu registro de utilidade pública para avaliação.;Venda - Descontos
+ Como atualizo meus dados? ;Basta responder este WhatsApp com 'ATUALIZAR DADOS' que um agente te ajudará.;FAQ - Cadastro
+ Quero apenas informação. ;Sem problemas! Posso te enviar nosso catálogo digital. Qual seu e-mail?;Lead Frio
+ Meu e-mail é ana@ong.pt. ;Obrigada, Ana! 📩 Encaminhei o material completo. Nossa equipe de ONGs entrará em contato.;Follow-up
+ Qual a vantagem do Neuronex? ;Reduz até 80% do tempo de atendimento com IA 24/7. Quer um caso real do setor de saúde?;Diferencial
+ Preciso de treinamento. ;Oferecemos capacitação presencial e online. Quantas pessoas precisam ser certificadas?;Venda - Serviços
+ Tem garantia? ;Sim! Todos nossos projetos têm garantia de 12 meses. Posso explicar os termos?;FAQ - Garantia
+ Quero demo gratuita. ;Claro! Agendamos para hoje às 15h ou amanhã de manhã? ⏰;Venda - Demonstração
+ Como vejo meu histórico? ;Seu consultor enviará relatórios mensais. Posso adicionar mais algum e-mail?;FAQ - Histórico
+ Preciso de fatura com NIF. ;Sem problemas! Confirme os dados fiscais: nome 'Carlos Mendes', NIF 123456789?;FAQ - Faturação
+ Quero só energia, obrigada. ;Entendido! Nosso especialista em soluções energéticas entrará em contato exclusivamente sobre isso.;Segmentação
+ Meu colega já é cliente. ;Ótimo! Temos programa de indicação com benefícios. Posso vincular seu cadastro?;Fidelização
+ Qual o prazo para sites? ;Em média 15 dias úteis. Precisa de alguma data específica?;FAQ - Prazos
+ Como é o pós-venda? ;Oferecemos suporte dedicado e revisões trimestrais gratuitas. Quer agendar a primeira?;Pós-Venda
+ Vocês fazem manutenção? ;Sim! Temos planos anuais com visitas técnicas programadas. Interessa?;Venda - Serviços
+ Preciso de SEO no site. ;Incluímos otimização básica em todos projetos. Quer upgrade para SEO avançado?;Upsell
+ Tem referências de clientes? ;Claro! Posso enviar cases do seu setor (saúde, educação, etc.). Qual seu ramo?;Prova Social
+ Quero cotação para IA. ;Vou preparar uma proposta personalizada. Só confirmo: será para automação de atendimento?;Qualificação - IA
+ Como cadastro novos usuários? ;Nosso time de onboarding fará isso para você. Quantas licenças precisa?;FAQ - Setup
+ Preciso de ajuda técnica. ;Nossa equipe de suporte já foi acionada! Ticket #12345. Atualizaremos em 30min.;Suporte
+ Quero renegociar contrato. ;Vou transferir para nosso departamento comercial. Um momento... 🔄;Escalonamento
+ Qual a área de cobertura? ;Atendemos todo território nacional. Precisa de instalação em múltiplas localidades?;FAQ - Cobertura
+ Tem app móvel? ;Nossas soluções são web-responsive, mas podemos desenvolver apps nativos. Interessa?;Venda - Apps
+ Preciso de resposta urgente. ;Priorizamos seu atendimento! Um especialista entrará em contato em 10 minutos. ⏱️;Urgência
+ Como solicito suporte? ;Basta digitar 'SUPORTE' aqui que um técnico será acionado imediatamente.;FAQ - Suporte
+ Quero cancelar meu plano. ;Lamentamos isso! Nossa equipe de retenção entrará em contato para oferecer alternativas.;Retenção
+ Preciso do certificado. ;Enviaremos por e-mail em 24h. Confirme o endereço: carlos@email.com?;FAQ - Documentos
+ Qual o próximo passo? ;Nossa equipe entrará em contato em até 1h com instruções. Fique atento ao telefone! 🌟;Finalização
+ Quais os benefícios de ter um site profissional? ; Olá! 😊 Ter um site profissional com a ScriptAI traz: 1) Visibilidade 24/7, 2) Credibilidade para sua marca, 3) Geração de leads e vendas, 4) Alcance global e 5) Experiência perfeita em todos dispositivos. Posso te enviar um case de sucesso? Qual seu e-mail? ;Benefícios
+ Vocês fazem sites para e-commerce? ; Sim! Desenvolvemos lojas virtuais completas com: 🛒 Gestão de estoque, múltiplos métodos de pagamento e integração com marketplaces. É para produtos físicos ou digitais? ;E-commerce
+ Quanto custa um site institucional? ; Oferecemos planos a partir de 399€ (investimento inicial) + mensalidade. Vou encaminhar seu pedido para um orçamento personalizado! Para isso, preciso do seu nome e e-mail. 😊 ;Orçamento
+ O que está incluído no Plano Ouro? ; O Plano Ouro 🟡 inclui: 1) Site/e-commerce até 20 páginas, 2) Design exclusivo, 3) Área de clientes com login, 4) Hospedagem VPS, 5) Backup diário e 6) Suporte prioritário. Quer agendar uma demonstração? ;Planos
+ Quanto tempo leva para desenvolver um site? ; Nosso processo leva em média 4 semanas (do briefing ao lançamento). Para sites urgentes, temos priorização com taxa especial. Precisa para alguma data específica? ;Processo
+ Vocês garantem posicionamento no Google? ; Aplicamos SEO avançado em todos projetos! Um cliente alcançou a 1ª página do Google em 3 meses. Quer saber como? Me informe seu nicho de atuação. 😊 ;SEO
+ Preciso migrar meu site antigo. Vocês ajudam? ; Com certeza! Nesta semana temos promoção com migração gratuita. Posso verificar a compatibilidade do seu site atual? Qual a plataforma utilizada? ;Migração
+ O que é UX/UI avançado? ; É o design que alia beleza e funcionalidade! Criamos: 1) Fluxos intuitivos, 2) Elementos visuais estratégicos e 3) Testes com usuários reais. Temos um portfólio para te mostrar. Interessa? ;Tecnologia
+ Como funciona o suporte pós-lançamento? ; Oferecemos: 1) Atualizações mensais, 2) Monitoramento 24/7, 3) Relatórios de desempenho e 4) Treinamentos. No Plano Diamante, incluímos suporte VIP com desenvolvedor dedicado. 😊 ;Suporte
+ Vocês integram chatbots de IA? ; Sim! Integramos o Neuronex para atendimento automático 24h. Reduzimos em 60% o tempo de resposta numa clínica médica. Posso te enviar esse case? ;IA
+ Quais tecnologias usam no desenvolvimento? ; Trabalhamos com: 1) Front-end: React/HTML5, 2) Back-end: Node.js/Python, 3) CMS: WordPress/Shopify e 4) SEO: SEMrush/Google Analytics. Prefere alguma tecnologia específica? ;Tecnologia
+ Tem desconto para ONGs? ; Temos condições especiais para ONGs! Precisa enviar seu registro de utilidade pública. Posso adiantar que o desconto chega a 20% no Plano Prata. Qual seu e-mail para envio dos detalhes? ;Descontos
+ O site funciona bem em celulares? ; Todos nossos sites são 100% responsivos! Um cliente teve aumento de 75% em acessos móveis após a migração para nossa plataforma. Quer testar um demo no seu dispositivo? ;Mobile
+ Preciso de um blog corporativo. Fazem? ; Claro! Blogs são ótimos para: 1) Autoridade, 2) Tráfego orgânico e 3) Nutrição de leads. Incluímos estrutura de SEO e editor visual intuitivo. Já tem uma estratégia de conteúdo? ;Blogs
+ Como é o processo de pagamento? ; Trabalhamos com: 1) 50% no início, 2) 30% na aprovação do layout e 3) 20% no lançamento. Aceitamos transferência, cartão e PayPal. Posso enviar nossa política completa? ;Pagamento
+ Vocês registram o domínio para mim? ; Sim! Todos planos incluem domínio gratuito no 1º ano (.pt ou .com). Após isso, a renovação é de apenas 15€/ano. Já tem um nome em mente para seu site? ;Domínio
+ Preciso de site em inglês e português. ; Oferecemos sites multilíngue (até 3 idiomas)! Um restaurante aumentou 40% em reservas de turistas com nosso serviço. Quer ver esse case? ;Multilíngue
+ O que preciso fornecer para começar? ; Apenas: 1) Briefing dos objetivos, 2) Conteúdo básico (textos/imagens) e 3) Feedback nos protótipos. Do resto, cuidamos nós! Tem tudo isso organizado? ;Requisitos
+ Tem casos de sucesso para mostrar? ; Claro! Um e-commerce de moda aumentou 120% nas vendas. Posso te enviar o portfólio completo. Me confirme seu e-mail corporativo. 📁 ;Portfólio
+ Qual a diferença entre WordPress e site customizado? ; WordPress é ideal para quem quer autogestão (incluído no Plano Prata). Sites customizados (Planos Ouro/Diamante) oferecem mais performance e exclusividade. Qual seu nível de conhecimento técnico? ;CMS
+ O que é o NeuroneX? ; Olá! 😊 O NeuroneX é o agente de IA avançado da ScriptAI que revoluciona atendimento ao cliente com: 1) Processamento de Linguagem Natural, 2) Integração com ChatGPT, 3) Respostas dinâmicas 24/7. Posso te enviar um vídeo demonstrativo? Qual seu e-mail? ;Definição
+ Quais os principais problemas que o NeuroneX resolve? ; Ótima pergunta! Resolvemos: 1) Atendimento limitado a horário comercial, 2) Respostas lentas, 3) Informações inconsistentes, 4) Custos altos com equipes. Um cliente reduziu 70% nos custos! Quer o case completo? ;Benefícios
+ Como funciona a integração com WhatsApp? ; Integramos via API oficial! O NeuroneX gerencia: 1) Atendimento automático, 2) Qualificação de leads, 3) Agendamentos. Já usamos em 50+ empresas. Precisa de demonstração prática? ;Integrações
+ Qual a diferença entre os planos Essencial e Pro? ; O Plano Pro 🌟 inclui: 1) 3 canais (WhatsApp+Telegram+Messenger), 2) Qualificação de leads, 3) Integração com Bitrix24, 4) Relatórios semanais. Posso te enviar uma tabela comparativa? ;Planos
+ Quanto tempo leva para implementar? ; Em média 2 semanas! Passos: 1) Briefing (2 dias), 2) Configuração (5 dias), 3) Testes (3 dias). Tem urgência? Temos priorização expressa. ;Implementação
+ O NeuroneX substitui atendentes humanos? ; De modo algum! 😊 Ele potencializa sua equipe: 1) Elimina tarefas repetitivas, 2) Libera tempo para ações estratégicas. Um cliente realocou a equipe para vendas complexas! ;Humanização
+ Preciso treinar minha equipe para usar? ; Não! No Plano Enterprise incluímos treinamento, mas o sistema é intuitivo. Temos tutoriais em vídeo para todos os planos. Quer acesso a um demo? ;Treinamento
+ Como é o suporte técnico? ; Oferecemos: 1) Email (todos planos), 2) Telefone (Pro), 3) 24/7 (Enterprise). Resposta em até 1h para emergências no Enterprise. Posso te mostrar nosso SLA? ;Suporte
+ Vocês fazem integração com meu CRM atual? ; Sim! Integramos com: 1) Bitrix24 (nativo), 2) Salesforce/Outros (via API). Já conectamos a 15+ sistemas diferentes. Qual CRM você usa? ;CRM
+ Qual o ROI médio do NeuroneX? ; Clientes obtêm ROI em 2-6 meses! Exemplo: Loja de moda reduziu custos em 65% e aumentou vendas 40%. Quer uma calculadora personalizada de ROI? ;ROI
+ O NeuroneX funciona para e-commerce? ; Perfeitamente! 🛒 Atendemos: 1) Dúvidas sobre produtos, 2) Rastreio de pedidos, 3) Devoluções. Um cliente reduziu 40% no abandono de carrinho! ;E-commerce
+ Como vocês garantem a segurança dos dados? ; Usamos: 1) Criptografia AES-256, 2) Certificado SSL, 3) Compliance com GDPR. Nunca tivemos breaches em 5 anos! Precisa de nosso whitepaper de segurança? ;Segurança
+ Preciso comprar hardware adicional? ; Nada! O NeuroneX é 100% cloud. Só precisa: 1) Conexão à internet, 2) Dispositivo para acessar o painel. Mesmo smartphones funcionam! ;Infraestrutura
+ O plano Essencial atende empresa com 50 funcionários? ; Recomendamos o Pro para esse porte! Motivos: 1) Suporte por telefone, 2) 3 canais integrados, 3) Até 150 intenções. Posso simular um orçamento? ;Dimensionamento
+ Como atualizo a base de conhecimento? ; No Essencial: via painel intuitivo. Nos outros planos: 1) Atualizações trimestrais (Pro), 2) Mensais (Enterprise). Oferecemos serviço de curadoria também! ;Atualizações
+ O NeuroneX entende gírias e regionalismos? ; Sim! Nosso PLN avançado capta: 1) Contexto, 2) Intenção, 3) Sentimento. Um cliente no Porto teve 95% de acurácia com expressões locais! ;NLP
+ Vocês oferecem teste gratuito? ; Temos demonstração personalizada de 30 minutos! No Enterprise: teste de 7 dias. Quer agendar? Indique 3 horários esta semana. 😊 ;Testes
+ Como é cobrado o uso excedente? ; Não cobramos por mensagem! Todos planos têm: 1) Atendimento ilimitado, 2) Sem taxas extras. Só pagaria upgrade de plano se precisar de mais funcionalidades. ;Cobrança
+ O NeuroneX envia e-mails automaticamente? ; No Pro e Enterprise: sim! Integramos com: 1) Campanhas, 2) Follow-ups, 3) Notificações. Um cliente automatizou 80% dos e-mails de suporte! ;Automação
+ Consigo ver métricas de desempenho? ; Relatórios incluídos: 1) Mensais (Essencial), 2) Semanais (Pro), 3) Tempo real (Enterprise). Mostramos: taxa de resposta, satisfação, conversões. Quer um exemplo? ;Métricas
+ Como lidam com perguntas muito específicas? ; 1) Busca na base de conhecimento, 2) Transferência para humano (se configurado), 3) Resposta padrão com tempo estimado para solução. Taxa de resolução: 92%! ;Complexidade
+ Preciso de desenvolvedor para implementar? ; Não! Nossa equipe faz tudo: 1) Configuração, 2) Integrações, 3) Testes. Você só precisa validar. Já implementamos em 3h para casos urgentes! ;Implementação
+ O NeuroneX funciona em outros idiomas? ; Sim! Suportamos: 1) Português (PT/BR), 2) Inglês, 3) Espanhol. No Enterprise: até 3 idiomas simultâneos. Precisa de outros? ;Idiomas
+ Como é o processo de migração de outro chatbot? ; Migração gratuita nesta semana! Passos: 1) Exportamos seus dados, 2) Adaptamos fluxos, 3) Validamos juntos. Já migramos 17 sistemas diferentes. ;Migração
+ Vocês fornecem a documentação técnica? ; Sim! Todos clientes recebem: 1) Manual de uso, 2) API docs, 3) Vídeo-tutoriais. No Enterprise: documentação customizada para sua equipe. ;Documentação
+ Qual o volume de mensagens suportado? ; Ilimitado! Arquitetura escalável: 1) Até 1.000 msg/min (Essencial), 2) 10.000 msg/min (Enterprise). Nunca caímos em picos de demanda! ;Performance
+ Consigo personalizar a personalidade do bot? ; Totalmente! No Enterprise: 1) Tom de voz, 2) Nome, 3) Avatar, 4) Respostas customizadas. Um restaurante criou um bot 'chef' muito engraçado! ;Personalização
+ Como é o atendimento em feriados? ; 24/7/365! O NeuroneX não dorme 😊. Um cliente de turismo atendeu 92% mais consultas no Natal sem aumentar custos! ;Disponibilidade
+ O NeuroneX aprende com as interações? ; Sim! Nos planos Pro/Enterprise: 1) Machine Learning adaptativo, 2) Sugestões de melhoria. A cada 1.000 interações, a precisão aumenta 3%! ;Aprendizado
+ Tem contrato de fidelidade? ; Não! Pode cancelar a qualquer momento. Mas 97% dos clientes renovam após 6 meses pelos resultados. Quer falar com um deles? ;Contrato
+ Como é o processo de cancelamento? ; Simples: 1) Solicitação por email, 2) Backup dos dados, 3) Confirmação. Sem multas ou letras miúdas. Já cancelou algum serviço parecido? ;Cancelamento
+ Vocês têm certificações de qualidade? ; Sim! ISO 27001 (segurança), GDPR (dados), e premio 'Melhor IA para Atendimento 2023'. Quer os certificados para seu compliance? ;Certificações
+ O NeuroneX envia arquivos e imagens? ; Sim! Todos planos suportam: 1) PDFs, 2) Imagens, 3) Links. No Enterprise: envio automático de manuais e catálogos. ;Mídias
+ Consigo filtrar palavras inadequadas? ; Totalmente! Temos: 1) Filtro de palavrões, 2) Moderação manual, 3) Alertas para termos sensíveis. Personalizável por política da empresa. ;Moderação
+ Como é a recuperação de dados? ; Backups: 1) Diários (Enterprise), 2) Semanais (Pro), 3) Sob demanda. Retenção por 180 dias. Nunca perdemos dados em 5 anos! ;Backup
+ O NeuroneX funciona offline? ; Precisa de internet, mas temos modo 'reserva' que: 1) Armazena mensagens localmente, 2) Envia quando reconectado. Já salvou 12.000+ interações! ;Offline
+ Tem limite de usuários no painel? ; Não! Todos planos permitem: 1) Usuários ilimitados, 2) Controle de acesso, 3) Hierarquias. Um cliente tem 47 usuários ativos! ;Usuários
+ Como é a escalabilidade para grandes empresas? ; Arquitetura enterprise-ready: 1) Balanceamento de carga, 2) CDN global, 3) SLA 99.99%. Atendemos multinacionais com 1M+ msg/dia! ;Escalabilidade
+ Vocês fazem análise de sentimentos? ; No Enterprise: sim! Detectamos: 1) Frustração, 2) Satisfação, 3) Urgência. Acionamos humanos quando necessário. 89% de precisão! ;Sentimento
+ Consigo exportar os dados para Excel? ; Sim! Todos planos permitem exportar: 1) Histórico, 2) Métricas, 3) Leads. No Enterprise: API para integração com BI. ;Exportação
+ O NeuroneX atende LGPD? ; Totalmente! Oferecemos: 1) Anonimização de dados, 2) Portabilidade, 3) Relatórios de compliance. Somos auditados trimestralmente. ;LGPD
+ Tem versão mobile do painel? ; Sim! Painel 100% responsivo. Um cliente gerencia tudo pelo celular. Quer acessar nosso demo mobile agora? ;Mobile
+ Como é o upgrade entre planos? ; Sem interrupção! Processo: 1) Solicitação, 2) Pagamento da diferença, 3) Liberação em 2h. Já fizemos 83 upgrades este ano! ;Upgrade
+ O NeuroneX sugere produtos? ; No Pro/Enterprise: sim! Com base em: 1) Histórico, 2) Estoque, 3) Campanhas. Uma loja aumentou 23% em vendas cruzadas! ;Vendas
+ Consigo criar fluxos complexos? ; Sim! No Essencial: fluxos básicos. Nos outros: 1) Condicionais, 2) Variáveis, 3) Integrações em tempo real. Mostro um exemplo? ;Fluxos
+ O que acontece se o bot não souber responder? ; 1) Busca na base, 2) Transferência para humano, 3) Resposta padrão com tempo estimado. Taxa de fallback: apenas 8%! ;Fallback
+ Vocês fornecem número de WhatsApp? ; No Enterprise: sim! Incluímos número dedicado. Outros planos: integração com seu número existente. Precisa de um novo? ;WhatsApp
+ Consigo testar antes de comprar? ; Temos: 1) Demonstração ao vivo, 2) POC (Enterprise), 3) Cases em seu setor. Agendo para você agora? ;Testes
+ O NeuroneX funciona com WhatsApp Business? ; Perfeitamente! Integramos com: 1) API Oficial, 2) Soluções terceiras. 72% dos nossos clientes usam no WhatsApp. ;WhatsApp
+ Como é o treinamento da IA? ; 1) Base inicial com seus dados, 2) Aprendizado contínuo, 3) Ajustes manuais (opcional). Em 30 dias, precisão média é 94%! ;Treinamento
+ Tem limite de intenções na base? ; Sim: 1) 50 (Essencial), 2) 150 (Pro), 3) Ilimitado (Enterprise). Mas otimizamos para que 20 intenções cubram 80% dos casos! ;Intenções
+ O NeuroneX faz agendamentos? ; Sim! Integra com: 1) Google Calendar, 2) Outlook, 3) Bitrix24. Um consultório médico agendou 300 consultas/mês automaticamente! ;Agendamento
+ Consigo segmentar respostas por perfil? ; No Enterprise: sim! Por: 1) Tipo de cliente, 2) Histórico, 3) Comportamento. Aumentamos a relevância em 65%! ;Segmentação
+ O NeuroneX reconhece imagens? ; No Enterprise: sim! Lê: 1) Texto em imagens, 2) QR Codes, 3) Produtos. Uma imobiliária automatizou 50% dos processos com fotos! ;OCR
+ Como é o atendimento em campanhas? ; Preparamos para picos! Recursos: 1) Escalonamento automático, 2) Respostas prioritárias, 3) Gatilhos para humanos. Suportamos Black Friday! ;Campanhas
+ O NeuroneX substitui meu CRM? ; Não! Ele complementa. Exemplo: 1) Qualifica leads para o CRM, 2) Alimenta dados, 3) Aciona workflows. Integração é perfeita! ;CRM
+ Consigo criar respostas com atraso? ; Sim! Programamos: 1) Respostas agendadas, 2) Sequências, 3) Lembretes. Uma escola reduziu 40% nas faltas com lembretes! ;Agendamento
+ O NeuroneX funciona em quiosques? ; Sim! Já implementamos em: 1) Lojas, 2) Aeroportos, 3) Hotéis. Modo quiosque: interface simplificada e offline. ;Quiosque
+ Tem integração com Google Sheets? ; No Pro/Enterprise: sim! Atualiza planilhas em tempo real. Um cliente automatizou relatórios de estoque assim! ;Google
+ O NeuroneX gera contratos? ; No Enterprise: sim! Com: 1) Dados do CRM, 2) Assinatura eletrônica, 3) Armazenamento. Um advogado automatizou 80% dos contratos! ;Documentos
+ Consigo usar em eventos ao vivo? ; Perfeito para eventos! Features: 1) Check-in digital, 2) Q&A automático, 3) Coleta de leads. Usamos na Web Summit! ;Eventos
+ O NeuroneX tem versão white-label? ; No Enterprise: sim! Com: 1) Sua marca, 2) Domínio próprio, 3) App customizado. Já criamos 12 soluções white-label! ;White-label
+ Como é o pós-venda? ; Customer Success dedicado: 1) Reuniões mensais, 2) Relatórios de ROI, 3) Sugestões de melhoria. NPS médio: 92! ;Pós-venda
+ O NeuroneX sugere artigos de ajuda? ; Sim! No Pro/Enterprise: 1) Recomenda conteúdo, 2) Links para FAQs, 3) Tutoriais. Reduziu 35% os tickets de suporte! ;Ajuda
+ Consigo bloquear por horário comercial? ; Configurável! Pode: 1) Definir horários, 2) Mensagem fora do expediente, 3) Escalonar emergências. Flexível! ;Horário
+ O NeuroneX envia notificações push? ; No Enterprise: sim! Para: 1) Novos leads, 2) Mensagens urgentes, 3) Métricas. Integra com Slack/MS Teams também! ;Notificações
+ Tem desconto para ONGs? ; Sim! 15% em todos planos + 1 mês grátis. Precisa enviar registro de utilidade pública. Já atendemos 23 ONGs! ;Descontos
+ O NeuroneX funciona com WhatsApp Business API? ; Sim! Somos parceiros oficial. Processo: 1) Aprovação em 48h, 2) Configuração, 3) Go-live. Taxa de aprovação: 100%! ;WhatsApp
+ Consigo rastrear dispositivos? ; Não coletamos dados de dispositivo por privacidade. Mas identificamos usuários por: 1) Número, 2) Email, 3) ID interno. ;Privacidade
+ O NeuroneX tem versão para restaurantes? ; Temos template pronto! Com: 1) Reservas, 2) Cardápio digital, 3) Feedback pós-refeição. Aumenta 30% em avaliações! ;Templates
+ Como é o controle de acesso? ; Hierarquias flexíveis: 1) Admin, 2) Gerente, 3) Agente. No Enterprise: SSO e LDAP. Auditamos 156 acessos/mês em média. ;Acessos
+ O NeuroneX envia pesquisas de satisfação? ; Sim! Automatiza: 1) NPS, 2) Pesquisas pós-atendimento, 3) Relatórios. Um hotel melhorou de 3.8 para 4.7 estrelas! ;Pesquisas
+ Consigo integrar com sistema legado? ; Sim! Já conectamos a: 1) AS/400, 2) Cobol, 3) Sistemas proprietários. Nossa equipe desenvolve conectores customizados. ;Legado
+ O NeuroneX tem API para desenvolvedores? ; Sim! Documentação completa: 1) RESTful, 2) Webhooks, 3) SDKs. 83% dos clientes Enterprise usam a API! ;API
+ Como é o tratamento de dados sensíveis? ; Máscara automática para: 1) CPF, 2) Cartões, 3) Saúde. Armazenamento criptografado. Auditado pela ANPD. ;Dados
+ O NeuroneX sugere respostas para humanos? ; No Enterprise: sim! Durante transferências: 1) Contexto completo, 2) Sugestões, 3) Histórico. Agiliza 40% o atendimento! ;Humanos
+ Consigo usar para treinar novos funcionários? ; Sim! Template de 'Bot Treinador' com: 1) FAQs internas, 2) Simuladores, 3) Testes. Reduziu 70% o tempo de onboarding! ;Treinamento
+ O NeuroneX funciona em máquinas de autoatendimento? ; Perfeitamente! Modo quiosque: 1) Touchscreen, 2) Offline, 3) Integração com hardware. Já implementamos em 9 redes varejo. ;Quiosque
+ Tem como testar a velocidade de resposta? ; Sim! No painel: 1) Testes de carga, 2) Latência por região, 3) Histórico. Média: 1.2s por resposta (99th percentile). ;Performance
+ O NeuroneX gera certificados? ; No Enterprise: sim! Para: 1) Cursos, 2) Compras, 3) Eventos. Uma escola emitiu 12.000 certificados automaticamente! ;Certificados
+ Consigo criar um bot 'divertido'? ; Claro! Personalizamos: 1) Tom humorado, 2) Memes (sob aprovação), 3) Gamificação. Uma sorveteria viralizou com o bot 'Gelado'! ;Persona
+ O NeuroneX funciona em TVs corporativas? ; Sim! Modo display: 1) Dados em tempo real, 2) Interação via app, 3) KPI dashboards. Implementamos em 5 redes de hotéis. ;TV
+ Tem limite geográfico de atendimento? ; Não! Atendemos globalmente. Temos: 1) CDN em 12 países, 2) Tradução automática (Enterprise), 3) Moedas locais. ;Global
+ O NeuroneX prioriza mensagens urgentes? ; Sim! Classifica por: 1) Palavras-chave (ex: 'urgente'), 2) Histórico, 3) Sentimento. Redireciona para humanos se necessário. ;Urgência
+ Consigo usar para pesquisas de mercado? ; Template pronto! Coleta: 1) Dados demográficos, 2) Preferências, 3) NPS. Uma marca fez 15.000 entrevistas em 3 dias! ;Pesquisas
+ O NeuroneX tem selos de acessibilidade? ; Sim! WCAG 2.1 AA para: 1) Leitores de tela, 2) Alto contraste, 3) Navegação por teclado. Orgulho deste diferencial! ;Acessibilidade
+ Como é o atendimento para surdos? ; No Enterprise: 1) Integração com libras, 2) Transcrição de vídeos, 3) Chat textual prioritário. Projeto premiado! ;Inclusão
+ O NeuroneX substitui meu call center? ; Parcialmente! Indicado para: 1) Primeiro contato, 2) FAQs, 3) Triagem. Um call center reduziu 60% no volume de ligações! ;CallCenter
+ Consigo cobrar via bot? ; No Enterprise: sim! Com: 1) Links de pagamento, 2) Carrinho, 3) Notas fiscais. Uma consultoria faturou 80k/mês pelo bot! ;Pagamentos
+ O NeuroneX tem versão para condomínios? ; Template pronto! Com: 1) Avisos, 2) Reservas, 3) Portaria virtual. Reduziu 90% as ligações para síndicos! ;Templates
+ Como é o atendimento para idosos? ; Modo simplificado: 1) Fontes maiores, 2) Linguagem clara, 3) Confirmações extras. Um plano de saúde adorou! ;Idosos
+ O NeuroneX funciona em totens de aeroporto? ; Sim! Já implementamos em: 1) Check-in, 2) Informações, 3) Emergências. 24/7 sem falhas! ;Totens
+ Consigo usar para recrutamento? ; Template de RH! Automatiza: 1) Triagem CVs, 2) Agendamento entrevistas, 3) FAQs. Uma empresa contratou 50 pessoas em 2 semanas! ;RH
+ O NeuroneX gera relatórios para diretoria? ; No Enterprise: dashboards executivos com: 1) ROI, 2) Tendências, 3) Benchmarking. Exporta para PPT automaticamente! ;Dashboards
+ Tem como testar com 1 usuário primeiro? ; Sim! Piloto gratuito no Enterprise: 1) 1 departamento, 2) 2 semanas, 3) Relatório de impacto. 89% convertem para full depois! ;Piloto
+ O NeuroneX sugere melhorias na base? ; No Enterprise: sim! Analisa: 1) Perguntas sem resposta, 2) Fallbacks, 3) Sentimento. Otimizamos 38% das bases em 3 meses! ;Otimização
+ Consigo integrar com IoT? ; Sim! Já conectamos a: 1) Smart homes, 2) Sensores industriais, 3) Wearables. Case incrível em healthtech! ;IoT
+ O NeuroneX tem versão para franquias? ; Template multi-unidade! Com: 1) Controle central, 2) Customizações locais, 3) Métricas comparadas. 7 redes já usam! ;Franquias
+ Como é o atendimento em crises? ; Modo emergência: 1) Respostas pré-aprovadas, 2) Escalonamento automático, 3) Painel de situação. Testado em recall de produto! ;Crise
+ O NeuroneX funciona em drive-thru? ; Sim! Com: 1) Reconhecimento de voz, 2) Integração POS, 3) Painel do caixa. Rede fast-food reduziu 30% no tempo médio! ;Drive-thru
+ Consigo usar para pós-venda? ; Template de fidelização! Envia: 1) Dicas de uso, 2) Pesquisas, 3) Ofertas personalizadas. Aumentou 25% a retenção! ;Fidelização
+ O NeuroneX gera contratos automáticos? ; No Enterprise: sim! Com: 1) Variáveis personalizadas, 2) Assinatura digital, 3) Armazenamento. Um escritório automatizou 1.200 contratos/mês! ;Contratos
+ Tem versão para escolas? ; Template educacional! Com: 1) Avisos aos pais, 2) Dúvidas sobre matrícula, 3) Tutoriais. Adoção em 12 escolas públicas! ;Educação
+ O NeuroneX funciona em call centers? ; Perfeitamente! Como: 1) Pré-atendimento, 2) Triagem, 3) Pós-venda. Um call center reduziu 40% no tempo por chamada! ;CallCenter
+ Consigo usar para eventos híbridos? ; Sim! Gerencia: 1) Inscrições, 2) Networking, 3) Q&A. Congresso com 5.000 participantes usou com sucesso! ;Eventos
+ O NeuroneX tem template para imobiliárias? ; Sim! Com: 1) Visitas virtuais, 2) Documentação, 3) Simulador financiamento. Uma rede vendeu 12 imóveis via bot! ;Templates
+ Como é o atendimento multicanal unificado? ; No Enterprise: 1) Histórico único, 2) Contexto preservado, 3) Priorização inteligente. NPS aumentou 35 pontos! ;Multicanal
+ O NeuroneX funciona em quiosques de museu? ; Sim! Modo cultural: 1) Tour virtual, 2) FAQs históricas, 3) Jogos educativos. Museu Nacional adotou! ;Museus
+ Consigo usar para triagem médica? ; Template saúde! Com: 1) Sintomas, 2) Urgência, 3) Encaminhamentos. Hospital reduziu 50% nas filas de emergência! ;Saúde
+ O NeuroneX gera recibos automaticamente? ; No Enterprise: sim! Integrado a: 1) Sistemas fiscais, 2) Bancos, 3) Notificações. Cliente emitiu 7.000 recibos em 1 dia! ;Documentos
+ Tem versão para serviços públicos? ; Template governo! Com: 1) Agendamentos, 2) Informações, 3) Alertas. Prefeitura reduziu 80% nas filas físicas! ;Governo
+ O NeuroneX funciona em telemarketing? ; Como assistente! Fornece: 1) Scripts dinâmicos, 2) Dados em tempo real, 3) Pós-chamada automática. Aumentou 28% em vendas! ;Telemarketing
+ Consigo usar para programas de fidelidade? ; Sim! Template com: 1) Pontuação, 2) Benefícios, 3) Resgates. Rede de postos aumentou 45% na retenção! ;Fidelidade
+ O NeuroneX tem template para advocacia? ; Sim! Com: 1) Consultas iniciais, 2) Prazos processuais, 3) Modelos de documentos. Escritório automatizou 200 consultas/mês! ;Advocacia
+ Como é o atendimento em catástrofes? ; Modo emergência ativado! Prioriza: 1) Informações vitais, 2) Localização abrigos, 3) Alertas. Usado em enchentes em 2023. ;Emergência
+ O NeuroneX funciona em estações de trem? ; Sim! Para: 1) Horários, 2) Bilhetes, 3) Informações. Operadora reduziu 60% nos balcões físicos! ;Transporte
+ Consigo usar para bibliotecas? ; Template cultural! Com: 1) Busca no acervo, 2) Renovação, 3) Eventos. Biblioteca Municipal atende 300/dia via bot! ;Bibliotecas
+ O NeuroneX gera atas de reunião? ; No Enterprise: sim! Com: 1) Transcrição, 2) Action items, 3) Integração com Teams. Empresa reduziu 8h/semana em burocracia! ;Reuniões
+ Tem versão para farmácias? ; Sim! Com: 1) Lembrete de medicamentos, 2) Interações, 3) Pedidos. Rede reduziu 30% em erros de medicação! ;Farmácias
+ O NeuroneX funciona em estádios esportivos? ; Perfeitamente! Para: 1) Ingressos, 2) Localização, 3) Emergências. Implementamos no Euro 2024! ;Esportes
+ Consigo usar para condomínios sábios? ; Template smart building! Controla: 1) Acessos, 2) Encomendas, 3) Manutenções. Edifício reduziu 70% na portaria 24h! ;Condomínios
+ O NeuroneX tem template para petshops? ; Sim! Com: 1) Lembrete vacinas, 2) Agendamento banho, 3) Dicas. Cliente fidelizou 85% dos clientes em 3 meses! ;Pets
+ Como é o atendimento em línguas indígenas? ; No Enterprise: podemos treinar modelos específicos. Parceria com FUNAI em projeto-piloto! ;Línguas
+ O NeuroneX funciona em navios de cruzeiro? ; Sim! Modo offline para: 1) Atividades, 2) Restaurantes, 3) Emergências. Implementado em 3 companhias! ;Cruzeiros
+ Consigo usar para aluguel de carros? ; Template mobilidade! Com: 1) Reservas, 2) Seguros, 3) Suporte 24h. Locadora aumentou 22% nas reservas diretas! ;Mobilidade
+ O NeuroneX gera ordens de serviço? ; No Enterprise: sim! Inteligente: 1) Prioriza, 2) Designa técnico, 3) Acompanha. Empresa reduziu 40% no tempo de reparo! ;Ordens
+ Tem versão para seguradoras? ; Sim! Com: 1) Sinistros, 2) Apólices, 3) Peritagem. Seguradora processou 85% dos sinistros automaticamente! ;Seguros
+ O NeuroneX funciona em parques temáticos? ; Perfeitamente! Para: 1) Mapa interativo, 2) Tempo de filas, 3) Fotografias. Disney já testou o conceito! ;Parques
+ Consigo usar para agências de viagem? ; Template turismo! Automatiza: 1) Pacotes, 2) Check-in, 3) Roteiros. Agência vendeu 1M em pacotes via bot! ;Turismo
+ O NeuroneX tem template para concessionárias? ; Sim! Com: 1) Test-drive, 2) Financiamento, 3) Pós-venda. Aumentou 35% em leads qualificados! ;Automóveis
+ Como é o atendimento para PCDs? ; Totalmente acessível! Com: 1) Leitor de tela, 2) Comandos de voz, 3) Design inclusivo. Premio Acessibilidade Digital 2023! ;PCDs
+ O NeuroneX funciona em casas de show? ; Sim! Para: 1) Ingressos, 2) Programação, 3) Regras. Casa em SP atende 500/dia sem filas! ;Eventos
+ Consigo usar para imigração? ; Template jurídico! Explica: 1) Vistos, 2) Documentos, 3) Prazos. Escritório triplicou capacidade de atendimento! ;Imigração
+ O NeuroneX gera laudos médicos? ; No Enterprise: sim! Baseado em: 1) Histórico, 2) Exames, 3) Protocolos. Clínica emitiu 200/dia com 99% de precisão! ;Saúde
+ Tem versão para cooperativas? ; Sim! Com: 1) Serviços financeiros, 2) Assembleias, 3) Benefícios. Sicoob implementou em 12 filiais! ;Cooperativas
+ O NeuroneX funciona em feiras livres? ; Modo offline! Para: 1) Pagamentos, 2) Pedidos, 3) Localização. Projeto social em 5 cidades! ;Feiras
+ Consigo usar para sindicatos? ; Template associativo! Gerencia: 1) Mensalidades, 2) Benefícios, 3) Atendimento. Reduziu 60% no tempo de resposta! ;Sindicatos
+ O NeuroneX tem template para artesãos? ; Sim! Com: 1) Catálogo, 2) Encomendas, 3) Pagamentos. Cooperativa aumentou vendas em 150%! ;Artesanato
 O que é o Bitrix24?;O Bitrix24 é uma plataforma all-in-one para gestão empresarial, integrando CRM, projetos, comunicação e automação em uma única solução.;FAQ Geral
 Quais os principais módulos do Bitrix24?;CRM, gestão de projetos, comunicação interna, sites/e-commerce, marketing automation e recursos humanos.;Funcionalidades
 O Bitrix24 tem versão gratuita?;Sim, oferecemos um plano gratuito com funcionalidades básicas para pequenas equipes.;Planos
