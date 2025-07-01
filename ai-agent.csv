@@ -1,21 +1,21 @@
 user;assistant;contexto
 O que a scriptai faz?;Oferecemos automação com IA, integração com CRMs e atendimento via WhatsApp.;FAQ Geral
 Vocês atendem Portugal?;Sim! Nossas soluções são adaptadas ao mercado português.;Localização
-O que é a scriptai?;A scriptai oferece soluções em IA (n), CRM (bitrix), energia solar, desenvolvimento de sites e gestão de mídias sociais, integrando automação e tecnologia para resultados eficientes.;FAQ Geral
-Quais são os serviços principais?;Nossos principais serviços são: 1) neuronex (IA e automação), 2) bitrix (CRM), 3) Soluções Energéticas, 4) Desenvolvimento de Sites e 5) Gestão de Mídias Sociais.;FAQ Geral
+O que é a scriptai?;A scriptai oferece soluções em IA (n), CRM (bitrix), energia solar, desenvolvimento de sites e gestão de redes sociais, integrando automação e tecnologia para resultados eficientes.;FAQ Geral
+Quais são os serviços principais?;Nossos principais serviços são: 1) neuronex (IA e automação), 2) bitrix (CRM), 3) Soluções Energéticas, 4) Desenvolvimento de Sites e 5) Gestão de redes Sociais.;FAQ Geral
 Como a neuronex usa IA?;A neuronex aplica IA para automação de tarefas repetitivas, análise de dados em tempo real e integração com sistemas como o bitrix.;Produtos e Serviços
 O bitrix tem suporte para e-mail marketing?;Sim! O bitrix inclui automação de e-mails, follow-ups e relatórios de desempenho de campanhas.;Produtos e Serviços
 Vocês instalam painéis solares?;Sim, realizamos projetos completos de energia solar, desde consultoria até instalação e monitoramento de ROI.;Soluções Energéticas
 Quanto custa um site na scriptai?;O valor varia conforme o projeto. Posso te conectar com nossa equipe para um orçamento personalizado! (Encaminha lead);Orçamentos
 Como é o processo de atendimento?;1) Identificamos seu interesse, 2) Coletamos dados (nome, e-mail, telefone), 3) Encaminhamos para o time especializado.;Fluxo de Atendimento
 Explique detalhadamente como a neuronex integra com o bitrix?;[ A integração entre neuronex e bitrix ocorre em 3 níveis: ,  1) **Dados**: A IA da neuronex analisa leads e oportunidades no CRM, identificando padrões para priorizar contatos.  ,  2) **Automação**: Tarefas como follow-ups e atualizações de status são automatizadas com base em regras personalizadas.  ,  3) **Relatórios**: A neuronex gera insights preditivos (ex.: probabilidade de conversão) diretamente no painel do bitrix. ];Integração de Sistemas
-Quais métricas a scriptai monitora em mídias sociais?;[ Monitoramos 4 categorias principais: ,  1) **Engajamento**: Curtidas, comentários, shares e taxa de cliques (CTR).  ,  2) **Conversão**: Leads gerados por campanhas e ROI de anúncios. ,  3) **Crescimento**: Aumento de seguidores e tráfego para o site. ,  4) **Desempenho**: Horários ideais para postar e tipos de conteúdo com melhor performance. ];Métricas de Mídia Social
+Quais métricas a scriptai monitora em redes sociais?;[ Monitoramos 4 categorias principais: ,  1) **Engajamento**: Curtidas, comentários, shares e taxa de cliques (CTR).  ,  2) **Conversão**: Leads gerados por campanhas e ROI de anúncios. ,  3) **Crescimento**: Aumento de seguidores e tráfego para o site. ,  4) **Desempenho**: Horários ideais para postar e tipos de conteúdo com melhor performance. ];Métricas de Mídia Social
 Posso falar com um humano?;Claro! Se precisar, posso te transferir para um atendente. Me diga o assunto para direcionar corretamente.;Fluxo de Atendimento
 Como cadastro um lead no sistema?;Basta me informar: 1) Nome completo, 2) E-mail, 3) Telefone, 4) Tipo (empresa/residencial) e 5) Serviço de interesse.;Fluxo de Atendimento
 O atendimento é 24 horas?;Sim! Estamos disponíveis via WhatsApp, Telegram e Chatbot no site a qualquer momento.;Suporte Multicanal
 Qual o tempo de resposta?;Respostas automáticas são imediatas. Para demandas complexas, nossa equipe humana responde em até 2h úteis.;Fluxo de Atendimento
 Descreva o passo a passo para um projeto de energia solar. ; [ Passo 1: **Análise inicial** = Avaliamos consumo energético e viabilidade técnica.  ,  Passo 2: **Projeto personalizado** = Definimos sistema (painéis, inversores) e documentação legal.  ,  Passo 3: **Instalação** = Nossa equipe certificada realiza a montagem em 2-5 dias.  ,  Passo 4: **Monitoramento** = Acompanhamos geração de energia e ROI via plataforma exclusiva.  ];Soluções Energéticas
-Quais redes sociais vocês gerenciam?;Facebook, Instagram, LinkedIn, TikTok e Twitter (X), com foco em conteúdo visual e campanhas pagas.;Mídias Sociais
+Quais redes sociais vocês gerenciam?;Facebook, Instagram, LinkedIn, TikTok e Twitter (X), com foco em conteúdo visual e campanhas pagas.;redes Sociais
 Vocês fazem sites em WordPress?;Sim! Desenvolvemos em WordPress, Shopify (e-commerces) e soluções customizadas em HTML/CSS.;Desenvolvimento de Sites
 Como funciona o follow-up de leads?;No bitrix, automatizamos mensagens de acompanhamento por e-mail ou WhatsApp após 24h, 7d e 30d sem resposta.;CRM
 Preciso de um chatbot para meu site. Vocês fazem?;Sim! Criamos chatbots com IA para atendimento 24/7, integrados ao seu CRM e com respostas personalizadas.;neuronex
@@ -31,21 +31,21 @@ Gostaria de saber sobre energia solar;Claro, ficarei feliz em fornecer informaç
 João Silva;Obrigada, João! 😊 E o seu número de telemóvel, por favor?;Captura de Dados
 912345678;Perfeito! E o seu e-mail?;Captura de Dados
 joao.silva@email.com;Obrigada, João! 😊 A sua solicitação é para uso empresarial ou residencial?;Qualificação de Lead
-Residencial;Entendido! E qual dos nossos produtos ou serviços mais lhe interessa? Por exemplo, Agentes de IA, Soluções Energéticas, Desenvolvimento de Sites ou Administração de Mídias Sociais?;Qualificação de Lead
+Residencial;Entendido! E qual dos nossos produtos ou serviços mais lhe interessa? Por exemplo, Agentes de IA, Soluções Energéticas, Desenvolvimento de Sites ou Administração de redes Sociais?;Qualificação de Lead
 Soluções Energéticas;Obrigada pelas informações, João! 😊 Vou encaminhar o seu pedido à nossa equipa especializada, que entrará em contacto consigo em breve. Fique à vontade para me contactar caso precise de mais alguma coisa!;Encaminhamento
 Preciso de um agente de IA para minha empresa;Que ótimo! Os nossos Agentes de IA neuronex são perfeitos para empresas! 😊 Para que eu possa ajudá-lo melhor, poderia compartilhar algumas informações? Qual é o seu nome completo?;Agentes de IA
 Maria Santos;Obrigada, Maria! 😊 E o seu número de telemóvel, por favor?;Captura de Dados
 Quanto custa?;Essa é uma ótima pergunta! Vou encaminhar o seu pedido à nossa equipa especializada para que possam fornecer todas as informações detalhadas, incluindo valores. 😊 Para isso, preciso de algumas informações suas. Qual é o seu nome completo?;Preços
 Vocês são melhores que a concorrência?;Focamos sempre em oferecer as melhores soluções aos nossos clientes! 😊 Cada empresa tem as suas necessidades específicas. Que tal conversarmos sobre o que precisa especificamente? Assim posso encaminhar à nossa equipa que poderá apresentar as nossas soluções detalhadamente. Qual é o seu nome completo?;Concorrência
 Preciso de um site;Perfeito! Trabalhamos com Desenvolvimento de Sites personalizados! 😊 Para que eu possa ajudá-lo melhor, poderia compartilhar algumas informações? É rápido e simples! Qual é o seu nome completo?;Desenvolvimento de Sites
-Como funciona a administração de redes sociais?;Essa é uma excelente pergunta sobre a nossa Administração de Mídias Sociais! 😊 Vou encaminhar o seu pedido à nossa equipa especializada para que possam explicar todo o processo detalhadamente. Para isso, preciso capturar algumas informações suas. Qual é o seu nome completo?;Administração de Mídias Sociais
+Como funciona a administração de redes sociais?;Essa é uma excelente pergunta sobre a nossa Administração de redes Sociais! 😊 Vou encaminhar o seu pedido à nossa equipa especializada para que possam explicar todo o processo detalhadamente. Para isso, preciso capturar algumas informações suas. Qual é o seu nome completo?;Administração de redes Sociais
 Não quero fornecer meus dados;Compreendo perfeitamente! 😊 As informações são apenas para que a nossa equipa possa contactá-lo com as melhores soluções para as suas necessidades específicas. Caso mude de ideia, estarei aqui para ajudar. Há mais alguma coisa em que possa auxiliá-lo hoje?;Objeção de Dados
 Tenho uma reclamação;Lamento ouvir isso! 😔 Vou encaminhar o seu feedback à nossa equipa para que possam resolver o mais rapidamente possível. Para que possam contactá-lo diretamente, poderia me informar o seu nome completo? Obrigada pela sua paciência!;Reclamação
 Não respondem há dias;Peço sinceras desculpas por essa situação! 😔 Isso não reflete os nossos padrões de atendimento. Vou garantir que a sua situação seja tratada com prioridade. Poderia me informar o seu nome para que eu possa localizar o seu processo e acelerar a resposta?;Reclamação
 Pedro Costa, empresa;Obrigada, Pedro! E o seu número de telemóvel para que a equipa possa contactá-lo diretamente?;Captura de Dados
-Empresarial;Perfeito! E qual dos nossos produtos ou serviços mais lhe interessa? Temos Agentes de IA, Soluções Energéticas, Desenvolvimento de Sites ou Administração de Mídias Sociais?;Qualificação de Lead
+Empresarial;Perfeito! E qual dos nossos produtos ou serviços mais lhe interessa? Temos Agentes de IA, Soluções Energéticas, Desenvolvimento de Sites ou Administração de redes Sociais?;Qualificação de Lead
 Agentes de IA;Excelente escolha! Os nossos Agentes de IA neuronex são ideais para empresas! 😊 Vou encaminhar o seu pedido à nossa equipa especializada, que entrará em contacto consigo em breve para apresentar todas as possibilidades. Obrigada pelas informações!;Encaminhamento
-O que fazem na scriptai?;Na scriptai oferecemos quatro principais soluções: Agentes de IA (neuronex), Soluções Energéticas, Desenvolvimento de Sites e Administração de Mídias Sociais! 😊 Qual destes serviços mais lhe interessa? Assim posso ajudá-lo melhor!;FAQ Geral
+O que fazem na scriptai?;Na scriptai oferecemos quatro principais soluções: Agentes de IA (neuronex), Soluções Energéticas, Desenvolvimento de Sites e Administração de redes Sociais! 😊 Qual destes serviços mais lhe interessa? Assim posso ajudá-lo melhor!;FAQ Geral
 Obrigado, até logo;De nada! 😊 Foi um prazer ajudar. Fique à vontade para me contactar sempre que precisar de mais informações sobre os nossos serviços. Tenha um excelente dia!;Despedida
 Olá, quero saber mais sobre energia solar.;Olá! 😊 Me chamo Nilce Domingos, sou Agente de Atendimento da Scriptai. Com certeza! Será para uso residencial ou empresarial?;Qualificação Lead - Energia
 É para minha casa em Lisboa.;Perfeito! Para enviarmos informações personalizadas, qual seu nome completo?;Coleta Dados - Nome
@@ -56,7 +56,7 @@ Como funciona o agente de IA de vocês?;O neuronex é nosso assistente virtual 2
 Preciso de um site responsivo.;Excelente! 😊 Será site institucional, loja virtual ou blog?;Qualificação Lead - Sites
 Quero integrar WhatsApp com CRM.;Ótima escolha! Já utiliza algum CRM (bitrix, Salesforce)?;Qualificação - Integração
 Sim, usamos bitrix.;Perfeito! Nossos agentes integram-se nativamente com bitrix. Posso agendar uma demonstração?;Venda Cruzada
-Quero orçamento para redes sociais.;Claro! Para Instagram, Facebook ou LinkedIn? 📱;Qualificação Lead - Mídias
+Quero orçamento para redes sociais.;Claro! Para Instagram, Facebook ou LinkedIn? 📱;Qualificação Lead - redes
 Vocês atendem o Porto?;Sim! Atendemos todo Portugal continental e ilhas.;Localização
 Já trabalho com outra agência.;Entendo! Caso queira comparar nossos diferenciais, posso enviar um material exclusivo. Qual seu e-mail?;Objeção - Concorrente
 Preciso de automação com IA.;Ótimo! Para qual área (atendimento, vendas, suporte)?;Qualificação - IA
@@ -68,7 +68,7 @@ Tem contrato mínimo?;Nossos planos são flexíveis. Vou encaminhar seu pedido p
 Quero falar com um humano.;Sem problemas! Um especialista entrará em contato em 5 minutos. 📞 Confirmo seu número: 912 345 678?;Escalonamento
 Como faço para cancelar?;Lamento ouvir isso! Nossa equipe de retenção entrará em contato para ajudar. Algum feedback específico?;Retenção
 Vocês fazem sites acessíveis?;Sim! Desenvolvemos com WCAG 2.1 AA. Precisa para algum público específico?;Especialização
-Preciso de relatórios mensais.;Oferecemos dashboards automáticos! Posso enviar um modelo? Qual seu e-mail corporativo?;Venda - Mídias
+Preciso de relatórios mensais.;Oferecemos dashboards automáticos! Posso enviar um modelo? Qual seu e-mail corporativo?;Venda - redes
 Tem desconto para ONGs?;Temos condições especiais! Envie seu registro de utilidade pública para avaliação.;Venda - Descontos
 Como atualizo meus dados?;Basta responder este WhatsApp com 'ATUALIZAR DADOS' que um agente te ajudará.;FAQ - Cadastro
 Quero apenas informação.;Sem problemas! Posso te enviar nosso catálogo digital. Qual seu e-mail?;Lead Frio
@@ -149,7 +149,7 @@ O neuronex aprende com as interações?;Sim! Nos planos Pro/Enterprise: 1) Machi
 Tem contrato de fidelidade?;Não! Pode cancelar a qualquer momento. Mas 97% dos clientes renovam após 6 meses pelos resultados. Quer falar com um deles?;Contrato
 Como é o processo de cancelamento?;Simples: 1) Solicitação por email, 2) Backup dos dados, 3) Confirmação. Sem multas ou letras miúdas. Já cancelou algum serviço parecido?;Cancelamento
 Vocês têm certificações de qualidade?;Sim! ISO 27001 (segurança), GDPR (dados), e premio 'Melhor IA para Atendimento 2023'. Quer os certificados para seu compliance?;Certificações
-O neuronex envia arquivos e imagens?;Sim! Todos planos suportam: 1) PDFs, 2) Imagens, 3) Links. No Enterprise: envio automático de manuais e catálogos.;Mídias
+O neuronex envia arquivos e imagens?;Sim! Todos planos suportam: 1) PDFs, 2) Imagens, 3) Links. No Enterprise: envio automático de manuais e catálogos.;redes
 Consigo filtrar palavras inadequadas?;Totalmente! Temos: 1) Filtro de palavrões, 2) Moderação manual, 3) Alertas para termos sensíveis. Personalizável por política da empresa.;Moderação
 Como é a recuperação de dados?;Backups: 1) Diários (Enterprise), 2) Semanais (Pro), 3) Sob demanda. Retenção por 180 dias. Nunca perdemos dados em 5 anos!;Backup
 O neuronex funciona offline?;Precisa de internet, mas temos modo 'reserva' que: 1) Armazena mensagens localmente, 2) Envia quando reconectado. Já salvou 12.000+ interações!;Offline
