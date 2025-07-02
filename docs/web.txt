@@ -1,0 +1,241 @@
+# SCRIPTAI - Desenvolvimento de Sites Profissionais
+
+**Sua Presença Digital que Gera Resultados**
+
+---
+
+## Por que ter um site profissional é essencial para o seu negócio?
+
+🌐 **Visibilidade 24/7** - Sua empresa disponível para clientes a qualquer momento
+
+🛡️ **Credibilidade e Autoridade** - Transmita profissionalismo e confiança
+
+📈 **Geração de Leads e Vendas** - Transforme visitantes em clientes
+
+🔍 **Alcance Global** - Expanda seu mercado além das fronteiras físicas
+
+📱 **Experiência Multiplataforma** - Alcance clientes em qualquer dispositivo
+
+> "93% dos consumidores pesquisam online antes de comprar um produto ou serviço"
+
+---
+
+## O Que Entregamos
+
+**Sites modernos e eficientes que convertem visitantes em clientes**
+
+### Design Responsivo e Atraente
+- Adaptação perfeita para smartphones, tablets e desktops
+- Interface intuitiva e agradável que reflete a identidade da sua marca
+
+### Tecnologia de Ponta
+- Código limpo e otimizado para velocidade
+- CMS intuitivo para você gerenciar seu conteúdo
+
+### Otimização para Resultados
+- SEO avançado para melhor posicionamento no Google
+- Estratégias de conversão para maximizar leads e vendas
+
+### Segurança e Confiabilidade
+- Certificados SSL para proteção de dados
+- Backups regulares e proteção contra ataques
+
+---
+
+## Tipos de Sites que Desenvolvemos
+
+**Soluções personalizadas para cada necessidade**
+
+### 🏢 Sites Institucionais
+- Apresente sua empresa, serviços e diferenciais
+- Fortaleça sua marca e autoridade no mercado
+
+### 🛒 E-commerce
+- Venda seus produtos 24/7 com segurança
+- Gestão completa de estoque e pagamentos
+
+### 📝 Blogs e Portais de Conteúdo
+- Posicione-se como referência em seu nicho
+- Atraia tráfego qualificado com conteúdo relevante
+
+### 🎯 Landing Pages
+- Maximize conversões em campanhas específicas
+- Capture leads e aumente sua base de clientes
+
+### 📊 Portfólios
+- Exiba seus trabalhos de forma profissional
+- Ideal para profissionais liberais e criativos
+
+### 🌍 Sites Multilíngues
+- Alcance mercados internacionais
+- Adaptação cultural para diferentes regiões
+
+---
+
+## Nosso Processo de Desenvolvimento
+
+**Do conceito ao lançamento, com você em cada etapa**
+
+### 1. Briefing e Planejamento
+- Entendemos seus objetivos e necessidades
+- Definimos estratégias e funcionalidades
+
+### 2. Design e Prototipagem
+- Criamos layouts alinhados à sua identidade
+- Aprovação de wireframes e protótipos
+
+### 3. Desenvolvimento
+- Programação front-end e back-end
+- Implementação de funcionalidades e integrações
+
+### 4. Testes e Otimização
+- Verificação de compatibilidade e usabilidade
+- Otimização de velocidade e SEO
+
+### 5. Lançamento e Treinamento
+- Publicação do site e configurações finais
+- Capacitação para gestão do conteúdo
+
+### 6. Suporte Contínuo
+- Atualizações e melhorias constantes
+- Monitoramento de desempenho
+
+---
+
+## Planos de Desenvolvimento de Sites
+
+**Escolha a solução ideal para o seu negócio**
+
+### Plano Bronze
+**Investimento inicial: 399€ | Mensalidade: 150€**
+- Site institucional com até 5 páginas
+- Design responsivo baseado em templates
+- Certificado SSL gratuito
+- Domínio gratuito por 1 ano
+- 3 contas de e-mail profissionais
+- Suporte por e-mail em horário comercial
+
+### Plano Prata
+**Investimento inicial: 599€ | Mensalidade: 200€**
+- Site com até 10 páginas
+- Design responsivo semi-personalizado
+- CMS completo para autogestão (WordPress)
+- Backup semanal e suporte por telefone
+- 10 contas de e-mail profissionais
+- Relatório mensal de desempenho
+- Treinamento básico para gestão do CMS
+
+### Plano Ouro ⭐ RECOMENDADO
+**Investimento inicial: 899€ | Mensalidade: 250€**
+- Site ou e-commerce básico com até 20 páginas
+- Design totalmente personalizado e exclusivo
+- Área de membros/clientes com login
+- Hospedagem em servidor VPS dedicado
+- Backup diário com retenção de 30 dias
+- Suporte prioritário por múltiplos canais
+- E-mails profissionais ilimitados
+- Implementação de chat online
+
+### Plano Diamante
+**Investimento inicial: 1299€ | Mensalidade: 350€**
+- Site completo com páginas ilimitadas
+- E-commerce avançado com múltiplos métodos de pagamento
+- Design premium exclusivo com UX/UI avançado
+- Integração com Agentes de IA para atendimento
+- Multilíngue (até 3 idiomas)
+- Hospedagem em servidor dedicado de alta performance
+- Suporte VIP 24/7 com acesso direto ao desenvolvedor
+- Aplicativo móvel básico (PWA)
+
+---
+
+## Tecnologias e Ferramentas
+
+**Utilizamos o que há de melhor no mercado**
+
+### Desenvolvimento Front-end
+- HTML5, CSS3, JavaScript
+- Frameworks modernos (React, Vue.js)
+- Design responsivo e adaptativo
+
+### Desenvolvimento Back-end
+- PHP, Node.js, Python
+- Bancos de dados SQL e NoSQL
+- APIs RESTful
+
+### CMS e E-commerce
+- WordPress, WooCommerce
+- Magento, Shopify
+- Sistemas personalizados
+
+### Ferramentas de Otimização
+- Google Analytics, Tag Manager
+- SEMrush, Ahrefs
+- PageSpeed Insights
+
+---
+
+## Casos de Sucesso
+
+**Resultados reais para nossos clientes**
+
+### Loja de Moda Online
+- Aumento de 120% nas vendas após 3 meses
+- Redução de 40% na taxa de abandono do carrinho
+- ROI positivo em menos de 2 meses
+
+### Clínica Médica
+- 300% mais agendamentos online
+- Redução de 60% nas ligações para recepção
+- Primeira página do Google para termos relevantes
+
+### Escritório de Advocacia
+- Aumento de 85% na geração de leads qualificados
+- Redução de 30% no custo de aquisição de clientes
+- Implementação de chat com IA para pré-qualificação
+
+---
+
+## Por Que Escolher a SCRIPTAI?
+
+**Nossos diferenciais para o seu projeto**
+
+### Expertise Comprovada
+- Anos de experiência em desenvolvimento web
+- Equipe multidisciplinar de especialistas
+- Portfólio diversificado de casos de sucesso
+
+### Foco em Resultados
+- Sites que geram leads e vendas reais
+- Estratégias de conversão comprovadas
+- Métricas claras de desempenho
+
+### Tecnologia Avançada
+- Integração com Inteligência Artificial
+- Soluções escaláveis e de alta performance
+- Segurança de nível empresarial
+
+### Suporte Contínuo
+- Acompanhamento personalizado
+- Atualizações e melhorias constantes
+- Parceria de longo prazo para seu crescimento
+
+---
+
+## Próximos Passos
+
+**Comece sua transformação digital hoje**
+
+### 📋 Agende uma Consulta Gratuita
+- Análise personalizada das necessidades do seu negócio
+- Recomendação do plano ideal para seus objetivos
+- Orçamento detalhado sem compromisso
+
+### 🎁 Oferta Especial por Tempo Limitado
+- 15% de desconto no investimento inicial
+- Migração gratuita do seu site atual
+- Válido para contratos fechados até o final do mês
+
+---
+
+**SCRIPTAI - Transformando sua presença digital em resultados concretos!**
