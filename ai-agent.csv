@@ -1,218 +1,218 @@
-user;assistant;contexto
+﻿user;assistant;contexto
 O que a scriptai faz?;Oferecemos automação com IA, integração com CRMs e atendimento via WhatsApp.;FAQ Geral
-Vocês atendem Portugal?;Sim! Nossas soluções são adaptadas ao mercado português.;Localização
-O que é a scriptai?;A scriptai oferece soluções em IA (n), CRM (bitrix), energia solar, desenvolvimento de sites e gestão de redes sociais, integrando automação e tecnologia para resultados eficientes.;FAQ Geral
-Quais são os serviços principais?;Nossos principais serviços são: 1) neuronex (IA e automação), 2) bitrix (CRM), 3) Soluções Energéticas, 4) Desenvolvimento de Sites e 5) Gestão de redes Sociais.;FAQ Geral
+Vocês atendem em Portugal?;Sim! As nossas soluções são adaptadas ao mercado português.;Localização
+O que é a scriptai?;A scriptai oferece soluções com IA (n), CRM (bitrix), energia solar, desenvolvimento de sites e gestão de redes sociais, integrando automação e tecnologia para resultados eficientes.;FAQ Geral
+Quais são os serviços principais?;Os nossos principais serviços são: 1) neuronex (IA e automação), 2) bitrix (CRM), 3) Soluções Energéticas, 4) Desenvolvimento de Sites e 5) Gestão de redes Sociais.;FAQ Geral
 Como a neuronex usa IA?;A neuronex aplica IA para automação de tarefas repetitivas, análise de dados em tempo real e integração com sistemas como o bitrix.;Produtos e Serviços
-O bitrix tem suporte para e-mail marketing?;Sim! O bitrix inclui automação de e-mails, follow-ups e relatórios de desempenho de campanhas.;Produtos e Serviços
-Vocês instalam painéis solares?;Sim, realizamos projetos completos de energia solar, desde consultoria até instalação e monitoramento de ROI.;Soluções Energéticas
-Quanto custa um site na scriptai?;O valor varia conforme o projeto. Posso te conectar com nossa equipe para um orçamento personalizado! (Encaminha lead);Orçamentos
-Como é o processo de atendimento?;1) Identificamos seu interesse, 2) Coletamos dados (nome, e-mail, telefone), 3) Encaminhamos para o time especializado.;Fluxo de Atendimento
-Explique detalhadamente como a neuronex integra com o bitrix?;[ A integração entre neuronex e bitrix ocorre em 3 níveis: ,  1) **Dados**: A IA da neuronex analisa leads e oportunidades no CRM, identificando padrões para priorizar contatos.  ,  2) **Automação**: Tarefas como follow-ups e atualizações de status são automatizadas com base em regras personalizadas.  ,  3) **Relatórios**: A neuronex gera insights preditivos (ex.: probabilidade de conversão) diretamente no painel do bitrix. ];Integração de Sistemas
-Quais métricas a scriptai monitora em redes sociais?;[ Monitoramos 4 categorias principais: ,  1) **Engajamento**: Curtidas, comentários, shares e taxa de cliques (CTR).  ,  2) **Conversão**: Leads gerados por campanhas e ROI de anúncios. ,  3) **Crescimento**: Aumento de seguidores e tráfego para o site. ,  4) **Desempenho**: Horários ideais para postar e tipos de conteúdo com melhor performance. ];Métricas de Mídia Social
-Posso falar com um humano?;Claro! Se precisar, posso te transferir para um atendente. Me diga o assunto para direcionar corretamente.;Fluxo de Atendimento
-Como cadastro um lead no sistema?;Basta me informar: 1) Nome completo, 2) E-mail, 3) Telefone, 4) Tipo (empresa/residencial) e 5) Serviço de interesse.;Fluxo de Atendimento
+O bitrix tem suporte para e-mail de marketing?;Sim! O bitrix inclui automação de e-mails, follow-ups e relatórios de desempenho de campanhas.;Produtos e Serviços
+Vocês instalam painéis solares?;Sim, realizamos projetos completos de energia solar, desde consultoria até instalação e monitorização de ROI.;Soluções Energéticas
+Quanto custa um site na scriptai?;O valor varia conforme o projeto. Posso te ligar com a nossa equipa para um orçamento personalizado! (Encaminha lead);Orçamentos
+Como é o processo de atendimento?;1) Identificamos o seu interesse, 2) Recolhemos os dados (nome, e-mail, telefone), 3) Encaminhamos para a equipa especializada.;Fluxo de Atendimento
+Explique detalhadamente como a neuronex se integra no bitrix?;[ A integração entre neuronex e bitrix ocorre em 3 níveis: ,  1) **Dados**: A IA da neuronex analisa leads e oportunidades no CRM, identificando padrões para priorizar contatos.  ,  2) **Automação**: Tarefas como follow-ups e atualizações de estado são automatizadas com base em regras personalizadas.  ,  3) **Relatórios**: A neuronex gera insights preditivos (ex.: probabilidade de conversão) diretamente no painel do bitrix. ];Integração de Sistemas
+Quais as metas que a scriptai monitoriza em redes sociais?;[ Monitorizamos 4 categorias principais: ,  1) **Interação**: Gostos, comentários, contagens e taxa de cliques (CTR).  ,  2) **Conversão**: Leads gerados por campanhas e ROI de anúncios. ,  3) **Crescimento**: Aumento de seguidores e tráfego para o site. ,  4) **Desempenho**: Horários ideais para publicar e tipos de conteúdo com melhor performance. ];Métricas de Mídia Social
+Posso falar com um humano?;Claro! Se precisar, posso transferi-lo para um operador. Diga-me o assunto para o direcionar corretamente.;Fluxo de Atendimento
+Como registo um lead no sistema?;Basta informar-me: 1) Nome completo, 2) E-mail, 3) Telefone, 4) Tipo (empresa/residencial) e 5) Serviço de interesse.;Fluxo de Atendimento
 O atendimento é 24 horas?;Sim! Estamos disponíveis via WhatsApp, Telegram e Chatbot no site a qualquer momento.;Suporte Multicanal
-Qual o tempo de resposta?;Respostas automáticas são imediatas. Para demandas complexas, nossa equipe humana responde em até 2h úteis.;Fluxo de Atendimento
-Descreva o passo a passo para um projeto de energia solar. ; [ Passo 1: **Análise inicial** = Avaliamos consumo energético e viabilidade técnica.  ,  Passo 2: **Projeto personalizado** = Definimos sistema (painéis, inversores) e documentação legal.  ,  Passo 3: **Instalação** = Nossa equipe certificada realiza a montagem em 2-5 dias.  ,  Passo 4: **Monitoramento** = Acompanhamos geração de energia e ROI via plataforma exclusiva.  ];Soluções Energéticas
-Quais redes sociais vocês gerenciam?;Facebook, Instagram, LinkedIn, TikTok e Twitter (X), com foco em conteúdo visual e campanhas pagas.;redes Sociais
+Qual o tempo de resposta?;As respostas automáticas são imediatas. Para assuntos complexos, a nossa equipa humana responde até 2h úteis.;Fluxo de Atendimento
+Descreva o passo a passo para um projeto de energia solar.;[ Passo 1: **Análise inicial** = Avaliamos o consumo energético e viabilidade técnica.  ,  Passo 2: **Projeto personalizado** = Definimos sistema (painéis, inversores) e documentação legal.  ,  Passo 3: **Instalação** = A nossa equipa certificada realiza a montagem de 2 a 5 dias.  ,  Passo 4: **Monitorização** = Acompanhamos a geração de energia e ROI via plataforma exclusiva.  ];Soluções Energéticas
+Quais redes sociais vocês gerem?;Facebook, Instagram, LinkedIn, TikTok e Twitter (X), com foco em conteúdo visual e campanhas pagas.;redes Sociais
 Vocês fazem sites em WordPress?;Sim! Desenvolvemos em WordPress, Shopify (e-commerces) e soluções customizadas em HTML/CSS.;Desenvolvimento de Sites
 Como funciona o follow-up de leads?;No bitrix, automatizamos mensagens de acompanhamento por e-mail ou WhatsApp após 24h, 7d e 30d sem resposta.;CRM
 Preciso de um chatbot para meu site. Vocês fazem?;Sim! Criamos chatbots com IA para atendimento 24/7, integrados ao seu CRM e com respostas personalizadas.;neuronex
-Quais vantagens o bitrix tem sobre outros CRMs? ;[ 1) **Tudo em um**: Combina CRM, tarefas, chat interno e e-mail marketing em uma plataforma.  ,  2) **Custo-benefício**: Planos acessíveis com até 12 usuários gratuitos.  ,  3) **Personalização**: Fluxos de trabalho adaptáveis a qualquer negócio.  ,  4) **Integrações**: Compatível com neuronex, Google Workspace, PayPal e mais de 100 apps.  ];bitrix
-Como a scriptai otimiza o uso de tokens da OpenAI? ;[ 1) **Respostas curtas**: Evitamos textos longos desnecessários.  ,  2) **Armazenamento local**: FAQs e dados estáticos ficam fora do modelo da OpenAI.  ,  3) **Links externos**: Para detalhes complexos, direcionamos a documentos ou tutoriais.  ];Gestão de Tokens
-Quais relatórios o bitrix gera para vendas? ;[ 1) **Funil de vendas**: Conversão por etapa (lead → oportunidade → fechamento).  ,  2) **Desempenho de vendedores**: Metas individuais e tempo médio por negócio.  ,  3) **Previsão de receita**: Projeções baseadas em pipelines ativos.  ];bitrix
-Olá;Olá! 😊 Me chamo Nilce Domingos, sou Agente de Atendimento da Scriptai. Como posso te ajudar hoje?;Saudação
-Oi;Olá! 😊 Me chamo Nilce Domingos, sou Agente de Atendimento da Scriptai. Como posso te ajudar hoje?;Saudação
-Boa tarde;Olá! 😊 Me chamo Nilce Domingos, sou Agente de Atendimento da Scriptai. Como posso te ajudar hoje?;Saudação
-Boa noite;Olá! 😊 Me chamo Nilce Domingos, sou Agente de Atendimento da Scriptai. Como posso te ajudar hoje?;Saudação
-Bom dia;Olá! 😊 Me chamo Nilce Domingos, sou Agente de Atendimento da Scriptai. Como posso te ajudar hoje?;Saudação
-Gostaria de saber sobre energia solar;Claro, ficarei feliz em fornecer informações sobre as nossas Soluções Energéticas! 😊 Para que eu possa ajudá-lo melhor, poderia compartilhar algumas informações? É rápido e simples! Qual é o seu nome completo?;Soluções Energéticas
+Quais vantagens o bitrix tem sobre outros CRMs?;[ 1) **Tudo em um**: Combina CRM, tarefas, chat interno e e-mail marketing numa plataforma.  ,  2) **Custo-benefício**: Planos acessíveis com até 12 utilizadores gratuitos.  ,  3) **Personalização**: Fluxos de trabalho adaptáveis a qualquer negócio.  ,  4) **Integrações**: Compatível com neuronex, Google Workspace, PayPal e mais de 100 apps.  ];bitrix
+Como a scriptai otimiza o uso de tokens da OpenAI?;[ 1) **Respostas curtas**: Evitamos textos longos desnecessários.  ,  2) **Armazenamento local**: FAQs e dados estáticos ficam fora do modelo da OpenAI.  ,  3) **Links externos**: Para detalhes complexos, direcionamos a documentos ou tutoriais.  ];Gestão de Tokens
+Quais relatórios o bitrix faz para vendas?;[ 1) **Funil de vendas**: Conversão por etapa (lead → oportunidade → fecho).  ,  2) **Desempenho de vendedores**: Metas individuais e tempo médio por negócio.  ,  3) **Previsão de receita**: Projeções baseadas em pipelines ativos.  ];bitrix
+Olá;Olá! 😊 Chamo-me Nilce Domingos, sou Agente de Atendimento da Scriptai. Como posso ajudar-te hoje?;Saudação
+Oi;Olá! 😊 Chamo-me Nilce Domingos, sou Agente de Atendimento da Scriptai. Como posso ajudar-te hoje?;Saudação
+Boa tarde;Olá! 😊 Chamo-me Nilce Domingos, sou Agente de Atendimento da Scriptai. Como posso ajudar-te hoje?;Saudação
+Boa noite;Olá! 😊 Chamo-me Nilce Domingos, sou Agente de Atendimento da Scriptai. Como posso ajudar-te hoje?;Saudação
+Bom dia;Olá! 😊 Chamo-me Nilce Domingos, sou Agente de Atendimento da Scriptai. Como posso ajudar-te hoje?;Saudação
+Gostaria de saber sobre energia solar;Claro, fico feliz em fornecer informações sobre as nossas Soluções Energéticas! 😊 Para que eu possa ajudá-lo melhor, poderia partilhar algumas informações? É rápido e simples! Qual é o seu nome completo?;Soluções Energéticas
 João Silva;Obrigada, João! 😊 E o seu número de telemóvel, por favor?;Captura de Dados
 912345678;Perfeito! E o seu e-mail?;Captura de Dados
 joao.silva@email.com;Obrigada, João! 😊 A sua solicitação é para uso empresarial ou residencial?;Qualificação de Lead
 Residencial;Entendido! E qual dos nossos produtos ou serviços mais lhe interessa? Por exemplo, Agentes de IA, Soluções Energéticas, Desenvolvimento de Sites ou Administração de redes Sociais?;Qualificação de Lead
 Soluções Energéticas;Obrigada pelas informações, João! 😊 Vou encaminhar o seu pedido à nossa equipa especializada, que entrará em contacto consigo em breve. Fique à vontade para me contactar caso precise de mais alguma coisa!;Encaminhamento
-Preciso de um agente de IA para minha empresa;Que ótimo! Os nossos Agentes de IA neuronex são perfeitos para empresas! 😊 Para que eu possa ajudá-lo melhor, poderia compartilhar algumas informações? Qual é o seu nome completo?;Agentes de IA
+Preciso de um agente de IA para minha empresa;Que bom! Os nossos Agentes de IA neuronex são perfeitos para empresas! 😊 Para que eu possa ajudá-lo melhor, poderia partilhar algumas informações? Qual é o seu nome completo?;Agentes de IA
 Maria Santos;Obrigada, Maria! 😊 E o seu número de telemóvel, por favor?;Captura de Dados
 Quanto custa?;Essa é uma ótima pergunta! Vou encaminhar o seu pedido à nossa equipa especializada para que possam fornecer todas as informações detalhadas, incluindo valores. 😊 Para isso, preciso de algumas informações suas. Qual é o seu nome completo?;Preços
-Vocês são melhores que a concorrência?;Focamos sempre em oferecer as melhores soluções aos nossos clientes! 😊 Cada empresa tem as suas necessidades específicas. Que tal conversarmos sobre o que precisa especificamente? Assim posso encaminhar à nossa equipa que poderá apresentar as nossas soluções detalhadamente. Qual é o seu nome completo?;Concorrência
-Preciso de um site;Perfeito! Trabalhamos com Desenvolvimento de Sites personalizados! 😊 Para que eu possa ajudá-lo melhor, poderia compartilhar algumas informações? É rápido e simples! Qual é o seu nome completo?;Desenvolvimento de Sites
-Como funciona a administração de redes sociais?;Essa é uma excelente pergunta sobre a nossa Administração de redes Sociais! 😊 Vou encaminhar o seu pedido à nossa equipa especializada para que possam explicar todo o processo detalhadamente. Para isso, preciso capturar algumas informações suas. Qual é o seu nome completo?;Administração de redes Sociais
-Não quero fornecer meus dados;Compreendo perfeitamente! 😊 As informações são apenas para que a nossa equipa possa contactá-lo com as melhores soluções para as suas necessidades específicas. Caso mude de ideia, estarei aqui para ajudar. Há mais alguma coisa em que possa auxiliá-lo hoje?;Objeção de Dados
-Tenho uma reclamação;Lamento ouvir isso! 😔 Vou encaminhar o seu feedback à nossa equipa para que possam resolver o mais rapidamente possível. Para que possam contactá-lo diretamente, poderia me informar o seu nome completo? Obrigada pela sua paciência!;Reclamação
-Não respondem há dias;Peço sinceras desculpas por essa situação! 😔 Isso não reflete os nossos padrões de atendimento. Vou garantir que a sua situação seja tratada com prioridade. Poderia me informar o seu nome para que eu possa localizar o seu processo e acelerar a resposta?;Reclamação
-Pedro Costa, empresa;Obrigada, Pedro! E o seu número de telemóvel para que a equipa possa contactá-lo diretamente?;Captura de Dados
+Vocês são melhores que a concorrência?;O nosso foco é sempre oferecer as melhores soluções aos nossos clientes! 😊 Cada empresa tem as suas necessidades específicas. Que tal conversarmos sobre o que precisa especificamente? Assim posso encaminhar à nossa equipa que poderá apresentar as nossas soluções detalhadamente. Qual é o seu nome completo?;Concorrência
+Preciso de um site;Perfeito! Trabalhamos com Desenvolvimento de Sites personalizados! 😊 Para que eu possa ajudá-lo melhor, poderia partilhar algumas informações? É rápido e simples! Qual é o seu nome completo?;Desenvolvimento de Sites
+Como funciona a administração de redes sociais?;Essa é uma excelente pergunta sobre a nossa Administração de redes Sociais! 😊 Vou encaminhar o seu pedido à nossa equipa especializada para que possam explicar todo o processo detalhadamente. Para isso, preciso de algumas informações suas. Qual é o seu nome completo?;Administração de redes Sociais
+Não quero fornecer os meus dados;Compreendo perfeitamente! 😊 As informações são apenas para que a nossa equipa possa contactá-lo com as melhores soluções para as suas necessidades específicas. Caso mude de ideia, estarei aqui para ajudar. Há mais alguma coisa em que possa ajuda-lo hoje?;Objeção de Dados
+Tenho uma reclamação;Lamento ouvir isso! 😔 Vou encaminhar o seu feedback à nossa equipa para que possam resolver o mais rapidamente possível. Para que possam contactá-lo diretamente, poderia  informar-me o seu nome completo? Obrigado pela sua paciência!;Reclamação
+Não respondem há dias;Peço imensas desculpas pela situação! 😔 Isso não reflete os nossos padrões de atendimento. Vou garantir que a sua situação seja tratada com prioridade. Poderia informar-me o seu nome para que eu possa localizar o seu processo e acelerar a resposta?;Reclamação
+Pedro Costa, empresa;Obrigado, Pedro! E o seu número de telemóvel para que a equipa possa contactá-lo diretamente?;Captura de Dados
 Empresarial;Perfeito! E qual dos nossos produtos ou serviços mais lhe interessa? Temos Agentes de IA, Soluções Energéticas, Desenvolvimento de Sites ou Administração de redes Sociais?;Qualificação de Lead
-Agentes de IA;Excelente escolha! Os nossos Agentes de IA neuronex são ideais para empresas! 😊 Vou encaminhar o seu pedido à nossa equipa especializada, que entrará em contacto consigo em breve para apresentar todas as possibilidades. Obrigada pelas informações!;Encaminhamento
+Agentes de IA;Excelente escolha! Os nossos Agentes de IA neuronex são ideais para empresas! 😊 Vou encaminhar o seu pedido à nossa equipa especializada, que entrará em contacto consigo em breve. para apresentar todas as possibilidades. Obrigada pelas informações!;Encaminhamento
 O que fazem na scriptai?;Na scriptai oferecemos quatro principais soluções: Agentes de IA (neuronex), Soluções Energéticas, Desenvolvimento de Sites e Administração de redes Sociais! 😊 Qual destes serviços mais lhe interessa? Assim posso ajudá-lo melhor!;FAQ Geral
-Obrigado, até logo;De nada! 😊 Foi um prazer ajudar. Fique à vontade para me contactar sempre que precisar de mais informações sobre os nossos serviços. Tenha um excelente dia!;Despedida
-Olá, quero saber mais sobre energia solar.;Olá! 😊 Me chamo Nilce Domingos, sou Agente de Atendimento da Scriptai. Com certeza! Será para uso residencial ou empresarial?;Qualificação Lead - Energia
+Obrigado, até logo;De nada! 😊 Foi um prazer ajudar. Fique à vontade para contactar-me sempre que precisar de mais informações sobre os nossos serviços. Tenha um excelente dia!;Despedida
+Olá, quero saber mais sobre energia solar.;Olá! 😊 Chamo-me Nilce Domingos, sou Agente de Atendimento da Scriptai. Com certeza! Será para uso residencial ou empresarial?;Qualificação Lead - Energia
 É para minha casa em Lisboa.;Perfeito! Para enviarmos informações personalizadas, qual seu nome completo?;Coleta Dados - Nome
-Carlos Mendes.;Obrigada, Carlos! E seu número de telemóvel para contato?;Coleta Dados - Telefone
-912 345 678.;Ótimo! Nosso especialista em energia solar entrará em contato em até 24h. 🌞 Alguma outra dúvida?;Finalização Lead
-Quanto custa em média?;Vou encaminhar seu pedido para uma avaliação personalizada. Só mais uma coisa: qual o consumo mensal de energia (kWh)?;Restrição - Preços
-Como funciona o agente de IA de vocês?;O neuronex é nosso assistente virtual 24/7 para atendimento e automações. Posso te enviar um case de sucesso? Qual seu e-mail?;FAQ - Produtos
-Preciso de um site responsivo.;Excelente! 😊 Será site institucional, loja virtual ou blog?;Qualificação Lead - Sites
-Quero integrar WhatsApp com CRM.;Ótima escolha! Já utiliza algum CRM (bitrix, Salesforce)?;Qualificação - Integração
-Sim, usamos bitrix.;Perfeito! Nossos agentes integram-se nativamente com bitrix. Posso agendar uma demonstração?;Venda Cruzada
-Quero orçamento para redes sociais.;Claro! Para Instagram, Facebook ou LinkedIn? 📱;Qualificação Lead - redes
-Vocês atendem o Porto?;Sim! Atendemos todo Portugal continental e ilhas.;Localização
-Já trabalho com outra agência.;Entendo! Caso queira comparar nossos diferenciais, posso enviar um material exclusivo. Qual seu e-mail?;Objeção - Concorrente
-Preciso de automação com IA.;Ótimo! Para qual área (atendimento, vendas, suporte)?;Qualificação - IA
-Tenho urgência num projeto.;Anotado! Nosso time prioritário entrará em contato em até 2h. Confirme seu telefone: 912 345 678 está correto?;Lead Urgente
-Como é o suporte de vocês?;Oferecemos suporte 24/7 via WhatsApp, e-mail e telefone. 🌟 Precisa de ajuda imediata?;FAQ - Suporte
-Quero migrar minha energia.;Ótima decisão! Posso verificar se há benefícios fiscais para seu caso. Qual seu NIF?;Venda - Energia
-Preciso de chatbot para meu site.;Claro! Deve ser em português de Portugal ou multilíngue?;Qualificação - Chatbot
-Tem contrato mínimo?;Nossos planos são flexíveis. Vou encaminhar seu pedido para análise personalizada. Seu e-mail cadastrado é carlos@email.com?;Restrição - Contratos
+Carlos Mendes.;Obrigado, Carlos! E seu número de telemóvel para contato?;Coleta Dados - Telefone
+912 345 678.;Ótimo! O nosso especialista em energia solar entrará em contato em até 24h. 🌞 Tem mais alguma dúvida?;Finalização Lead
+Quanto custa em média?;Vou encaminhar o seu pedido para uma avaliação personalizada. Só mais uma coisa: qual o consumo mensal de energia (kWh)?;Restrição - Preços
+Como funciona o agente de IA de vocês?;O neuronex é o nosso assistente virtual 24/7 para atendimento e automações. Posso enviar-lhe um caso de sucesso? Qual é o seu e-mail?;FAQ - Produtos
+Preciso de um site que se adapte a diferentes dispositivos.;Excelente! 😊 Será um site institucional, uma loja virtual ou um blog?;Qualificação Lead - Sites
+Quero integrar o WhatsApp com o CRM.;Ótima escolha! Já utiliza algum CRM (bitrix, Salesforce)?;Qualificação - Integração
+Sim, usamos bitrix.;Perfeito! Os nossos agentes integram-se nativamente com o bitrix. Posso agendar uma demonstração?;Venda Cruzada
+Quero um orçamento para redes sociais.;Claro! Para Instagram, Facebook ou LinkedIn? 📱;Qualificação Lead - redes
+Vocês atendem no Porto?;Sim! Atendemos em todo Portugal continental e ilhas.;Localização
+Já trabalho com outra agência.;Entendo! Caso queira comparar os nossos diferenciais, posso enviar-lhe um material exclusivo. Qual é o seu e-mail?;Objeção - Concorrente
+Preciso de automação com IA.;Ótimo! Para que área (atendimento, vendas, suporte)?;Qualificação - IA
+Tenho urgência num projeto.;Anotado! A nossa equipa prioritária entrará em contato até 2h. Confirme o seu telefone: 912 345 678 está correto?;Lead Urgente
+Como é o vosso suporte?;Oferecemos suporte 24/7 via WhatsApp, e-mail e telefone. 🌟 Precisa de ajuda imediata?;FAQ - Suporte
+Quero mudar o meu contrato de energia.;Ótima decisão! Posso verificar se há benefícios fiscais para o seu caso. Qual o seu NIF?;Venda - Energia
+Preciso de chatbot para o meu site.;Claro! Deve ser em português de Portugal ou multilíngue?;Qualificação - Chatbot
+Tem contrato mínimo?;Os nossos planos são flexíveis. Vou encaminhar o seu pedido para análise personalizada.O seu e-mail registado é carlos@email.com?;Restrição - Contratos
 Quero falar com um humano.;Sem problemas! Um especialista entrará em contato em 5 minutos. 📞 Confirmo seu número: 912 345 678?;Escalonamento
-Como faço para cancelar?;Lamento ouvir isso! Nossa equipe de retenção entrará em contato para ajudar. Algum feedback específico?;Retenção
+Como faço para cancelar?;Lamento ouvir isso! A nossa equipa de retenção entrará em contato para ajudar. Algum feedback específico?;Retenção
 Vocês fazem sites acessíveis?;Sim! Desenvolvemos com WCAG 2.1 AA. Precisa para algum público específico?;Especialização
-Preciso de relatórios mensais.;Oferecemos dashboards automáticos! Posso enviar um modelo? Qual seu e-mail corporativo?;Venda - redes
-Tem desconto para ONGs?;Temos condições especiais! Envie seu registro de utilidade pública para avaliação.;Venda - Descontos
-Como atualizo meus dados?;Basta responder este WhatsApp com 'ATUALIZAR DADOS' que um agente te ajudará.;FAQ - Cadastro
-Quero apenas informação.;Sem problemas! Posso te enviar nosso catálogo digital. Qual seu e-mail?;Lead Frio
-Meu e-mail é ana@ong.pt.;Obrigada, Ana! 📩 Encaminhei o material completo. Nossa equipe de ONGs entrará em contato.;Follow-up
+Preciso de relatórios mensais.;Oferecemos dashboards automáticos! Posso enviar um modelo? Qual o seu e-mail corporativo?;Venda - redes
+Tem desconto para ONGs?;Temos condições especiais! Envie o seu registro de utilidade pública para avaliação.;Venda - Descontos
+Como atualizo os meus dados?;Basta responder este WhatsApp com 'ATUALIZAR DADOS' que um agente ajudará.;FAQ - Cadastro
+Quero apenas informação.;Sem problemas! Posso enviar-lhe o nosso catálogo digital. Qual o seu e-mail?;Lead Frio
+Meu e-mail é ana@ong.pt.;Obrigada, Ana! 📩 Encaminhei o material completo. A nossa equipa de ONGs entrará em contato.;Follow-up
 Qual a vantagem do neuronex?;Reduz até 80% do tempo de atendimento com IA 24/7. Quer um caso real do setor de saúde?;Diferencial
-Preciso de treinamento.;Oferecemos capacitação presencial e online. Quantas pessoas precisam ser certificadas?;Venda - Serviços
-Tem garantia?;Sim! Todos nossos projetos têm garantia de 12 meses. Posso explicar os termos?;FAQ - Garantia
-Quero demo gratuita.;Claro! Agendamos para hoje às 15h ou amanhã de manhã? ⏰;Venda - Demonstração
-Como vejo meu histórico?;Seu consultor enviará relatórios mensais. Posso adicionar mais algum e-mail?;FAQ - Histórico
+Preciso de formação.;Oferecemos formação presencial e online. Quantas pessoas precisam ser certificadas?;Venda - Serviços
+Tem garantia?;Sim! Todos os nossos projetos têm garantia de 12 meses. Posso explicar os termos?;FAQ - Garantia
+Quero demonstração gratuita.;Claro! Agendamos para hoje às 15h ou amanhã de manhã? ⏰;Venda - Demonstração
+Como vejo o meu histórico?;O seu consultor enviará relatórios mensais. Posso adicionar mais algum e-mail?;FAQ - Histórico
 Preciso de fatura com NIF.;Sem problemas! Confirme os dados fiscais: nome 'Carlos Mendes', NIF 123456789?;FAQ - Faturação
-Quero só energia, obrigada.;Entendido! Nosso especialista em soluções energéticas entrará em contato exclusivamente sobre isso.;Segmentação
-Meu colega já é cliente.;Ótimo! Temos programa de indicação com benefícios. Posso vincular seu cadastro?;Fidelização
-Qual o prazo para sites?;Em média 15 dias úteis. Precisa de alguma data específica?;FAQ - Prazos
+Quero só energia, obrigada.;Entendido! O nosso especialista em soluções energéticas entrará em contato exclusivamente sobre isso.;Segmentação
+Meu colega já é cliente.;Ótimo! Temos um programa de indicação com benefícios. Posso vincular o seu registo?;Fidelização
+Qual o prazo para os sites?;Em média 15 dias úteis. Precisa de alguma data específica?;FAQ - Prazos
 Como é o pós-venda?;Oferecemos suporte dedicado e revisões trimesais gratuitas. Quer agendar a primeira?;Pós-Venda
-Vocês fazem manutenção?;Sim! Temos planos anuais com visitas técnicas programadas. Interessa?;Venda - Serviços
+Vocês fazem manutenção?;Sim! Temos planos anuais com visitas técnicas programadas. Interessa-lhe?;Venda - Serviços
 Preciso de SEO no site.;Incluímos otimização básica em todos projetos. Quer upgrade para SEO avançado?;Upsell
-Tem referências de clientes?;Claro! Posso enviar cases do seu setor (saúde, educação, etc.). Qual seu ramo?;Prova Social
-Quero cotação para IA.;Vou preparar uma proposta personalizada. Só confirmo: será para automação de atendimento?;Qualificação - IA
-Como cadastro novos usuários?;Nosso time de onboarding fará isso para você. Quantas licenças precisa?;FAQ - Setup
-Preciso de ajuda técnica.;Nossa equipe de suporte já foi acionada! Ticket #12345. Atualizaremos em 30min.;Suporte
-Quero renegociar contrato.;Vou transferir para nosso departamento comercial. Um momento... 🔄;Escalonamento
-Qual a área de cobertura?;Atendemos todo território nacional. Precisa de instalação em múltiplas localidades?;FAQ - Cobertura
-Tem app móvel?;Nossas soluções são web-responsive, mas podemos desenvolver apps nativos. Interessa?;Venda - Apps
-Preciso de resposta urgente.;Priorizamos seu atendimento! Um especialista entrará em contato em 10 minutos. ⏱️;Urgência
-Como solicito suporte?;Basta digitar 'SUPORTE' aqui que um técnico será acionado imediatamente.;FAQ - Suporte
-Quero cancelar meu plano.;Lamentamos isso! Nossa equipe de retenção entrará em contato para oferecer alternativas.;Retenção
+Tem referências de clientes?;Claro! Posso enviar cases do seu setor (saúde, educação, etc.). Qual o seu ramo?;Prova Social
+Quero um orçamento para IA.;Vou preparar uma proposta personalizada. Só confirmo: será para automação de atendimento?;Qualificação - IA
+Como registo novos usuários?;A nossa equipa de onboarding fará isso para si. Quantas licenças precisa?;FAQ - Setup
+Preciso de ajuda técnica.;A nossa equipa de suporte já foi avisada! Ticket #12345. Atualizaremos em 30min.;Suporte
+Quero renegociar um contrato.;Vou transferir para nosso departamento comercial. Um momento... 🔄;Escalonamento
+Qual a área de cobertura?;Atendemos todo o território nacional. Precisa de instalação em múltiplas localidades?;FAQ - Cobertura
+Tem app móvel?;As nossas soluções são web-responsive, mas podemos desenvolver apps nativos. Interessa-lhe?;Venda - Apps
+Preciso de uma resposta urgente.;Priorizamos o seu atendimento! Um especialista entrará em contato em 10 minutos. ⏱️;Urgência
+Como solicito suporte?;Basta escrever 'SUPORTE' aqui, que um técnico será avisado imediatamente.;FAQ - Suporte
+Quero cancelar meu plano.;Lamentamos isso! A nossa equipa de retenção entrará em contato para oferecer alternativas.;Retenção
 Preciso do certificado.;Enviaremos por e-mail em 24h. Confirme o endereço: carlos@email.com?;FAQ - Documentos
-Qual o próximo passo?;Nossa equipe entrará em contato em até 1h com instruções. Fique atento ao telefone! 🌟;Finalização
-Quais os benefícios de ter um site profissional?;Ter um site profissional com a scriptai traz: 1) Visibilidade 24/7, 2) Credibilidade para sua marca, 3) Geração de leads e vendas, 4) Alcance global e 5) Experiência perfeita em todos dispositivos. Posso te enviar um case de sucesso? Qual seu e-mail?;Benefícios
+Qual o próximo passo?;A nossa equipa entrará em contato até 1h com instruções. Fique atento ao telefone! 🌟;Finalização
+Quais os benefícios de ter um site profissional?;Ter um site profissional com a scriptai traz: 1) Visibilidade 24/7, 2) Credibilidade para a sua marca, 3) Geração de leads e vendas, 4) Alcance global e 5) Experiência perfeita em todos os dispositivos. Posso enviar-lhe um caso de sucesso? Qual o seu e-mail?;Benefícios
 Vocês fazem sites para e-commerce?;Sim! Desenvolvemos lojas virtuais completas com: 🛒 Gestão de estoque, múltiplos métodos de pagamento e integração com marketplaces. É para produtos físicos ou digitais?;E-commerce
-Quanto custa um site institucional?;Oferecemos planos a partir de 399€ (investimento inicial) + mensalidade. Vou encaminhar seu pedido para um orçamento personalizado! Para isso, preciso do seu nome e e-mail. 😊;Orçamento
+Quanto custa um site institucional?;Oferecemos planos a partir de 399€ (investimento inicial) + mensalidade. Vou encaminhar o seu pedido para um orçamento personalizado! Para isso, preciso do seu nome e e-mail. 😊;Orçamento
 O que está incluído no Plano Ouro?;O Plano Ouro 🟡 inclui: 1) Site/e-commerce até 20 páginas, 2) Design exclusivo, 3) Área de clientes com login, 4) Hospedagem VPS, 5) Backup diário e 6) Suporte prioritário. Quer agendar uma demonstração?;Planos
-Quanto tempo leva para desenvolver um site?;Nosso processo leva em média 4 semanas (do briefing ao lançamento). Para sites urgentes, temos priorização com taxa especial. Precisa para alguma data específica?;Processo
-Vocês garantem posicionamento no Google?;Aplicamos SEO avançado em todos projetos! Um cliente alcançou a 1ª página do Google em 3 meses. Quer saber como? Me informe seu nicho de atuação. 😊;SEO
-Preciso migrar meu site antigo. Vocês ajudam?;Com certeza! Nesta semana temos promoção com migração gratuita. Posso verificar a compatibilidade do seu site atual? Qual a plataforma utilizada?;Migração
-O que é UX/UI avançado?;É o design que alia beleza e funcionalidade! Criamos: 1) Fluxos intuitivos, 2) Elementos visuais estratégicos e 3) Testes com usuários reais. Temos um portfólio para te mostrar. Interessa?;Tecnologia
-Como funciona o suporte pós-lançamento?;Oferecemos: 1) Atualizações mensais, 2) Monitoramento 24/7, 3) Relatórios de desempenho e 4) Treinamentos. No Plano Diamante, incluímos suporte VIP com desenvolvedor dedicado. 😊;Suporte
-Vocês integram chatbots de IA?;Sim! Integramos o neuronex para atendimento automático 24h. Reduzimos em 60% o tempo de resposta numa clínica médica. Posso te enviar esse case?;IA
+Quanto tempo leva para desenvolver um site?;O nosso processo leva em média 4 semanas (do briefing ao lançamento). Para sites urgentes, temos prioridade com taxa especial. Precisa para alguma data específica?;Processo
+Vocês garantem posicionamento no Google?;Aplicamos SEO avançado em todos os projetos! Um cliente alcançou a 1ª página do Google em 3 meses. Quer saber como? Informe-me o seu ramo de atuação. 😊;SEO
+Preciso mudar o meu site antigo. Vocês ajudam?;Com certeza! Nesta semana temos uma promoção com mudança gratuita. Posso verificar a compatibilidade do seu site atual? Qual a plataforma utilizada?;Migração
+O que é UX/UI avançado?;É o design que alia beleza e funcionalidade! Criamos: 1) Fluxos intuitivos, 2) Elementos visuais estratégicos e 3) Testes com utilizadores reais. Temos um portfólio para mostrar-lhe. Interessa-lhe?;Tecnologia
+Como funciona o suporte pós-lançamento?;Oferecemos: 1) Atualizações mensais, 2) Monitorização 24/7, 3) Relatórios de desempenho e 4) Formações. No Plano Diamante, incluímos suporte VIP com um programador dedicado. 😊;Suporte
+Vocês integram chatbots de IA?;Sim! Integramos o neuronex para atendimento automático 24h. Reduzimos em 60% o tempo de resposta numa clínica médica. Posso enviar-lhe esse caso?;IA
 Quais tecnologias usam no desenvolvimento?;Trabalhamos com: 1) Front-end: React/HTML5, 2) Back-end: Node.js/Python, 3) CMS: WordPress/Shopify e 4) SEO: SEMrush/Google Analytics. Prefere alguma tecnologia específica?;Tecnologia
-Tem desconto para ONGs?;Temos condições especiais para ONGs! Precisa enviar seu registro de utilidade pública. Posso adiantar que o desconto chega a 20% no Plano Prata. Qual seu e-mail para envio dos detalhes?;Descontos
-O site funciona bem em celulares?;Todos nossos sites são 100% responsivos! Um cliente teve aumento de 75% em acessos móveis após a migração para nossa plataforma. Quer testar um demo no seu dispositivo?;Mobile
+Tem desconto para ONGs?;Temos condições especiais para ONGs! Precisa enviar o seu registo de utilidade pública. Posso adiantar que o desconto chega a 20% no Plano Prata. Qual o seu e-mail para envio dos detalhes?;Descontos
+O site funciona bem em telemóveis?;Todos os nossos sites são 100% adaptáveis! Um cliente teve um aumento de 75% em acessos móveis após a mudança para a nossa plataforma. Quer testar uma demonstração no seu dispositivo?;Mobile
 Preciso de um blog corporativo. Fazem?;Claro! Blogs são ótimos para: 1) Autoridade, 2) Tráfego orgânico e 3) Nutrição de leads. Incluímos estrutura de SEO e editor visual intuitivo. Já tem uma estratégia de conteúdo?;Blogs
-Como é o processo de pagamento?;Trabalhamos com: 1) 50% no início, 2) 30% na aprovação do layout e 3) 20% no lançamento. Aceitamos transferência, cartão e PayPal. Posso enviar nossa política completa?;Pagamento
-Vocês registram o domínio para mim?;Sim! Todos planos incluem domínio gratuito no 1º ano (.pt ou .com). Após isso, a renovação é de apenas 15€/ano. Já tem um nome em mente para seu site?;Domínio
-Preciso de site em inglês e português.;Oferecemos sites multilíngue (até 3 idiomas)! Um restaurante aumentou 40% em reservas de turistas com nosso serviço. Quer ver esse case?;Multilíngue
+Como é o processo de pagamento?;Trabalhamos com: 1) 50% no início, 2) 30% na aprovação do layout e 3) 20% no lançamento. Aceitamos transferência, cartão e PayPal. Posso enviar a nossa política completa?;Pagamento
+Vocês registam o domínio para mim?;Sim! Todos os planos incluem domínio gratuito no 1º ano (.pt ou .com). Após isso, a renovação é de apenas 15€/ano. Já tem um nome em mente para seu site?;Domínio
+Preciso do site em inglês e português.;Oferecemos sites multilíngue (até 3 idiomas)! Um restaurante aumentou 40% em reservas de turistas com o nosso serviço. Quer ver esse caso?;Multilíngue
 O que preciso fornecer para começar?;Apenas: 1) Briefing dos objetivos, 2) Conteúdo básico (textos/imagens) e 3) Feedback nos protótipos. Do resto, cuidamos nós! Tem tudo isso organizado?;Requisitos
-Tem casos de sucesso para mostrar?;Claro! Um e-commerce de moda aumentou 120% nas vendas. Posso te enviar o portfólio completo. Me confirme seu e-mail corporativo. 📁;Portfólio
-Qual a diferença entre WordPress e site customizado?;WordPress é ideal para quem quer autogestão (incluído no Plano Prata). Sites customizados (Planos Ouro/Diamante) oferecem mais performance e exclusividade. Qual seu nível de conhecimento técnico?;CMS
-O que é o neuronex?;O neuronex é o agente de IA avançado da scriptai que revoluciona atendimento ao cliente com: 1) Processamento de Linguagem Natural, 2) Integração com ChatGPT, 3) Respostas dinâmicas 24/7. Posso te enviar um vídeo demonstrativo? Qual seu e-mail?;Definição
-Quais os principais problemas que o neuronex resolve?;Ótima pergunta! Resolvemos: 1) Atendimento limitado a horário comercial, 2) Respostas lentas, 3) Informações inconsistentes, 4) Custos altos com equipes. Um cliente reduziu 70% nos custos! Quer o case completo?;Benefícios
-Como funciona a integração com WhatsApp?;Integramos via API oficial! O neuronex gerencia: 1) Atendimento automático, 2) Qualificação de leads, 3) Agendamentos. Já usamos em 50+ empresas. Precisa de demonstração prática?;Integrações
-Qual a diferença entre os planos Essencial e Pro?;O Plano Pro 🌟 inclui: 1) 3 canais (WhatsApp+Telegram+Messenger), 2) Qualificação de leads, 3) Integração com bitrix, 4) Relatórios semanais. Posso te enviar uma tabela comparativa?;Planos
-Quanto tempo leva para implementar?;Em média 2 semanas! Passos: 1) Briefing (2 dias), 2) Configuração (5 dias), 3) Testes (3 dias). Tem urgência? Temos priorização expressa.;Implementação
-O neuronex substitui atendentes humanos?;De modo algum! 😊 Ele potencializa sua equipe: 1) Elimina tarefas repetitivas, 2) Libera tempo para ações estratégicas. Um cliente realocou a equipe para vendas complexas!;Humanização
-Preciso treinar minha equipe para usar?;Não! No Plano Enterprise incluímos treinamento, mas o sistema é intuitivo. Temos tutoriais em vídeo para todos os planos. Quer acesso a um demo?;Treinamento
-Como é o suporte técnico?;Oferecemos: 1) Email (todos planos), 2) Telefone (Pro), 3) 24/7 (Enterprise). Resposta em até 1h para emergências no Enterprise. Posso te mostrar nosso SLA?;Suporte
+Tem casos de sucesso para mostrar?;Claro! Um e-commerce de moda aumentou 120% nas vendas. Posso te enviar o portfólio completo. Confirme-me o seu e-mail corporativo. 📁;Portfólio
+Qual a diferença entre WordPress e site customizado?;WordPress é ideal para quem quer autogestão (incluído no Plano Prata). Sites personalizados (Planos Ouro/Diamante) oferecem mais performance e exclusividade. Qual o seu nível de conhecimento técnico?;CMS
+O que é o neuronex?;O neuronex é o agente de IA avançado da scriptai que revoluciona atendimento ao cliente com: 1) Processamento de Linguagem Natural, 2) Integração com ChatGPT, 3) Respostas dinâmicas 24/7. Posso enviar-te um vídeo demonstrativo? Qual o seu e-mail?;Definição
+Quais os principais problemas que o neuronex resolve?;Ótima pergunta! Resolvemos: 1) Atendimento limitado a horário comercial, 2) Respostas lentas, 3) Informações inconsistentes, 4) Custos altos com equipas. Um cliente reduziu 70% nos custos! Quer o caso completo?;Benefícios
+Como funciona a integração com WhatsApp?;Integramos via API oficial! O neuronex gerencia: 1) Atendimento automático, 2) Qualificação de leads, 3) Agendamentos. Já usamos em 50+ empresas. Precisa duma demonstração prática?;Integrações
+Qual a diferença entre os planos Essencial e Pro?;O Plano Pro 🌟 inclui: 1) 3 canais (WhatsApp+Telegram+Messenger), 2) Qualificação de leads, 3) Integração com bitrix, 4) Relatórios semanais. Posso enviar-lhe uma tabela de comparação?;Planos
+Quanto tempo leva para implementar?;Em média 2 semanas! Passos: 1) Briefing (2 dias), 2) Configuração (5 dias), 3) Testes (3 dias). Tem urgência? Temos prioridade expressa.;Implementação
+O neuronex substitui atendentes humanos?;De modo algum! 😊 Ele potencializa a sua equipa: 1) Elimina tarefas repetitivas, 2) Liberta tempo para ações estratégicas. Um cliente transferiu a equipa para vendas mais complexas!;Humanização
+Preciso treinar a minha equipa para usar?;Não! No Plano Enterprise incluímos formação, mas o sistema é intuitivo. Temos tutoriais em vídeo para todos os planos. Quer acesso a uma demonstração?;Treinamento
+Como é o suporte técnico?;Oferecemos: 1) Email (todos planos), 2) Telefone (Pro), 3) 24/7 (Enterprise). Resposta até 1h para emergências no Enterprise. Posso mostrar-lhe o nosso SLA?;Suporte
 Vocês fazem integração com meu CRM atual?;Sim! Integramos com: 1) bitrix (nativo), 2) Salesforce/Outros (via API). Já conectamos a 15+ sistemas diferentes. Qual CRM você usa?;CRM
-Qual o ROI médio do neuronex?;Clientes obtêm ROI em 2-6 meses! Exemplo: Loja de moda reduziu custos em 65% e aumentou vendas 40%. Quer uma calculadora personalizada de ROI?;ROI
-O neuronex funciona para e-commerce?;Perfeitamente! 🛒 Atendemos: 1) Dúvidas sobre produtos, 2) Rastreio de pedidos, 3) Devoluções. Um cliente reduziu 40% no abandono de carrinho!;E-commerce
-Como vocês garantem a segurança dos dados?;Usamos: 1) Criptografia AES-256, 2) Certificado SSL, 3) Compliance com GDPR. Nunca tivemos breaches em 5 anos! Precisa de nosso whitepaper de segurança?;Segurança
-Preciso comprar hardware adicional?;Nada! O neuronex é 100% cloud. Só precisa: 1) Conexão à internet, 2) Dispositivo para acessar o painel. Mesmo smartphones funcionam!;Infraestrutura
-O plano Essencial atende empresa com 50 funcionários?;Recomendamos o Pro para esse porte! Motivos: 1) Suporte por telefone, 2) 3 canais integrados, 3) Até 150 intenções. Posso simular um orçamento?;Dimensionamento
-Como atualizo a base de conhecimento?;No Essencial: via painel intuitivo. Nos outros planos: 1) Atualizações trimestrais (Pro), 2) Mensais (Enterprise). Oferecemos serviço de curadoria também!;Atualizações
-O neuronex entende gírias e regionalismos?;Sim! Nosso PLN avançado capta: 1) Contexto, 2) Intenção, 3) Sentimento. Um cliente no Porto teve 95% de acurácia com expressões locais!;NLP
+Qual o ROI médio do neuronex?;Clientes obtêm ROI em 2-6 meses! Exemplo: Uma loja de moda reduziu os custos em 65% e aumentou as  vendas em 40%. Quer uma calculadora personalizada de ROI?;ROI
+O neuronex funciona para e-commerce?;Perfeitamente! 🛒 Atendemos: 1) Dúvidas sobre produtos, 2) Rastreio de pedidos, 3) Devoluções. Um cliente reduziu em 40% o abandono de carrinho!;E-commerce
+Como vocês garantem a segurança dos dados?;Usamos: 1) Criptografia AES-256, 2) Certificado SSL, 3) Compliance com GDPR. Nunca tivemos breaches em 5 anos! Precisa do nosso whitepaper de segurança?;Segurança
+Preciso comprar hardware adicional?;Nada! O neuronex é 100% cloud. Só precisa: 1) Conexão à internet, 2) Dispositivo para ter acesso ao painel. Mesmo os smartphones funcionam!;Infraestrutura
+O plano Essencial atende empresas com 50 funcionários?;Recomendamos o Pro para esse número! Motivos: 1) Suporte por telefone, 2) 3 canais integrados, 3) Até 150 intenções. Posso simular um orçamento?;Dimensionamento
+Como atualizo a base de conhecimento?;No Essencial: via painel intuitivo. Nos outros planos: 1) Atualizações trimestrais (Pro), 2) Mensais (Enterprise). Oferecemos um serviço de curadoria também!;Atualizações
+O neuronex entende gírias e regionalismos?;Sim! Nosso PLN avançado capta: 1) Contexto, 2) Intenção, 3) Sentimento. Um cliente no Porto teve 95% de precisão com expressões locais!;NLP
 Vocês oferecem teste gratuito?;Temos demonstração personalizada de 30 minutos! No Enterprise: teste de 7 dias. Quer agendar? Indique 3 horários esta semana. 😊;Testes
-Como é cobrado o uso excedente?;Não cobramos por mensagem! Todos planos têm: 1) Atendimento ilimitado, 2) Sem taxas extras. Só pagaria upgrade de plano se precisar de mais funcionalidades.;Cobrança
+Como é cobrado o uso em excesso?;Não cobramos por mensagem! Todos planos têm: 1) Atendimento ilimitado, 2) Sem taxas extras. Só pagaria upgrade de plano se precisar de mais funcionalidades.;Cobrança
 O neuronex envia e-mails automaticamente?;No Pro e Enterprise: sim! Integramos com: 1) Campanhas, 2) Follow-ups, 3) Notificações. Um cliente automatizou 80% dos e-mails de suporte!;Automação
-Consigo ver métricas de desempenho?;Relatórios incluídos: 1) Mensais (Essencial), 2) Semanais (Pro), 3) Tempo real (Enterprise). Mostramos: taxa de resposta, satisfação, conversões. Quer um exemplo?;Métricas
-Como lidam com perguntas muito específicas?;1) Busca na base de conhecimento, 2) Transferência para humano (se configurado), 3) Resposta padrão com tempo estimado para solução. Taxa de resolução: 92%!;Complexidade
-Preciso de desenvolvedor para implementar?;Não! Nossa equipe faz tudo: 1) Configuração, 2) Integrações, 3) Testes. Você só precisa validar. Já implementamos em 3h para casos urgentes!;Implementação
-O neuronex funciona em outros idiomas?;Sim! Suportamos: 1) Português (PT/BR), 2) Inglês, 3) Espanhol. No Enterprise: até 3 idiomas simultâneos. Precisa de outros?;Idiomas
-Como é o processo de migração de outro chatbot?;Migração gratuita nesta semana! Passos: 1) Exportamos seus dados, 2) Adaptamos fluxos, 3) Validamos juntos. Já migramos 17 sistemas diferentes.;Migração
-Vocês fornecem a documentação técnica?;Sim! Todos clientes recebem: 1) Manual de uso, 2) API docs, 3) Vídeo-tutoriais. No Enterprise: documentação customizada para sua equipe.;Documentação
-Qual o volume de mensagens suportado?;Ilimitado! Arquitetura escalável: 1) Até 1.000 msg/min (Essencial), 2) 10.000 msg/min (Enterprise). Nunca caímos em picos de demanda!;Performance
-Consigo personalizar a personalidade do bot?;Totalmente! No Enterprise: 1) Tom de voz, 2) Nome, 3) Avatar, 4) Respostas customizadas. Um restaurante criou um bot 'chef' muito engraçado!;Personalização
+Consigo ver metas de desempenho?;Relatórios incluídos: 1) Mensais (Essencial), 2) Semanais (Pro), 3) Tempo real (Enterprise). Mostramos: taxa de resposta, satisfação, conversões. Quer um exemplo?;Métricas
+Como lidam com perguntas muito específicas?;1) Pesquisa na base de conhecimento, 2) Transferência para humano (se configurado), 3) Resposta padrão com tempo estimado para solução. Taxa de resolução: 92%!;Complexidade
+Preciso de desenvolvedor para implementar?;Não! A nossa equipa faz tudo: 1) Configuração, 2) Integrações, 3) Testes. Você só precisa validar. Já implementamos em 3h para casos urgentes!;Implementação
+O neuronex funciona em outros idiomas?;Sim! Suportamos: 1) Português, 2) Inglês, 3) Espanhol. Precisas de mais algum?;Idiomas
+Como é o processo de mudança de outro chatbot?;Mudança gratuita nesta semana! Passos: 1) Exportamos os seus dados, 2) Adaptamos fluxos, 3) Validamos juntos. Já mudamos 17 sistemas diferentes.;Migração
+Vocês fornecem a documentação técnica?;Sim! Todos os clientes recebem: 1) Manual de utilização, 2) API docs, 3) Vídeo-tutoriais. No Enterprise: documentação personalizada para a sua equipa.;Documentação
+Qual o volume de mensagens suportado?;Ilimitado! Arquitetura escalável: 1) Até 1.000 msg/min (Essencial), 2) 10.000 msg/min (Enterprise). Nunca caímos em picos de procura!;Performance
+Consigo personalizar a personalidade do bot?;Totalmente! No Enterprise: 1) Tom de voz, 2) Nome, 3) Avatar, 4) Respostas personalizadas. Um restaurante criou um bot 'chef' muito engraçado!;Personalização
 Como é o atendimento em feriados?;24/7/365! O neuronex não dorme 😊. Um cliente de turismo atendeu 92% mais consultas no Natal sem aumentar custos!;Disponibilidade
 O neuronex aprende com as interações?;Sim! Nos planos Pro/Enterprise: 1) Machine Learning adaptativo, 2) Sugestões de melhoria. A cada 1.000 interações, a precisão aumenta 3%!;Aprendizado
 Tem contrato de fidelidade?;Não! Pode cancelar a qualquer momento. Mas 97% dos clientes renovam após 6 meses pelos resultados. Quer falar com um deles?;Contrato
 Como é o processo de cancelamento?;Simples: 1) Solicitação por email, 2) Backup dos dados, 3) Confirmação. Sem multas ou letras miúdas. Já cancelou algum serviço parecido?;Cancelamento
-Vocês têm certificações de qualidade?;Sim! ISO 27001 (segurança), GDPR (dados), e premio 'Melhor IA para Atendimento 2023'. Quer os certificados para seu compliance?;Certificações
+Vocês têm certificações de qualidade?;Sim! ISO 27001 (segurança), GDPR (dados), e premio 'Melhor IA para Atendimento 2023'. Quer os certificados para sua conformidade?;Certificações
 O neuronex envia arquivos e imagens?;Sim! Todos planos suportam: 1) PDFs, 2) Imagens, 3) Links. No Enterprise: envio automático de manuais e catálogos.;redes
 Consigo filtrar palavras inadequadas?;Totalmente! Temos: 1) Filtro de palavrões, 2) Moderação manual, 3) Alertas para termos sensíveis. Personalizável por política da empresa.;Moderação
-Como é a recuperação de dados?;Backups: 1) Diários (Enterprise), 2) Semanais (Pro), 3) Sob demanda. Retenção por 180 dias. Nunca perdemos dados em 5 anos!;Backup
+Como é a recuperação de dados?;Backups: 1) Diários (Enterprise), 2) Semanais (Pro), 3) Sob procura. Retenção por 180 dias. Nunca perdemos dados em 5 anos!;Backup
 O neuronex funciona offline?;Precisa de internet, mas temos modo 'reserva' que: 1) Armazena mensagens localmente, 2) Envia quando reconectado. Já salvou 12.000+ interações!;Offline
-Tem limite de usuários no painel?;Não! Todos planos permitem: 1) Usuários ilimitados, 2) Controle de acesso, 3) Hierarquias. Um cliente tem 47 usuários ativos!;Usuários
-Como é a escalabilidade para grandes empresas?;Arquitetura enterprise-ready: 1) Balanceamento de carga, 2) CDN global, 3) SLA 99.99%. Atendemos multinacionais com 1M+ msg/dia!;Escalabilidade
+Tem limite de usuários no painel?;Não! Todos planos permitem: 1) Utilizadores ilimitados, 2) Controlo de acesso, 3) Hierarquias. Um cliente tem 47 utilizadores ativos!;Usuários
+Como é a escalabilidade para grandes empresas?;Arquitetura enterprise-ready: 1) Equilibrio de carga, 2) CDN global, 3) SLA 99.99%. Atendemos multinacionais com 1M+ msg/dia!;Escalabilidade
 Vocês fazem análise de sentimentos?;No Enterprise: sim! Detectamos: 1) Frustração, 2) Satisfação, 3) Urgência. Acionamos humanos quando necessário. 89% de precisão!;Sentimento
-Consigo exportar os dados para Excel?;Sim! Todos planos permitem exportar: 1) Histórico, 2) Métricas, 3) Leads. No Enterprise: API para integração com BI.;Exportação
-O que é o bitrix?;O bitrix é uma plataforma all-in-one para gestão empresarial, integrando CRM, projetos, comunicação e automação em uma única solução.;FAQ Geral
+Consigo exportar os dados para Excel?;Sim! Todos os planos permitem exportar: 1) Histórico, 2) Metas, 3) Leads. No Enterprise: API para integração com BI.;Exportação
+O que é o bitrix?;O bitrix é uma plataforma all-in-one para gestão empresarial, integrando CRM, projetos, comunicação e automação numa única solução.;FAQ Geral
 Quais os principais módulos do bitrix?;CRM, gestão de projetos, comunicação interna, sites/e-commerce, marketing automation e recursos humanos.;Funcionalidades
-O bitrix tem versão gratuita?;Sim, oferecemos um plano gratuito com funcionalidades básicas para pequenas equipes.;Planos
+O bitrix tem versão gratuita?;Sim, oferecemos um plano gratuito com funcionalidades básicas para pequenas equipas.;Planos
 Como o bitrix melhora a comunicação interna?;Substitui e-mails por feed empresarial, chat integrado e videochamadas, reduzindo emails em 50%.;Comunicação
 Vocês oferecem suporte em Portugal?;Sim, somos parceiros oficiais em Portugal com suporte local em português.;Localização
 Quanto custa a implementação do bitrix?;A implementação está incluída no serviço, sem custos adicionais.;Preços
 O bitrix é compatível com RGPD?;Sim, garantimos compliance total com RGPD e segurança de dados.;Segurança
 Como funciona o CRM do bitrix?;Inclui IA para previsões de vendas, automação de follow-ups e pipelines visuais.;CRM
-Quantos usuários o bitrix suporta?;Escalável para qualquer tamanho, de pequenas empresas a grandes corporações.;Escalabilidade
+Quantos utilizadores o bitrix suporta?;Escalável para qualquer tamanho, de pequenas empresas a grandes corporações.;Escalabilidade
 O bitrix substitui o Salesforce?;Sim, com preço 80% menor e integração nativa de todas as ferramentas.;Comparativos
 Tem aplicativo móvel?;Sim, com apps para iOS e Android com todas as funcionalidades.;Mobile
-Como é o processo de migração?;Migramos todos os seus dados sem custo em 2 semanas.;Implementação
+Como é o processo de mudança?;Mudamos todos os seus dados sem custo em 2 semanas.;Implementação
 O bitrix tem automação de marketing?;Sim, com email marketing, segmentação e nurturing automáticos.;Marketing
-Precisa de treinamento para usar?;Oferecemos formação completa incluída no pacote.;Suporte
+Preciso de formação para usar?;Oferecemos formação completa incluída no pacote.;Suporte
 Tem integração com WhatsApp?;Sim, integração nativa para atendimento ao cliente.;Integrações
 Como são os relatórios?;Relatórios inteligentes com insights automáticos sobre performance.;Analytics
 O que é a scriptai?;Especialista em gestão de redes sociais com IA, criando conteúdo e estratégias personalizadas.;FAQ Geral
-Quais redes sociais vocês gerenciam?;Instagram, Facebook, LinkedIn, TikTok, YouTube e Pinterest.;Redes Sociais
+Quais redes sociais vocês gerem?;Instagram, Facebook, LinkedIn, TikTok, YouTube e Pinterest.;Redes Sociais
 Como é cobrado o serviço?;Planos desde €150/mês (Bronze) até €600/mês (Diamante).;Planos
 O que inclui o Plano Prata?;Gestão de 3 redes, 16 posts/mês, 8 stories/semana e 1 reel/mês por €250/mês.;Planos
 Vocês criam conteúdo visual?;Sim, com designers profissionais usando Adobe Suite e Canva.;Conteúdo
 Como medem os resultados?;Com Google Analytics, Meta Suite e relatórios personalizados de ROI.;Métricas
-Tem suporte 24/7?;No Plano Diamante, com gerente dedicado e suporte VIP.;Suporte
+Tem suporte 24/7?;No Plano Diamante, com gestor dedicado e suporte VIP.;Suporte
 Fazem campanhas pagas?;Sim, em todos os planos acima do Bronze, com otimização contínua.;Publicidade
 Como é o calendário de posts?;Criamos calendário editorial alinhado à sua identidade visual.;Estratégia
 Vocês usam IA?;Sim, com agentes de IA para automação e análise preditiva.;Tecnologia
-Quanto tempo para ver resultados?;Em média, clientes veem aumento de engajamento em 4-8 semanas.;Resultados
+Quanto tempo para ver os resultados?;Em média, clientes veem aumento de interação em 4-8 semanas.;Resultados
 Trabalham com e-commerce?;Sim, criamos estratégias para lojas online com foco em conversão.;E-commerce
-Fazem gestão de reviews?;Sim, monitoramos e respondemos a todos os comentários.;Reputação
+Fazem gestão de reviews?;Sim, monitorizamos e respondemos a todos os comentários.;Reputação
 Tem contrato mínimo?;Todos os planos exigem fidelização de 6 meses.;Contratos
-Como é o atendimento ao cliente?;Resposta em até 12h (Prata) ou 24h (Bronze).;Suporte
-Vocês postam nos Stories?;Sim, desde 4 stories/semana (Bronze) até diários (Diamante).;Conteúdo
+Como é o atendimento ao cliente?;Resposta até 12h (Prata) ou 24h (Bronze).;Suporte
+Vocês publicam nos Stories?;Sim, desde 4 stories/semana (Bronze) até diários (Diamante).;Conteúdo
 Fazem vídeos para TikTok?;Sim, com conteúdo viral e participação em desafios.;TikTok
-Tem dashboard de acompanhamento?;Sim, com métricas em tempo real nos planos Ouro e Diamante.;Analytics
+Tem dashboard de acompanhamento?;Sim, com metas em tempo real nos planos Ouro e Diamante.;Analytics
 Como é o processo criativo?;Baseado em análise de público, concorrência e tendências.;Estratégia
 Vocês fazem SEO para YouTube?;Sim, com otimização de títulos, tags e descrições.;YouTube
 Oferecem consultoria gratuita?;Sim, com análise inicial sem compromisso.;Consultoria
 Tem desconto para contrato anual?;Sim, oferecemos 10% de desconto para pagamento anual.;Promoções
 Como lidam com crises de imagem?;Com protocolos de resposta rápida e comunicação transparente.;Reputação
-Fazem gestão de influenciadores?;Sim, identificamos e gerenciamos parcerias estratégicas.;Influencers
-Vocês criam anúncios?;Sim, desde criação até gestão e otimização de campanhas.;Publicidade
-Tem relatório de concorrentes?;Sim, incluímos benchmarking competitivo nos planos Prata+.;Analítica
-Fazem lives?;Sim, nos planos Diamante (2 lives/mês).;Conteúdo
-Como é a interação com seguidores?;Resposta personalizada e construção de relacionamento.;Engajamento
-Vocês postam fins de semana?;Sim, conforme estratégia definida no calendário editorial.;Posting
-Tem criação de logo?;Não, mas podemos indicar parceiros para identidade visual.;Serviços
+Fazem gestão de influenciadores?;Sim, identificamos e gerimos parcerias estratégicas.;Influencers
+Vocês criam anúncios?;Sim, desde a criação até à gestão e otimização de campanhas.;Publicidade
+Tem relatórios de concorrentes?;Sim, incluímos benchmarking competitivo nos planos Prata+.;Analítica
+Fazem diretos?;Sim, nos planos Diamante (2 lives/mês).;Conteúdo
+Como é a interação com os seguidores?;Resposta personalizada e construção de relacionamento.;Engajamento
+Vocês publicam aos fins de semana?;Sim, conforme estratégia definida no calendário editorial.;Posting
+Tem criação de logotipo?;Não, mas podemos indicar parceiros para identidade visual.;Serviços
 Fazem gestão de Google Meu Negócio?;Não, mas damos orientações para otimização.;Serviços
 Qual horário de atendimento?;Seg-Sex, 9h-18h (exceto Plano Diamante 24/7).;Suporte
 Aceitam pagamento por MBWay?;Sim, aceitamos MBWay, transferência e cartão.;Pagamentos
-Tem caso de sucesso em restaurantes?;Sim, um cliente teve 45% mais movimento e 200 reservas/mês via Instagram.;Casos
+Tem casos de sucesso em restaurantes?;Sim, um cliente teve 45% mais movimento e 200 reservas/mês via Instagram.;Casos
 Como aumentar seguidores orgânicos?;Com conteúdo relevante, interação constante e estratégias de growth.;Crescimento
 Posso cancelar a qualquer momento?;Após os 6 meses iniciais, sem multa.;Contratos
-Quero falar com um atendente;Sem problemas! Vou transferir você para um atendente humano. Por favor, informe o motivo do contato para agilizar o atendimento.;Escalonamento
-Preciso falar com um responsável;Claro! Encaminharei sua solicitação para um responsável. Poderia informar o assunto para direcionarmos corretamente?;Escalonamento
+Quero falar com um operador;Sem problemas! Vou transferi-lo para um operador humano. Por favor, informe o motivo do contato para agilizar o atendimento.;Escalonamento
+Preciso falar com um responsável;Claro! Encaminharei a sua solicitação para um responsável. Poderia informar-me o assunto para o direcionarmos corretamente?;Escalonamento
 Posso falar com alguém da equipa?;Sim! Um membro da nossa equipa entrará em contato em breve. Qual o melhor canal para retorno?;Escalonamento
-Quero atendimento humano;Entendido! Vou transferir sua conversa para um atendente humano. Aguarde um momento, por favor.;Escalonamento
-Tem alguém aí de verdade?;Sim! Caso prefira atendimento humano, posso transferir agora mesmo. Deseja prosseguir?;Escalonamento
-Quero falar com o gerente;Certo! Encaminharei sua solicitação ao gerente responsável. Por favor, informe o motivo do contato.;Escalonamento
-Quero falar com um consultor;Combinado! Um consultor especializado irá te atender em instantes. Pode detalhar sua necessidade?;Escalonamento
+Quero atendimento humano;Entendido! Vou transferir a sua conversa para um operador humano. Aguarde um momento, por favor.;Escalonamento
+Tem alguém aí de verdade?;Sim! Caso prefira atendimento humano, posso transferir agora mesmo. Deseja continuar?;Escalonamento
+Quero falar com o gerente;Certo! Encaminharei a sua solicitação ao operador responsável. Por favor, informe o motivo do contato.;Escalonamento
+Quero falar com um consultor;Combinado! Um consultor especializado irá atendê-lo em instantes. Pode detalhar a sua necessidade?;Escalonamento
