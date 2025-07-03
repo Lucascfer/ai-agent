@@ -1,95 +1,140 @@
-Apresentação Comercial - Soluções Energéticas
-Quem Somos
-Somos uma empresa especializada em soluções energéticas personalizadas para residências, empresas e indústrias. O nosso foco é ajudar os nossos clientes a reduzir custos e adotar fontes de energia mais sustentáveis.
+# Base de Conhecimento sobre Soluções Energéticas e Mercado Português
 
-Atuamos em duas frentes principais:
+## 1. Introdução às Soluções Energéticas
+As **Soluções Energéticas** são fundamentais para promover inovação, eficiência e sustentabilidade. Oferecemos uma ampla gama de soluções para residências e empresas, incluindo:
+- **Energia Solar:** Painéis solares para geração de eletricidade limpa.
+- **Gás Natural:** Distribuição de gás para substituir combustíveis fósseis.
+- **Energia Elétrica Convencional:** Fornecimento com tarifas competitivas.
+- **Eficiência Energética:** Tecnologias para reduzir consumo sem comprometer desempenho.
 
-Mudança de Comercializadora de Eletricidade e Gás
+## 2. Benefícios das Soluções Energéticas
+1. **Redução de Custos:** Economia nas contas de energia e gás.
+2. **Sustentabilidade:** Redução da pegada de carbono.
+3. **Incentivos Fiscais:** Subsídios para soluções sustentáveis.
+4. **Automação:** Monitoramento em tempo real via Agentes de IA.
+5. **Escalabilidade:** Adaptável a residências e empresas.
 
-Instalação de Painéis Solares Fotovoltaicos
+## 3. Tipos de Soluções Oferecidas
+### 3.1. Energia Solar
+- **Residencial:** Painéis solares em telhados.
+- **Empresarial:** Grandes instalações para indústrias.
+- **Benefícios:** ROI rápido e incentivos fiscais.
 
-Mudança de Comercializadora de Luz e Gás
-Porquê mudar?
+### 3.2. Gás Natural
+- **Residencial:** Substituição de botijões por gás canalizado.
+- **Empresarial:** Fornecimento para processos industriais.
+- **Benefícios:** Segurança e menor custo operacional.
+
+### 3.3. Energia Elétrica Convencional
+- **Residencial:** Planos flexíveis.
+- **Empresarial:** Contratos corporativos.
+- **Benefícios:** Estabilidade no fornecimento.
+
+### 3.4. Eficiência Energética
+- Auditorias e tecnologias como LED e automação.
+- **Benefícios:** Redução de até 30% no consumo.
+
+## 4. Casos de Uso
+### 4.1. Residencial
+- Famílias reduzem contas em até 70% com energia solar.
+- Monitoramento inteligente para otimizar consumo.
+
+### 4.2. Empresarial
+- Indústrias reduzem custos operacionais.
+- Escritórios melhoram eficiência com automação.
+
+## 5. Sustentabilidade e Impacto Ambiental
+- Redução de emissões de CO2.
+- Conservação de recursos naturais.
+- Conformidade com regulamentações ambientais.
+
+## 6. Como Adquirir Soluções
+1. **Consulta Inicial:** Contato via WhatsApp ou site.
+2. **Análise de Necessidades:** Avaliação do perfil de consumo.
+3. **Cotação Personalizada:** Proposta adaptada.
+4. **Assinatura e Contrato:** Formalização.
+5. **Suporte Contínuo:** Assistência técnica.
+
+## 7. Processo de Implementação
+- Instalação de painéis solares ou sistemas de gás.
+- Configuração de automação via IA.
+- Manutenção preventiva e suporte 24/7.
+
+## 8. Perguntas Frequentes (FAQs)
+### 8.1. Sobre Serviços
+- **"Quais as vantagens da energia solar?"**  
+  Resposta: Economia a longo prazo e redução de emissões.
+- **"Posso combinar gás e energia elétrica?"**  
+  Resposta: Sim, pacotes combinados estão disponíveis.
+
+### 8.2. Sobre Migração
+- **"A mudança de fornecedor é complicada?"**  
+  Resposta: Não, é simples e sem interrupção.
+- **"Há penalidades por rescindir contrato?"**  
+  Resposta: Depende das condições atuais.
+
+### 8.3. Sobre Sustentabilidade
+- **"Planos verdes estão disponíveis?"**  
+  Resposta: Sim, incluindo energia solar e tarifas sustentáveis.
+
+## 9. Fluxo de Qualificação de Leads
+### 9.1. Perguntas Iniciais
+- Nome completo, telemóvel e email.
+- Fatura atual para análise.
+- Provedor de serviço atual.
+
+### 9.2. Perguntas de Profundidade
+- Desafios com o serviço atual.
+- Interesse em planos sustentáveis.
+- Número de usuários do serviço.
+
+## 10. Exemplo de Interação com IA
+**Cliente:** "Olá, quero saber sobre energia solar."  
+**IA:** "Boa tarde! Para ajudar, precisamos da sua fatura e dados de contato. Pode compartilhar?"  
+**Cliente:** "Aqui está. Meu nome é Ana, +351 912 345 678, ana@email.com."  
+**IA:** "Obrigado! Analisaremos e enviaremos uma proposta em breve."
+
+## 11. Mercado Português e Comercializadoras
+
+### Porquê mudar?
 O mercado energético português está liberalizado. Isso significa que pode escolher a comercializadora que melhor se adapta ao seu perfil de consumo.
 
-Vantagens:
+**Vantagens**:
+- Redução imediata da fatura de energia; 
+- Planos personalizados (fixo, variável, bi-horário, etc.); 
+- Sem interrupção no fornecimento; 
 
-Redução imediata da fatura de energia
+### Por que investir em energia solar? 
+Portugal é um dos países com maior índice de radiação solar da Europa. Investir em painéis solares é garantir economia e sustentabilidade. 
 
-Planos personalizados (fixo, variável, bi-horário, etc.)
+**Benefícios**: 
+- Redução até 70% na fatura de eletricidade 
+- Retorno sobre o investimento em poucos anos 
+- Valorização do imóvel 
+- Contribuição para a redução de emissões de CO₂ 
 
-Sem interrupção no fornecimento
+#### Tipos de soluções que oferecemos: 
+- Sistemas de Autoconsumo Residencial 
+- Sistemas de Autoconsumo para Empresas e Indústria 
+- Instalações com ou sem baterias
+- Sistemas On-grid (ligados à rede) e Off-grid (independentes da rede)
 
-Processo simples e rápido (tratamos de tudo por si)
+### 11.1. EDP Comercial
+- **Segmentos:** Residencial e empresarial.
+- **Serviços:** Energia solar, convencional e gás natural.
+- **Vantagens:** Plataforma digital e suporte 24/7.
 
-Como funciona o processo?
-Análise gratuita da sua fatura atual
+### 11.2. Endesa
+- **Segmentos:** Residencial e empresarial.
+- **Serviços:** Energia solar com financiamento facilitado.
+- **Vantagens:** Inovação e programas de fidelidade.
 
-Comparação entre as principais comercializadoras do mercado
+### 11.3. Repsol
+- **Segmentos:** Residencial.
+- **Serviços:** Energia convencional e gás natural.
+- **Vantagens:** Foco em sustentabilidade.
 
-Proposta personalizada com a melhor tarifa
-
-Gestão de mudança sem burocracias
-
-Soluções em Energia Solar
-Porque investir em energia solar?
-Portugal é um dos países com maior índice de radiação solar da Europa. Investir em painéis solares é garantir economia e sustentabilidade.
-
-Benefícios:
-
-Redução até 70% na fatura de eletricidade
-
-Retorno sobre o investimento em poucos anos
-
-Valorização do imóvel
-
-Contribuição para a redução de emissões de CO₂
-
-Tipos de soluções que oferecemos:
-Sistemas de Autoconsumo Residencial
-
-Sistemas de Autoconsumo para Empresas e Indústria
-
-Instalações com ou sem baterias
-
-Sistemas On-grid (ligados à rede) e Off-grid (independentes da rede)
-
-O que está incluído?
-Estudo técnico personalizado
-
-Projeto e licenciamento
-
-Instalação certificada
-
-Monitorização e manutenção
-
-Financiamento e Incentivos
-Sabemos que o investimento inicial pode ser uma barreira. Por isso, oferecemos:
-
-Opções de financiamento com mensalidades reduzidas
-
-Apoio na candidatura a incentivos e subsídios disponíveis
-
-Modelos de pagamento flexíveis (compra direta, leasing, etc.)
-
-Porque escolher a nossa empresa?
-Equipa técnica especializada
-
-Parcerias com as principais comercializadoras e fornecedores de equipamentos solares
-
-Acompanhamento pós-venda
-
-Soluções 100% personalizadas
-
-Garantia de qualidade em todos os processos
-
-Próximos Passos
-Entre em contacto connosco
-
-Envie-nos a sua última fatura de energia
-
-Agendamos uma visita técnica (quando aplicável)
-
-Receba a sua proposta sem compromisso
-
-Juntos, vamos reduzir os seus custos e tornar a sua energia mais sustentável.
+## 12. Considerações Finais
+- **Foco nos Benefícios:** Destaque economia e sustentabilidade.
+- **Personalização:** Adapte respostas ao perfil do cliente.
+- **Transparência:** Explique o processo de migração claramente.
