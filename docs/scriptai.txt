@@ -1,90 +1,156 @@
-ScriptAI - Soluções Inteligentes
-Sobre Nós
-A ScriptAI é uma empresa inovadora que alia tecnologia de ponta a soluções práticas para simplificar e potenciar o seu negócio.
-A nossa missão é facilitar a adoção de tecnologias disruptivas, tornando-as acessíveis e com impacto real para empresas de todas as dimensões.
+**Transforme o seu negócio com soluções inteligentes**  
+Automatize processos, aumente a produtividade e impulsione o crescimento da sua empresa com as nossas soluções integradas de IA, gestão, energia e presença digital.  
 
-Os Nossos Pilares Estratégicos
-Neuronex (IA)
-Inteligência Artificial ao seu alcance
+---
 
-Agentes generativos que transformam o seu negócio
+### **Sobre Nós**  
+A **ScriptAI** é uma empresa inovadora que alia tecnologia de ponta a soluções práticas para simplificar e potenciar o seu negócio. A nossa missão é facilitar a adoção de tecnologias disruptivas, tornando-as acessíveis e com impacto real para empresas de todas as dimensões.  
 
-Bitrix24
-Gestão inteligente integrada
+---
 
-Integração com IA e redes sociais para otimizar processos
+### **Os Nossos Pilares Estratégicos**  
+Oferecemos soluções completas e integradas através dos nossos cinco pilares estratégicos, cada um projetado para atender às necessidades específicas do seu negócio:  
 
-Soluções Energéticas
-Energia limpa e eficiente
+- **Neuronex (IA)**  
+  Inteligência Artificial ao seu alcance: agentes generativos que transformam o seu negócio.  
+  *(#neuronex-ia)*  
 
-Redução de custos e menor impacto ambiental
+- **Bitrix24**  
+  Gestão inteligente integrada com IA e redes sociais para otimizar os seus processos.  
+  *(#bitrix24)*  
 
-Desenvolvimento Web
-Presença digital sólida e atual
+- **Soluções Energéticas**  
+  Energia limpa e eficiente para um futuro mais sustentável — com menos custos e menor impacto ambiental.  
+  *(#soluções-energéticas)*  
 
-Websites modernos e funcionais
+- **Desenvolvimento Web**  
+  Impulsione a sua marca com uma presença digital sólida e atual.  
+  *(#desenvolvimento-web)*  
 
-Redes Sociais
-Gestão estratégica de redes
+- **Redes Sociais**  
+  Ligue-se ao seu público de forma estratégica e inteligente.  
+  *(#redes-sociais)*  
 
-Conexão inteligente com o seu público
+---
 
-Neuronex (IA)
-Soluções de IA Personalizadas:
+### **Neuronex (IA)**  
+Agentes de IA personalizados para automatizar tarefas e otimizar os processos do seu negócio:  
 
-Agente de Atendimento: Respostas instantâneas, suporte multilíngue, integração com CRM
+- **Agente de Atendimento**  
+  Atendimento 24/7 com respostas inteligentes e personalizadas para os seus clientes.  
+  - Respostas instantâneas  
+  - Suporte multilíngue  
+  - Integração com CRM  
 
-Agente de Vendas: Qualificação de leads, follow-up automático, análise de oportunidades
+- **Agente de Vendas**  
+  Automatize o seu processo de vendas com um assistente inteligente.  
+  - Qualificação de leads  
+  - Follow-up automático  
+  - Análise de oportunidades  
 
-Agente de Processos: Automação de tarefas, gestão de documentos, integração com sistemas
+- **Agente de Processos**  
+  Otimize os seus processos internos com automação inteligente.  
+  - Automação de tarefas  
+  - Gestão de documentos  
+  - Integração com sistemas  
 
-Bitrix24
-Funcionalidades principais:
+📅 **[Agendar Demonstração Gratuita](#)**  
 
-CRM Avançado
+---
 
-Comunicação Integrada (chat, video, email)
+### **Bitrix24**  
+Uma plataforma completa para gestão de negócios, comunicação e colaboração.  
 
-Gestão de Tarefas e Projetos
+**Por que escolher o Bitrix24?**  
+- **CRM Avançado**  
+  Simplifique a gestão de clientes e vendas com eficácia.  
+- **Comunicação Integrada**  
+  Chat, videoconferência e e-mail numa única plataforma.  
+- **Gestão de Tarefas**  
+  Organize projetos e acompanhe o progresso da sua equipa.  
+- **Automação de Processos**  
+  Automatize tarefas repetitivas e aumente a sua produtividade.  
 
-Automação de Processos
+📊 **[Solicitar Demonstração](#)**  
 
-Dashboard de Performance
+**Dashboard do Bitrix24**  
+- Análise de desempenho em tempo real  
+- Gestão de projetos simplificada  
+- Colaboração em equipa integrada  
 
-Soluções Energéticas
-O que oferecemos:
+---
 
-Energia Solar
-Painéis fotovoltaicos de alta eficiência
+### **Soluções Energéticas**  
+Otimize o seu consumo e poupe com as nossas soluções energéticas completas:  
 
-Sistemas On-grid e Off-grid
+- **Energia Solar**  
+  - Painéis fotovoltaicos de alta eficiência  
+  - Sistemas on-grid e off-grid  
+  - Monitorização inteligente via app  
+  - Instalação e manutenção completas  
 
-Monitorização inteligente via App
+- **Energia Elétrica**  
+  - Consultoria para redução de custos  
+  - Melhores comercializadoras do mercado  
+  - Propostas personalizadas  
+  - Acompanhamento contínuo sem custos  
 
-Instalação e manutenção completas
+- **Gás Natural**  
+  - Melhores tarifas do mercado  
+  - Certificação de gás gratuita  
+  - Soluções para residências e empresas  
 
-Energia Elétrica
-Consultoria para redução de custos
+**Soluções Inteligentes**  
+- Análise de perfil de consumo  
+- Pesquisa das melhores ofertas  
+- Sem burocracia  
+- Acompanhamento contínuo e gratuito  
 
-Melhores comercializadoras do mercado
+---
 
-Propostas personalizadas
+### **Desenvolvimento Web**  
+Crie uma presença digital marcante com as nossas soluções:  
 
-Acompanhamento contínuo sem custos
+- **Sites Responsivos**  
+  Modernos e adaptáveis a qualquer dispositivo.  
+- **E-commerce**  
+  Lojas virtuais completas e seguras.  
+- **Apps Web**  
+  Aplicações personalizadas para o seu negócio.  
+- **SEO**  
+  Otimização para motores de busca.  
 
-Gás Natural
-Melhores tarifas
+📝 **[Solicitar Orçamento](#)**  
 
-Certificação de gás gratuita
+**A Nossa Experiência**  
+- Desenvolvimento com tecnologias modernas  
+- Design responsivo e intuitivo  
+- Performance otimizada  
 
-Produtos para residências e empresas
+---
 
-Soluções Inteligentes
-Análise de perfil de consumo
+### **Gestão de Redes Sociais**  
+Fortaleça a sua presença digital e envolva o seu público:  
 
-Pesquisa das melhores ofertas de mercado
+**Os Nossos Serviços**  
+- **Criação de Conteúdo**  
+  Conteúdo relevante e envolvente para a sua marca.  
+- **Gestão de Campanhas**  
+  Publicidade eficiente e mensurável.  
+- **Gestão de Comunidades**  
+  Interação e envolvimento com o seu público.  
+- **Relatórios e Análises**  
+  Métricas e insights para melhorar resultados.  
 
-Sem burocracia
+🚀 **[Comece Agora](#)**  
 
-Acompanhamento contínuo e gratuito
+**Resultados Comprovados**  
+- Maior envolvimento do público  
+- Crescimento de seguidores qualificados  
+- Alcance alargado da sua marca  
+--- 
 
+**Pronto para transformar o seu negócio?**  
+Contacte-nos hoje mesmo e descubra como as soluções da ScriptAI podem impulsionar o seu sucesso!  
+
+📞 **[Contactar](#)** | ✉️ **[Email](#)**
