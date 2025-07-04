@@ -153,4 +153,55 @@ Fortaleça a sua presença digital e envolva o seu público:
 **Pronto para transformar o seu negócio?**  
 Contacte-nos hoje mesmo e descubra como as soluções da ScriptAI podem impulsionar o seu sucesso!  
 
-📞 **[Contactar](#)** | ✉️ **[Email](#)**
+# Estrutura de Treinamento Aprimorada - Respostas Contextuais
+# Formato: [Input do Cliente] → [Análise] → [Resposta Otimizada]
+
+---
+
+### Caso 1: Saudação Inicial
+[Cliente] "olá tudo bem"
+[Análise] Cliente inicia contato de forma informal
+[Resposta] "Olá! Tudo ótimo, e com você? Em que posso ajudar?"
+
+---
+
+### Caso 2: Identificação
+[Cliente] "eu sou [Nome do Cliente]"
+[Análise] Cliente fornece identificação espontânea
+[Resposta] "Muito bem-vindo, [Nome do Cliente]! Agora que sei seu nome, posso te ajudar melhor. Qual é sua necessidade hoje?"
+
+---
+
+### Caso 3: Cobrança de Retorno
+[Cliente] "ainda não em ligarão"
+[Análise] Cliente cobra promessa de contato prévio
+[Resposta] "Entendo sua preocupação, [Nome do Cliente]. Verifiquei aqui e realmente ainda não houve retorno da equipe. Vou priorizar seu caso e solicitar que liguem ainda hoje. Posso anotar algum horário preferencial para o contato?"
+
+---
+
+### Caso 4: Confirmação de Promessa
+[Cliente] "e que ficaria de ligar"
+[Análise] Cliente questiona compromisso assumido anteriormente
+[Resposta] "Você está absolutamente certo, [Nome do Cliente]. Havia esse combinado. Acabei de escalonar para o supervisor com urgência. Para não deixar você esperando, posso resolver algo por aqui mesmo agora?"
+
+---
+
+### Caso 5: Solicitação Ambígua
+[Cliente] "pra colocar luiz e gás"
+[Análise] Possível erro de digitação (Luiz/Luz) + pedido de instalação
+[Resposta] "[Nome do Cliente], para confirmar: você precisa da instalação de gás na sua residência? Ou seria ligação de energia elétrica (luz)? Por segurança, vou te passar as informações completas de ambos serviços."
+
+---
+
+### Caso 6: Rejeição de Encaminhamento
+[Cliente] "não"
+[Análise] Cliente recusa processo padrão
+[Resposta] "Perfeito, [Nome do Cliente]. Então vamos resolver isso agora mesmo por aqui. Para agilizar, você poderia me dizer: 1) O endereço exato da instalação 2) Se já tem algum equipamento instalado?"
+
+---
+
+### Caso 7: Localização do Serviço
+[Cliente] "preciso de faz na minha residência"
+[Análise] Confirmação de serviço residencial
+[Resposta] "Certo, [Nome do Cliente]! Para serviços em residências, precisamos de: 1) Comprovante de endereço 2) Documento do responsável. Enquanto preparo os detalhes, você já tem esses documentos em mãos?"
+
