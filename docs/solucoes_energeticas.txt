@@ -1,68 +1,68 @@
 # Base de Conhecimento sobre Soluções Energéticas e Mercado Português
 
 [1] Parceria com comercializadoras
-A ScriptAI tem parceria com as melhores comercializadoras de energia do mercado. Sempre que um cliente mencionar interesse em energia, conta de luz, eletricidade ou tarifas, deve-se responder destacando essa parceria e perguntando se a necessidade é para residência ou empresa.
+A ScriptAI tem parceria com as melhores comercializadoras de energia do mercado. Sempre que um cliente mencionar interesse em energia, conta de luz, electricidade ou tarifas, deve-se responder destacando essa parceria e perguntando se a necessidade é para habitação ou empresa.
 
 [2] Redução de custos com energia
-Se o cliente disser que a conta de luz está cara ou deseja reduzir custos com energia, Você deve explicar que a ScriptAI ajuda a encontrar soluções mais económicas através dos parceiros. Deve perguntar se o consumo é residencial ou empresarial para poder orientar melhor.
+Se o cliente disser que a conta de luz está cara ou deseja reduzir custos com energia, deve explicar que a ScriptAI ajuda a encontrar soluções mais económicas através dos parceiros. Deve perguntar se o consumo é habitacional ou empresarial para poder orientar melhor.
 
 [3] Mudança de casa ou abertura de empresa
-Quando o cliente disser que está a mudar de casa ou abrir uma empresa, e procura opções de fornecimento de energia, Você deve acolher a situação com entusiasmo e indicar que pode apresentar as melhores opções com base na zona e no tipo de imóvel.
+Quando o cliente disser que está a mudar de casa ou abrir uma empresa, e procura opções de fornecimento de energia, deve acolher a situação com entusiasmo e indicar que pode apresentar as melhores opções com base na zona e no tipo de imóvel.
 
-[4] Contato indicado por terceiros
-Se o cliente disser que foi indicado ou recebeu um número da ScriptAI para falar sobre energia, deve-se responder com cordialidade, dizer que é um dos canais da equipa e perguntar se ele já tem alguma fatura para análise ou se deseja apenas saber mais sobre os serviços.
+[4] Contacto indicado por terceiros
+Se o cliente disser que foi indicado ou recebeu um número da ScriptAI para falar sobre energia, deve-se responder com cordialidade, dizer que é um dos canais da equipa e perguntar se ele já tem alguma factura para análise ou se deseja apenas saber mais sobre os serviços.
 
 [5] Venda de energia ou instalação
-Caso o cliente pergunte se a ScriptAI vende energia ou instala painéis, Você deve explicar com clareza que não vendemos diretamente nem fazemos instalações, mas que trabalhamos com parceiros de confiança que fornecem energia ou atuam na área técnica.
+Caso o cliente pergunte se a ScriptAI vende energia ou instala painéis, deve explicar com clareza que não vendemos directamente nem fazemos instalações, mas que trabalhamos com parceiros de confiança que fornecem energia ou actuam na área técnica.
 
 [6] Diferenciais da ScriptAI
 Sempre que possível, as respostas devem ser personalizadas, destacando os diferenciais da ScriptAI: personalização da solução, agilidade no atendimento e parceria com fornecedores de confiança.
 
 [7] Tom de linguagem e limites
-A linguagem deve ser clara e cordial, usando emojis de forma moderada como 😊 para manter o tom simpático e profissional. Você nunca deve mencionar preços ou condições comerciais diretamente, e em caso de dúvida, encaminhar para a equipa comercial.
+A linguagem deve ser clara e cordial, usando emojis de forma moderada como 😊 para manter o tom simpático e profissional. Nunca deve mencionar preços ou condições comerciais directamente, e em caso de dúvida, encaminhar para a equipa comercial.
 
 ## 1. Introdução às Soluções Energéticas
-As **Soluções Energéticas** são fundamentais para promover inovação, eficiência e sustentabilidade. Oferecemos uma ampla gama de soluções para residências e empresas, incluindo:
-- **Energia Solar:** Painéis solares para geração de eletricidade limpa.
+As **Soluções Energéticas** são fundamentais para promover inovação, eficiência e sustentabilidade. Oferecemos uma ampla gama de soluções para habitações e empresas, incluindo:
+- **Energia Solar:** Painéis solares para geração de electricidade limpa.
 - **Gás Natural:** Distribuição de gás para substituir combustíveis fósseis.
-- **Energia Elétrica Convencional:** Fornecimento com tarifas competitivas.
+- **Energia Eléctrica Convencional:** Fornecimento com tarifas competitivas.
 - **Eficiência Energética:** Tecnologias para reduzir consumo sem comprometer desempenho.
 
 ## 2. Benefícios das Soluções Energéticas
 1. **Redução de Custos:** Economia nas contas de energia e gás.
 2. **Sustentabilidade:** Redução da pegada de carbono.
 3. **Incentivos Fiscais:** Subsídios para soluções sustentáveis.
-4. **Automação:** Monitoramento em tempo real via Agentes de IA.
-5. **Escalabilidade:** Adaptável a residências e empresas.
+4. **Automatização:** Monitorização em tempo real via Agentes de IA.
+5. **Escalabilidade:** Adaptável a habitações e empresas.
 
 ## 3. Tipos de Soluções Oferecidas
 ### 3.1. Energia Solar
-- **Residencial:** Painéis solares em telhados.
+- **Habitacional:** Painéis solares em telhados.
 - **Empresarial:** Grandes instalações para indústrias.
 - **Benefícios:** ROI rápido e incentivos fiscais.
 
 ### 3.2. Gás Natural
-- **Residencial:** Substituição de botijões por gás canalizado.
+- **Habitacional:** Substituição de botijas por gás canalizado.
 - **Empresarial:** Fornecimento para processos industriais.
 - **Benefícios:** Segurança e menor custo operacional.
 
-### 3.3. Energia Elétrica Convencional
-- **Residencial:** Planos flexíveis.
+### 3.3. Energia Eléctrica Convencional
+- **Habitacional:** Planos flexíveis.
 - **Empresarial:** Contratos corporativos.
 - **Benefícios:** Estabilidade no fornecimento.
 
 ### 3.4. Eficiência Energética
-- Auditorias e tecnologias como LED e automação.
+- Auditorias e tecnologias como LED e automatização.
 - **Benefícios:** Redução de até 30% no consumo.
 
 ## 4. Casos de Uso
-### 4.1. Residencial
+### 4.1. Habitacional
 - Famílias reduzem contas em até 70% com energia solar.
-- Monitoramento inteligente para otimizar consumo.
+- Monitorização inteligente para optimizar consumo.
 
 ### 4.2. Empresarial
 - Indústrias reduzem custos operacionais.
-- Escritórios melhoram eficiência com automação.
+- Escritórios melhoram eficiência com automatização.
 
 ## 5. Sustentabilidade e Impacto Ambiental
 - Redução de emissões de CO2.
@@ -70,29 +70,29 @@ As **Soluções Energéticas** são fundamentais para promover inovação, efici
 - Conformidade com regulamentações ambientais.
 
 ## 6. Como Adquirir Soluções
-1. **Consulta Inicial:** Contato via WhatsApp ou site.
+1. **Consulta Inicial:** Contacto via WhatsApp ou site.
 2. **Análise de Necessidades:** Avaliação do perfil de consumo.
-3. **Cotação Personalizada:** Proposta adaptada.
+3. **Orçamento Personalizado:** Proposta adaptada.
 4. **Assinatura e Contrato:** Formalização.
 5. **Suporte Contínuo:** Assistência técnica.
 
 ## 7. Processo de Implementação
 - Instalação de painéis solares ou sistemas de gás.
-- Configuração de automação via IA.
+- Configuração de automatização via IA.
 - Manutenção preventiva e suporte 24/7.
 
 ## 8. Perguntas Frequentes (FAQs)
 ### 8.1. Sobre Serviços
 - **"Quais as vantagens da energia solar?"**  
   Resposta: Economia a longo prazo e redução de emissões.
-- **"Posso combinar gás e energia elétrica?"**  
+- **"Posso combinar gás e energia eléctrica?"**  
   Resposta: Sim, pacotes combinados estão disponíveis.
 
 ### 8.2. Sobre Migração
 - **"A mudança de fornecedor é complicada?"**  
   Resposta: Não, é simples e sem interrupção.
-- **"Há penalidades por rescindir contrato?"**  
-  Resposta: Depende das condições atuais.
+- **"Há penalizações por rescindir contrato?"**  
+  Resposta: Depende das condições actuais.
 
 ### 8.3. Sobre Sustentabilidade
 - **"Planos verdes estão disponíveis?"**  
@@ -101,18 +101,18 @@ As **Soluções Energéticas** são fundamentais para promover inovação, efici
 ## 9. Fluxo de Qualificação de Leads
 ### 9.1. Perguntas Iniciais
 - Nome completo, telemóvel e email.
-- Fatura atual para análise.
-- Provedor de serviço atual.
+- Factura actual para análise.
+- Fornecedor de serviço actual.
 
 ### 9.2. Perguntas de Profundidade
-- Desafios com o serviço atual.
+- Desafios com o serviço actual.
 - Interesse em planos sustentáveis.
-- Número de usuários do serviço.
+- Número de utilizadores do serviço.
 
-## 10. Exemplo de Interação com IA
+## 10. Exemplo de Interacção com IA
 **Cliente:** "Olá, quero saber sobre energia solar."  
-**IA:** "Boa tarde! Para ajudar, precisamos da sua fatura e dados de contato. Pode compartilhar?"  
-**Cliente:** "Aqui está. Meu nome é Ana, +351 912 345 678, ana@email.com."  
+**IA:** "Boa tarde! Para ajudar, precisamos da sua factura e dados de contacto. Pode partilhar?"  
+**Cliente:** "Aqui está. O meu nome é Ana, +351 912 345 678, ana@email.com."  
 **IA:** "Obrigado! Analisaremos e enviaremos uma proposta em breve."
 
 ## 11. Mercado Português e Comercializadoras
@@ -121,7 +121,7 @@ As **Soluções Energéticas** são fundamentais para promover inovação, efici
 O mercado energético português está liberalizado. Isso significa que pode escolher a comercializadora que melhor se adapta ao seu perfil de consumo.
 
 **Vantagens**:
-- Redução imediata da fatura de energia; 
+- Redução imediata da factura de energia; 
 - Planos personalizados (fixo, variável, bi-horário, etc.); 
 - Sem interrupção no fornecimento; 
 
@@ -129,29 +129,29 @@ O mercado energético português está liberalizado. Isso significa que pode esc
 Portugal é um dos países com maior índice de radiação solar da Europa. Investir em painéis solares é garantir economia e sustentabilidade. 
 
 **Benefícios**: 
-- Redução até 70% na fatura de eletricidade 
+- Redução até 70% na factura de electricidade 
 - Retorno sobre o investimento em poucos anos 
 - Valorização do imóvel 
 - Contribuição para a redução de emissões de CO₂ 
 
 #### Tipos de soluções que oferecemos: 
-- Sistemas de Autoconsumo Residencial 
+- Sistemas de Autoconsumo Habitacional 
 - Sistemas de Autoconsumo para Empresas e Indústria 
 - Instalações com ou sem baterias
 - Sistemas On-grid (ligados à rede) e Off-grid (independentes da rede)
 
 ### 11.1. EDP Comercial
-- **Segmentos:** Residencial e empresarial.
+- **Segmentos:** Habitacional e empresarial.
 - **Serviços:** Energia solar, convencional e gás natural.
 - **Vantagens:** Plataforma digital e suporte 24/7.
 
 ### 11.2. Endesa
-- **Segmentos:** Residencial e empresarial.
+- **Segmentos:** Habitacional e empresarial.
 - **Serviços:** Energia solar com financiamento facilitado.
 - **Vantagens:** Inovação e programas de fidelidade.
 
 ### 11.3. Repsol
-- **Segmentos:** Residencial.
+- **Segmentos:** Habitacional.
 - **Serviços:** Energia convencional e gás natural.
 - **Vantagens:** Foco em sustentabilidade.
 

@@ -9,33 +9,33 @@
 
 Somos especialistas certificados na implementação e otimização do Bitrix24, a plataforma de gestão empresarial mais completa do mundo. Com anos de experiência e centenas de implementações bem-sucedidas, ajudamos empresas portuguesas a digitalizar e otimizar os seus processos de forma eficiente e sustentável.  
 
-**Nossa Missão**  
-A nossa missão é democratizar o acesso a ferramentas empresariais de classe mundial, permitindo que empresas de todos os tamanhos tenham acesso às mesmas tecnologias avançadas que as grandes corporações utilizam para maximizar a produtividade.  
+**A Nossa Missão**  
+A nossa missão é democratizar o acesso a ferramentas empresariais de classe mundial, permitindo que empresas de todos os tamanhos tenham acesso às mesmas tecnologias avançadas que as grandes empresas utilizam para maximizar a produtividade.  
 
 ---
 
 ### **O Problema que Resolvemos**  
-**A Realidade das Empresas Hoje**  
+**A Realidade das Empresas Atualmente**  
 
 - **Ferramentas Dispersas e Caras**  
 - **Comunicação Ineficiente**  
 - **Processos Desorganizados**  
 - **Custos Crescentes**  
 
-As empresas modernas enfrentam o desafio de gerir dezenas de ferramentas, com altos custos, perda de tempo e dados fragmentados.  
+As empresas modernas enfrentam o desafio de gerir dezenas de ferramentas, com custos elevados, perda de tempo e dados fragmentados.  
 
 ---
 
 ### **A Solução: Bitrix24**  
 **Uma Plataforma, Todas as Soluções**  
 
-O Bitrix24 integra todas as ferramentas que a sua empresa precisa numa solução única, poderosa e económica.  
+O Bitrix24 integra todas as ferramentas que a sua empresa necessita numa única solução, poderosa e económica.  
 
 **O Que Oferecemos:**  
-- Gestão Empresarial Completa (CRM, Projetos, RH, Colaboração)  
+- Gestão Empresarial Completa (CRM, Projetos, Recursos Humanos, Colaboração)  
 - Economia Significativa em Licenciamento de Software  
 - Produtividade Maximizada com Automação de Processos  
-- Segurança e Conformidade com RGPD  
+- Segurança e Conformidade com o RGPD  
 
 ---
 
@@ -50,7 +50,7 @@ O Bitrix24 integra todas as ferramentas que a sua empresa precisa numa solução
 **Resultados típicos:**  
 ✔️ Aumento na conversão de leads  
 ✔️ Redução no ciclo de vendas  
-✔️ Aumento no ticket médio  
+✔️ Aumento no valor médio das vendas  
 
 #### **Comunicação e Colaboração**  
 - Chat corporativo  
@@ -68,7 +68,7 @@ O Bitrix24 integra todas as ferramentas que a sua empresa precisa numa solução
 #### **Gestão de Projetos e Tarefas**  
 - Gráficos de Gantt  
 - Gestão de recursos  
-- Templates de projetos  
+- Modelos de projetos  
 - Automação de workflows  
 - Relatórios de desempenho em tempo real  
 
@@ -77,18 +77,18 @@ O Bitrix24 integra todas as ferramentas que a sua empresa precisa numa solução
 ✔️ Melhor cumprimento de prazos  
 ✔️ Menos retrabalho  
 
-#### **Sites e E-commerce**  
-- Website Builder com templates responsivos  
-- Loja online com gestão de stocks  
+#### **Sites e Comércio Eletrónico**  
+- Construtor de websites com modelos responsivos  
+- Loja online com gestão de stock  
 - SEO integrado  
-- Analytics completo  
+- Análise completa  
 - Integração total com o CRM  
 
-#### **Marketing Automation**  
+#### **Automação de Marketing**  
 - Campanhas de email marketing automatizadas  
 - Segmentação de públicos  
-- Lead Scoring  
-- Nurturing Campaigns  
+- Pontuação de leads  
+- Campanhas de nurturing  
 - Integração total com vendas e CRM  
 
 ---
@@ -96,40 +96,40 @@ O Bitrix24 integra todas as ferramentas que a sua empresa precisa numa solução
 ### **Casos de Sucesso**  
 - **Empresa de Consultoria:** Redução de custos e aumento da produtividade  
 - **Agência de Marketing:** Menos atrasos, maior satisfação do cliente  
-- **E-commerce:** Aumento das vendas e melhoria no suporte ao cliente  
+- **Comércio Eletrónico:** Aumento das vendas e melhoria no apoio ao cliente  
 
 **ROI Médio dos Clientes:**  
 - **Primeiros 6 meses:** Redução de custos e aumento de produtividade  
-- **Após 1 ano:** ROI médio de 300%, com payback em 3 a 6 meses  
+- **Após 1 ano:** ROI médio de 300%, com retorno do investimento em 3 a 6 meses  
 
 ---
 
-### **Implementação e Suporte**  
+### **Implementação e Apoio**  
 **Etapas:**  
 1. **Semana 1:** Planeamento  
-2. **Semana 2:** Setup Técnico  
+2. **Semana 2:** Configuração Técnica  
 3. **Semana 3:** Formação  
-4. **Semana 4:** Go-Live  
+4. **Semana 4:** Implementação  
 
-**Suporte Contínuo:**  
+**Apoio Contínuo:**  
 - Atendimento local em português  
 - Formação contínua  
 - Consultoria estratégica pós-implementação  
 
 ---
 
-### **Diferenciais Competitivos**  
-**Por que escolher o Bitrix24?**  
-- **Completude**  
+### **Vantagens Competitivas**  
+**Porquê escolher o Bitrix24?**  
+- **Integralidade**  
 - **Preço competitivo**  
-- **Facilidade de uso**  
+- **Facilidade de utilização**  
 - **Flexibilidade**  
-- **Suporte local em português**  
+- **Apoio local em português**  
 
 **Comparações:**  
-- **Bitrix24 vs Microsoft 365:** Mais barato, com CRM e projetos incluídos  
+- **Bitrix24 vs Microsoft 365:** Mais económico, com CRM e projetos incluídos  
 - **Bitrix24 vs Salesforce + Slack:** Integração nativa e menor complexidade  
-- **Bitrix24 vs Google Workspace:** Mais funcionalidades por menos custo  
+- **Bitrix24 vs Google Workspace:** Mais funcionalidades por menor custo  
 
 ---
 
@@ -141,11 +141,11 @@ O Bitrix24 integra todas as ferramentas que a sua empresa precisa numa solução
 **Garantias:**  
 - Satisfação garantida  
 - Implementação sem riscos  
-- Suporte dedicado  
+- Apoio dedicado  
 
 ---
 
-### **Checklist de Avaliação (Auto-Diagnóstico)**  
+### **Lista de Verificação de Avaliação (Auto-Diagnóstico)**  
 
 **Comunicação:**  
 - [ ] Emails internos em excesso  
@@ -154,7 +154,7 @@ O Bitrix24 integra todas as ferramentas que a sua empresa precisa numa solução
 
 **Vendas:**  
 - [ ] Leads perdidos por falta de follow-up  
-- [ ] Falta de previsões de vendas confiáveis  
+- [ ] Falta de previsões de vendas fiáveis  
 
 **Projetos:**  
 - [ ] Atrasos frequentes  
@@ -165,7 +165,7 @@ O Bitrix24 integra todas as ferramentas que a sua empresa precisa numa solução
 - [ ] Integrações complexas  
 - [ ] Formação constante em novas ferramentas  
 
-> **Se marcou 2 ou mais itens em qualquer categoria, o Bitrix24 pode transformar a sua gestão empresarial.**  
+> **Se assinalou 2 ou mais itens em qualquer categoria, o Bitrix24 pode transformar a gestão da sua empresa.**  
 
 ---
 
