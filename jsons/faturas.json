@@ -1,0 +1,46 @@
+[
+  {
+    "text": "O que procurar nas faturas:1. Potência contratada (eletricidade) Nome comum: “Potência contratada” ou “Termo fixo”.Onde encontrar: No quadro-resumo de dados do contrato ou na discriminação da fatura (geralmente no topo ou numa coluna lateral).Valor típico: Algo como 3,45 kVA, 6,9 kVA, etc.",
+    "metadata": { "tema": "Consulta das faturas" }
+  },
+  {
+    "text": "O que procurar nas faturas:2. Consumo em kWh (eletricidade e gás)Nome comum: “Consumo”, “Energia ativa”, “Energia consumida”.Onde encontrar: No resumo da fatura, geralmente em linhas separadas por período (vazio/ponta/cheias para bihorário) ou só um total para tarifa simples.",
+    "metadata": { "tema": "Consulta das faturas" }
+  },
+  {
+    "text": "O que procurar nas faturas:3. Tipo de tarifa (simples ou bihorária)Nome comum: “Tipo de tarifa”, “Tarifa horária”, “Plano contratado”.Onde encontrar: Normalmente aparece no quadro de identificação do contrato (junto à potência).Dica rápida: Se houver valores diferentes para “vazio” e “fora de vazio”, é bihorária. Se for um só valor de kWh, é simples.",
+    "metadata": { "tema": "Consulta das faturas" }
+  },
+  {
+    "text": "O que procurar nas faturas:4. CPE (Código de Ponto de Entrega – eletricidade) Nome comum: “CPE” (começa com PT, tem vários números e termina com 2 letras maiúsculas).Onde encontrar: No início ou fim da fatura, normalmente junto aos dados do local de consumo. É um código tipo PT001234567890123456789AB.",
+    "metadata": { "tema": "Consulta das faturas" }
+  },
+  {
+    "text": "O que procurar nas faturas:5. CUI (Código Universal de Instalação – gás)Nome comum: “CUI” (começa com PT também).Onde encontrar: Na fatura de gás, geralmente no mesmo local do CPE na elétrica, nos dados técnicos do contrato.",
+    "metadata": { "tema": "Consulta das faturas" }
+  },
+  {
+    "text": "O que procurar nas faturas: 6. Acesso às redes (custos regulados) Nome comum: “Acesso às redes”, “Encargos de rede”, ou incluído em “Termo fixo” e “Termo de energia”. Onde encontrar: Na discriminação da fatura, muitas vezes mesclado com o preço da energia.",
+    "metadata": { "tema": "Consulta das faturas" }
+  },
+  {
+    "text": "O que procurar nas faturas: Específico por comercializadora: Gold Energy: Usa uma tabela um pouco confusa com potencia, termo fixo de acesso às redes, consumo, .CPE aparece bem visível no topo da segunda página. Tipo de tarifa costuma vir como “Tarifa: Simples/Bihorária” mas a divisão de dados na tabela vai ser sempre em 'vaizo, ponta e cheia', se for 'simples' vai aparecer as três linhas com o mesmo valor, se for bihorária vai aparecer 'ponta' e 'cheia' com o mesmo valor e 'vazio' com um valor diferente.",
+    "metadata": { "tema": "Consulta das faturas" }
+  },
+  {
+    "text": "O que procurar nas faturas: EDP Comercial: Muito detalhada. Potência e tipo de tarifa estão logo na primeira página. Discrimina por período horário se for bihorária. CPE sempre aparece nos dados do contrato.",
+    "metadata": { "tema": "Consulta das faturas" }
+  },
+  {
+    "text": "O que procurar nas faturas: Endesa: CPE aparece no topo ou rodapé.Identifica claramente se é tarifa simples ou horária.Tem gráfico de consumo mensal às vezes. Potência vem separado de 'Termo fixo'",
+    "metadata": { "tema": "Consulta das faturas" }
+  },
+  {
+    "text": "O que procurar nas faturas: Repsol: Faturas são um pouco mais “comerciais”, mas os dados técnicos estão presentes.Tipo de tarifa pode estar meio escondido, mas o número de kWh em períodos diferentes indica bihorária.CPE aparece nos dados do contrato.",
+    "metadata": { "tema": "Consulta das faturas" }
+  },
+  {
+    "text": "O que procurar nas faturas:MEO Energia Visual moderno, mas os dados técnicos às vezes estão compactados. Verifique uma área chamada “Detalhes do contrato”. Tipo de tarifa geralmente vem com o nome do plano (ex: “MEO Energia Simples”). CPE e CUI aparecem no topo ou rodapé.",
+    "metadata": { "tema": "Consulta das faturas" }
+  }
+]
